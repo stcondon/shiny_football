@@ -11,7 +11,7 @@ simpleTable <- function(df) {
               season_mid$Draws <- sum(temp$FTR == "D")
               season_mid$Scored <- sum(temp$FTHG)
               season_mid$Conceded <- sum(temp$FTAG)
-              
+
               ## and repeat
               temp <- subset(df, AwayTeam == teams[n])
               #season_mid$games <- season_mid$games + nrow(temp)
@@ -20,7 +20,7 @@ simpleTable <- function(df) {
               season_mid$Draws <- season_mid$Draws + sum(temp$FTR == "D")
               season_mid$Scored <- season_mid$Scored + sum(temp$FTAG)
               season_mid$Conceded <- season_mid$Conceded + sum(temp$FTHG)
-              
+
               season_mid$points<-season_mid$Wins*3 + season_mid$Draws
               if(exists('mid_season') && nrow(mid_season) < length(teams)) {
                      mid_season <- rbind(mid_season, season_mid)
@@ -66,7 +66,7 @@ progress <- function(country_frame, team, date) {
        df <- df[order(df$Date),]
        df$Points <- as.numeric(df$Points)
        df[,c(2:length(df), 1)]
-       
+
 }
 
 rel_rank <- function(progress_frame, pre_table, post_table) {
@@ -145,6 +145,6 @@ h2h <- function(team1, team2, inputFrame) {
        df <- subset(df, AwayTeam %in% teams)
        for(y in years) {
               temp <- df[df$year == y,]
-              
+
        }
 }

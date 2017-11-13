@@ -18,5 +18,6 @@ forklift <- function(country = 'England', tier = '1',
   patron <- paste(country, tier, re, sep = '_')
   temp <- list.files(path = paste('data/',tolower(country),'/', sep = ''),
                      pattern= patron)
-  # myfiles <- lapply(temp, read.delim)
+  # myfiles <- lapply(paste('data/',tolower(country),'/', temp, sep = ''),
+                    # read.delim)
 }

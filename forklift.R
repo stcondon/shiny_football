@@ -14,10 +14,17 @@ forklift <- function(country = 'England', tier = '1',
   } else if(as.numeric(first_year) < 2010 && as.numeric(last_year) >= 2010) {
     re <- paste('(200[', fld, '-]|201[0-', lld,
                 '])_[[:digit:]]{4}.csv$', sep = '')
+  } else {
+
   }
   patron <- paste(country, tier, re, sep = '_')
   temp <- list.files(path = paste('data/',tolower(country),'/', sep = ''),
                      pattern= patron)
-  # myfiles <- lapply(paste('data/',tolower(country),'/', temp, sep = ''),
-                    # read.delim)
+  myfiles <- lapply(paste('data/',tolower(country),'/', temp, sep = ''),
+                    read.csv)
+  # list2env(
+  #   lapply(setNames(paste('data/',tolower(country),'/', temp, sep = ''),
+  #                   make.names(gsub("*.csv$", "", temp))),
+  #          read.csv), envir = environment())
+  # ^^ maybe useful (also .GlobalEnv), let's see if better keeping in list
 }

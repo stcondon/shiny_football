@@ -15,7 +15,8 @@ forklift <- function(country = 'England', tier = '1',
     re <- paste('(200[', fld, '-]|201[0-', lld,
                 '])_[[:digit:]]{4}.csv$', sep = '')
   } else {
-
+    re <- paste('(', substr(first_year,1,3), '[', fld, '-', lld,
+                '])_[[:digit:]]{4}.csv$', sep = '')
   }
   patron <- paste(country, tier, re, sep = '_')
   temp <- list.files(path = paste('data/',tolower(country),'/', sep = ''),

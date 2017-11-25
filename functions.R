@@ -1,3 +1,5 @@
+## Build something that takes inputs and converts to list of lists
+## maybe turn internal lists to data.tables?
 forklift <- function(country = 'England', tier = '1',
                      first_year = '1993', last_year = '1993') {
   # can't decide whether to make yrs strings and coerce to numeric

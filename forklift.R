@@ -21,8 +21,7 @@ forklift <- function(country = 'England', tier = '1',
   patron <- paste(country, tier, re, sep = '_')
   temp <- list.files(path = paste('data/',tolower(country),'/', sep = ''),
                      pattern= patron)
-  myfiles <- lapply(paste('data/',tolower(country),'/', temp, sep = ''),
-                    read.csv)
+  lapply(paste('data/',tolower(country),'/', temp, sep = ''), read.csv)
   # list2env(
   #   lapply(setNames(paste('data/',tolower(country),'/', temp, sep = ''),
   #                   make.names(gsub("*.csv$", "", temp))),

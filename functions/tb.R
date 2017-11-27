@@ -1,5 +1,6 @@
 library(data.table)
 tb <- function(dt, country = 'England') {
+  ## Cut down table to just full time goals and results
   t <- rbindlist(list(dt[FTR == 'H', .(p = uniqueN(AwayTeam) * 3),
                          by = 'HomeTeam'],
                       dt[FTR == 'A', .(p = uniqueN(HomeTeam) * 3),

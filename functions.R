@@ -29,6 +29,7 @@ lapply(paste('data/',tolower(country),'/', temp, sep = ''), fread)
 # list2env(
 #   lapply(setNames(paste('data/',tolower(country),'/', temp, sep = ''),
 #                   make.names(gsub("*.csv$", "", temp))),
-#          read.csv), envir = environment())
+##          read.csv), envir = environment()) # ONE
+##          fread), envir = environemnt # OR THE OTHER
 # ^^ maybe useful (also .GlobalEnv), let's see if better keeping in list
 }

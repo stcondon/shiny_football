@@ -9,7 +9,7 @@ tb <- function(dt, country = 'England') {
                       dt[FTR == 'D', .(p = uniqueN(HomeTeam)),
                          by = 'AwayTeam']))[,lapply(.SD,sum,na.rm=TRUE),
                                             by=HomeTeam]
-  # if(sum(duplicated(t$p)) > 1) {} else {
-  #   t[order(p,decreasing = TRUE)]
-  # }
+  if(sum(duplicated(t$p)) > 1) {} else {
+    t[order(p,decreasing = TRUE)]
+  }
 }

@@ -33,3 +33,4 @@ lapply(paste('data/',tolower(country),'/', temp, sep = ''), fread)
 ##          fread), envir = environemnt # OR THE OTHER
 # ^^ maybe useful (also .GlobalEnv), let's see if better keeping in list
 }
+tb <- function(dt) {}

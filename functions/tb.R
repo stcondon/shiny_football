@@ -19,8 +19,18 @@ tb <- function(dt, country = 'England') {
                               dt[,sum(FTHG), by = 'AwayTeam']))
              [,lapply(.SD, sum, na.rm = TRUE), by=HomeTeam], by = 'HomeTeam',
              all = TRUE)
-  if(country %in% c('Spain')) {
+  if(country %in% c('Spain') & sum(duplicated(t$p)) > 0) {
       ## h2h function}
+    temp <- t$p[duplicated(t$p)]
+    t <- rbindlist(list(dt[FTR == 'H', .(p = uniqueN(AwayTeam) * 3),
+                           by = 'HomeTeam'],
+                        dt[FTR == 'A', .(p = uniqueN(HomeTeam) * 3),
+                           by = 'AwayTeam'],
+                        dt[FTR == 'D', .(p = uniqueN(AwayTeam)),
+                           by = 'HomeTeam'],
+                        dt[FTR == 'D', .(p = uniqueN(HomeTeam)),
+                           by = 'AwayTeam']))[,lapply(.SD,sum,na.rm=TRUE),
+                                              by=HomeTeam]
   } else {
     t[order(p,scored - conceded, scored, decreasing = TRUE)]
   }

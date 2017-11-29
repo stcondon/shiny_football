@@ -22,16 +22,24 @@ tb <- function(dt, country = 'England') {
   if(country %in% c('Spain') & sum(duplicated(t$p)) > 0) {
       ## h2h function}
     temp <- t$p[duplicated(t$p)] ## duplicated doesn't return both, get p first
-    teams <- t[p %in% temp, HomeTeam]
-    t <- rbindlist(list(dt[FTR == 'H', .(p = uniqueN(AwayTeam) * 3),
-                           by = 'HomeTeam'],
-                        dt[FTR == 'A', .(p = uniqueN(HomeTeam) * 3),
-                           by = 'AwayTeam'],
-                        dt[FTR == 'D', .(p = uniqueN(AwayTeam)),
-                           by = 'HomeTeam'],
-                        dt[FTR == 'D', .(p = uniqueN(HomeTeam)),
-                           by = 'AwayTeam']))[,lapply(.SD,sum,na.rm=TRUE),
-                                              by=HomeTeam]
+    teams <- t[p %in% temp, HomeTeam:p]
+    for(tie in unique(teams[,p])) {
+      ## limit to tied teams
+      temp <- dt[(HomeTeam == teams[p == tie,HomeTeam][1]
+                  & AwayTeam == teams[p == tie,HomeTeam][2])
+                 | (HomeTeam == teams[p == tie,HomeTeam][2]
+                    & AwayTeam == teams[p == tie,HomeTeam][1])]
+      ## create mini table
+    }
+    temp <- rbindlist(list(dt[FTR == 'H', .(p = uniqueN(AwayTeam) * 3),
+                              by = 'HomeTeam'],
+                           dt[FTR == 'A', .(p = uniqueN(HomeTeam) * 3),
+                              by = 'AwayTeam'],
+                           dt[FTR == 'D', .(p = uniqueN(AwayTeam)),
+                              by = 'HomeTeam'],
+                           dt[FTR == 'D', .(p = uniqueN(HomeTeam)),
+                              by = 'AwayTeam']))[,lapply(.SD,sum,na.rm=TRUE),
+                                                 by=HomeTeam]
   } else {
     t[order(p,scored - conceded, scored, decreasing = TRUE)]
   }

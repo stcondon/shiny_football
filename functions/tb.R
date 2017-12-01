@@ -25,21 +25,13 @@ tb <- function(dt, country = 'England') {
     teams <- t[p %in% temp, HomeTeam:p]
     for(tie in unique(teams[,p])) {
       ## limit to tied teams
-      temp <- dt[(HomeTeam == teams[p == tie,HomeTeam][1]
-                  & AwayTeam == teams[p == tie,HomeTeam][2])
-                 | (HomeTeam == teams[p == tie,HomeTeam][2]
-                    & AwayTeam == teams[p == tie,HomeTeam][1])]
+      temp <- dt[(HomeTeam %in% teams[p == tie, HomeTeam]
+                  & AwayTeam %in% teams[p == tie,HomeTeam])
+                 |(HomeTeam %in% teams[p == tie, HomeTeam]
+                   & AwayTeam %in% teams[p == tie, HomeTeam])]
       ## create mini table
+
     }
-    temp <- rbindlist(list(dt[FTR == 'H', .(p = uniqueN(AwayTeam) * 3),
-                              by = 'HomeTeam'],
-                           dt[FTR == 'A', .(p = uniqueN(HomeTeam) * 3),
-                              by = 'AwayTeam'],
-                           dt[FTR == 'D', .(p = uniqueN(AwayTeam)),
-                              by = 'HomeTeam'],
-                           dt[FTR == 'D', .(p = uniqueN(HomeTeam)),
-                              by = 'AwayTeam']))[,lapply(.SD,sum,na.rm=TRUE),
-                                                 by=HomeTeam]
   } else {
     t[order(p,scored - conceded, scored, decreasing = TRUE)]
   }

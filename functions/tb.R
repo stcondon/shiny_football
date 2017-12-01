@@ -9,15 +9,14 @@ tb <- function(dt, country = 'England') {
                       dt[FTR == 'D', .(p = uniqueN(AwayTeam)),
                          by = 'HomeTeam'],
                       dt[FTR == 'D', .(p = uniqueN(HomeTeam)),
-                         by = 'AwayTeam']))[,lapply(.SD,sum,na.rm=TRUE),
-                                            by=HomeTeam]
+                         by = 'AwayTeam']))[,.(p = sum(p)), by = 'HomeTeam']
   t <- merge(t,rbindlist(list(dt[, .(scored = sum(FTHG)), by = 'HomeTeam'],
                               dt[,sum(FTAG), by = 'AwayTeam']))
-             [,lapply(.SD, sum, na.rm = TRUE), by=HomeTeam], by = 'HomeTeam',
+             [,.(scored = sum(scored)), by = 'HomeTeam'], by = 'HomeTeam',
              all = TRUE)
   t <- merge(t,rbindlist(list(dt[, .(conceded = sum(FTAG)), by = 'HomeTeam'],
                               dt[,sum(FTHG), by = 'AwayTeam']))
-             [,lapply(.SD, sum, na.rm = TRUE), by=HomeTeam], by = 'HomeTeam',
+             [,.(conceded = sum(conceded)), by = 'HomeTeam'], by = 'HomeTeam',
              all = TRUE)
   if(country %in% c('Spain') & sum(duplicated(t$p)) > 0) {
       ## h2h function}

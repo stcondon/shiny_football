@@ -22,6 +22,7 @@ tb <- function(dt, country = 'England') {
       ## h2h function}
     temp <- t$p[duplicated(t$p)] ## duplicated doesn't return both, get p first
     teams <- t[p %in% temp, HomeTeam:p]
+    teams[,tb := 0]
     for(tie in unique(teams[,p])) {
       ## limit to tied teams
       temp <- dt[(HomeTeam %in% teams[p == tie, HomeTeam]

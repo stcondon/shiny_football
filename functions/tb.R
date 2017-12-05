@@ -41,6 +41,7 @@ tb <- function(dt, country = 'England') {
                              temp[FTR == 'D', .(p = uniqueN(HomeTeam)),
                                 by = 'AwayTeam']))[,.(p = sum(p)),
                                                    by = 'HomeTeam']
+      # if(nrow(mini) > 1 & sum(duplicated(mini$p)) > 0) {
       if(nrow(mini) > 1) {
         mini <- merge(mini,rbindlist(list(temp[, .(scored = sum(FTHG)),
                                                by = 'HomeTeam'],
@@ -55,8 +56,17 @@ tb <- function(dt, country = 'England') {
                                                          scored,
                                                          decreasing = TRUE)]
       }
-      mini[,tb := .I+1]
+      mini[, tb := nrow(mini) - .I]
+      ## NEED DESCENDING INDEX
       t[mini, tb := i.tb]
+## Warning message:
+## In `[.data.table`(t, mini, `:=`(tb, i.tb)) :
+## Coerced 'integer' RHS to 'double' to match the column's type. Either change the
+## target column to 'integer' first (by creating a new 'integer' vector length 20
+## (nrows of entire table) and assign that; i.e. 'replace' column), or coerce RHS
+## to 'double' (e.g. 1L, NA_[real|integer]_, as.*, etc) to make your intent clear
+## and for speed. Or, set the column type correctly up front when you create the
+## table and stick to it, please.
     }
     t <- t[order(p, tb, scored - conceded, scored, decreasing = TRUE)]
     t[,c(1:4)]

@@ -24,36 +24,43 @@ tb <- function(dt, country = 'England') {
     setkey(t, HomeTeam)
     temp <- t$p[duplicated(t$p)] ## duplicated doesn't return both, get p first
     teams <- t[p %in% temp, HomeTeam:p]
-    setkey(teams, HomeTeam)
+    # setkey(teams, HomeTeam)
     for(tie in unique(teams[,p])) {
       ## limit to tied teams
-      mini <- dt[(HomeTeam %in% teams[p == tie, HomeTeam]
+      temp <- dt[(HomeTeam %in% teams[p == tie, HomeTeam]
                   & AwayTeam %in% teams[p == tie,HomeTeam])
                  |(HomeTeam %in% teams[p == tie, HomeTeam]
                    & AwayTeam %in% teams[p == tie, HomeTeam])]
       ## create mini table
-      mini <- rbindlist(list(mini[FTR == 'H', .(p = uniqueN(AwayTeam) * 3),
+      mini <- rbindlist(list(temp[FTR == 'H', .(p = uniqueN(AwayTeam) * 3),
                                 by = 'HomeTeam'],
-                             mini[FTR == 'A', .(p = uniqueN(HomeTeam) * 3),
+                             temp[FTR == 'A', .(p = uniqueN(HomeTeam) * 3),
                                 by = 'AwayTeam'],
-                             mini[FTR == 'D', .(p = uniqueN(AwayTeam)),
+                             temp[FTR == 'D', .(p = uniqueN(AwayTeam)),
                                 by = 'HomeTeam'],
-                             mini[FTR == 'D', .(p = uniqueN(HomeTeam)),
+                             temp[FTR == 'D', .(p = uniqueN(HomeTeam)),
                                 by = 'AwayTeam']))[,.(p = sum(p)),
                                                    by = 'HomeTeam']
       if(nrow(mini) > 1) {
-        t <- merge(t,rbindlist(list(dt[, .(scored = sum(FTHG)), by = 'HomeTeam'],
-                                    dt[,sum(FTAG), by = 'AwayTeam']))
-                   [,.(scored = sum(scored)), by = 'HomeTeam'], by = 'HomeTeam',
-                   all = TRUE)
-        t <- merge(t,rbindlist(list(dt[, .(conceded = sum(FTAG)), by = 'HomeTeam'],
-                                    dt[,sum(FTHG), by = 'AwayTeam']))
-                   [,.(conceded = sum(conceded)), by = 'HomeTeam'], by = 'HomeTeam',
-                   all = TRUE)
+        mini <- merge(mini,rbindlist(list(temp[, .(scored = sum(FTHG)),
+                                               by = 'HomeTeam'],
+                                          temp[,sum(FTAG),by = 'AwayTeam']))
+                      [,.(scored = sum(scored)), by = 'HomeTeam'],
+                      by = 'HomeTeam', all = TRUE)
+        mini <- merge(mini,rbindlist(list(temp[, .(conceded = sum(FTAG)),
+                                               by = 'HomeTeam'],
+                                          temp[,sum(FTHG), by = 'AwayTeam']))
+                      [,.(conceded = sum(conceded)), by = 'HomeTeam'],
+                      by = 'HomeTeam', all = TRUE)[order(p, scored - conceded,
+                                                         scored,
+                                                         decreasing = TRUE)]
       }
       mini[,tb := .I+1]
+      t[mini, tb := i.tb]
     }
+    t <- t[order(p, tb, scored - conceded, scored, decreasing = TRUE)]
+    t[,c(1:4)]
   } else {
-    t[order(p,scored - conceded, scored, decreasing = TRUE)]
+    t[order(p, scored - conceded, scored, decreasing = TRUE)]
   }
 }

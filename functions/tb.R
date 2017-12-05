@@ -41,7 +41,17 @@ tb <- function(dt, country = 'England') {
                              mini[FTR == 'D', .(p = uniqueN(HomeTeam)),
                                 by = 'AwayTeam']))[,.(p = sum(p)),
                                                    by = 'HomeTeam']
-
+      if(nrow(mini) > 1) {
+        t <- merge(t,rbindlist(list(dt[, .(scored = sum(FTHG)), by = 'HomeTeam'],
+                                    dt[,sum(FTAG), by = 'AwayTeam']))
+                   [,.(scored = sum(scored)), by = 'HomeTeam'], by = 'HomeTeam',
+                   all = TRUE)
+        t <- merge(t,rbindlist(list(dt[, .(conceded = sum(FTAG)), by = 'HomeTeam'],
+                                    dt[,sum(FTHG), by = 'AwayTeam']))
+                   [,.(conceded = sum(conceded)), by = 'HomeTeam'], by = 'HomeTeam',
+                   all = TRUE)
+      }
+      mini[,tb := .I+1]
     }
   } else {
     t[order(p,scored - conceded, scored, decreasing = TRUE)]

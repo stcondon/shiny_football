@@ -20,7 +20,7 @@ tb <- function(dt, country = 'England') {
              all = TRUE)
   if(country %in% c('Spain') & sum(duplicated(t$p)) > 0) {
       ## h2h function}
-    t[,tb := 0]
+    t[,tb := as.numeric(0)]
     setkey(t, HomeTeam)
     temp <- t$p[duplicated(t$p)] ## duplicated doesn't return both, get p first
     teams <- t[p %in% temp, HomeTeam:p]
@@ -56,17 +56,9 @@ tb <- function(dt, country = 'England') {
                                                          scored,
                                                          decreasing = TRUE)]
       }
-      mini[, tb := nrow(mini) - .I]
+      mini[, tb := 2 * nrow(mini) - .I]
       ## NEED DESCENDING INDEX
-      t[mini, tb := i.tb]
-## Warning message:
-## In `[.data.table`(t, mini, `:=`(tb, i.tb)) :
-## Coerced 'integer' RHS to 'double' to match the column's type. Either change the
-## target column to 'integer' first (by creating a new 'integer' vector length 20
-## (nrows of entire table) and assign that; i.e. 'replace' column), or coerce RHS
-## to 'double' (e.g. 1L, NA_[real|integer]_, as.*, etc) to make your intent clear
-## and for speed. Or, set the column type correctly up front when you create the
-## table and stick to it, please.
+      t[mini, tb := as.double(i.tb)]
     }
     t <- t[order(p, tb, scored - conceded, scored, decreasing = TRUE)]
     t[,c(1:4)]

@@ -57,8 +57,7 @@ tb <- function(dt, country = 'England') {
                                                          decreasing = TRUE)]
       }
       mini[, tb := 2 * nrow(mini) - .I]
-      ## NEED DESCENDING INDEX
-      t[mini, tb := as.double(i.tb)]
+      t[mini, tb := as.double(i.tb)] ## had to coerce to double to avoid warning
     }
     t <- t[order(p, tb, scored - conceded, scored, decreasing = TRUE)]
     t[,c(1:4)]

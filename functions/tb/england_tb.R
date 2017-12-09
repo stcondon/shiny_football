@@ -20,6 +20,12 @@ england_tb <- function(dt) {
              all = TRUE)
   if(nrow(dt) > length(unique(dt$HomeTeam)) * length(unique(dt$HomeTeam)) - 1) {
     ## HAVEN'T SEEN YET, DON'T KNOW WHAT DATA WOULD LOOK LIKE :(
+    temp <- rbindlist(list(dt[, .(games = uniqueN(Date)),
+                              by = 'HomeTeam'],
+                           dt[, .(games = uniqueN(Date)),
+                              by = 'AwayTeam']))[,.(games = sum(games)),
+                                                 by = 'HomeTeam']
+  } else {
+    t[order(p, scored - conceded, scored, decreasing = TRUE)]
   }
-  t[order(p, scored - conceded, scored, decreasing = TRUE)]
 }

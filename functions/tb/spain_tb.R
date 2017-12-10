@@ -57,7 +57,9 @@ spain_tb <- function(dt, country = 'England') {
                       by = 'HomeTeam', all = TRUE)[order(p, scored - conceded,
                                                          scored,
                                                          decreasing = TRUE)]
-      }
+      } #elif(nrow(unique(mini)) < nrow(mini)) {
+        ## NOT GOING TO BUILD FAIR PLAY SILLINESS UNLESS VALIDATION FAILS
+      # }
       mini[, tb := 2 * nrow(mini) - .I]
       t[mini, tb := as.double(i.tb)] ## had to coerce to double to avoid warning
     }

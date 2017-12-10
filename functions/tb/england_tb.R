@@ -20,6 +20,7 @@ england_tb <- function(dt) {
              all = TRUE)
   if(nrow(dt) > length(unique(dt$HomeTeam)) * length(unique(dt$HomeTeam)) - 1) {
     ## HAVEN'T SEEN YET, DON'T KNOW WHAT DATA WOULD LOOK LIKE :(
+    ## https://en.wikipedia.org/wiki/Premier_League#Competition_format
     temp <- rbindlist(list(dt[, .(games = uniqueN(Date)),
                               by = 'HomeTeam'],
                            dt[, .(games = uniqueN(Date)),

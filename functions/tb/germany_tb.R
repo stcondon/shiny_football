@@ -10,14 +10,9 @@ tb <- function(dt) {
                          by = 'HomeTeam'],
                       dt[FTR == 'D', .(p = uniqueN(HomeTeam)),
                          by = 'AwayTeam']))[,.(p = sum(p)), by = 'HomeTeam']
-  t <- merge(t,rbindlist(list(dt[, .(scored = sum(FTHG)), by = 'HomeTeam'],
-                              dt[,sum(FTAG), by = 'AwayTeam']))
-             [,.(scored = sum(scored)), by = 'HomeTeam'], by = 'HomeTeam',
-             all = TRUE)
-  t <- merge(t,rbindlist(list(dt[, .(conceded = sum(FTAG)), by = 'HomeTeam'],
-                              dt[,sum(FTHG), by = 'AwayTeam']))
-             [,.(conceded = sum(conceded)), by = 'HomeTeam'], by = 'HomeTeam',
-             all = TRUE)
+  t <- merge(t[,.(team = HomeTeam, p)],
+             dt[, .(home_scored = sum(FTHG)), by = 'HomeTeam']
+             [,.(team = HomeTeam, home_scored)], by = 'team', all = TRUE)
   if(country %in% c('Spain') & sum(duplicated(t$p)) > 0) {
     ## h2h function}
     t[,tb := as.numeric(0)]

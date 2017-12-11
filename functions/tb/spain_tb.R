@@ -22,7 +22,7 @@ spain_tb <- function(dt, country = 'England') {
              all = TRUE)
   if(sum(duplicated(t$p)) > 0) {
     ## h2h function}
-    t[,tb := as.numeric(0)]
+    t[,tb := 0]
     setkey(t, HomeTeam)
     temp <- t$p[duplicated(t$p)] ## duplicated doesn't return both, get p first
     teams <- t[p %in% temp, HomeTeam:p]

@@ -68,6 +68,7 @@ tb <- function(dt) {
     t <- t[order(p, tb, scored - conceded, scored, decreasing = TRUE)]
     t[,c(1:4)]
   } else {
-    t[order(p, scored - conceded, scored, decreasing = TRUE)]
+    t[order(p, home_scored - home_conceded + away_scored - away_conceded,
+            home_scored + away_scored, decreasing = TRUE)]
   }
 }

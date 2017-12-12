@@ -13,10 +13,21 @@ tb <- function(dt) {
   t <- merge(t[,.(team = HomeTeam, p)],
              dt[, .(home_scored = sum(FTHG)), by = 'HomeTeam']
              [,.(team = HomeTeam, home_scored)], by = 'team', all = TRUE)
-  if(country %in% c('Spain') & sum(duplicated(t$p)) > 0) {
+  t <- merge(t,
+             dt[, .(home_conceded = sum(FTAG)), by = 'HomeTeam']
+             [,.(team = HomeTeam, home_conceded)], by = 'team', all = TRUE)
+  t <- merge(t,
+             dt[, .(away_scored = sum(FTAG)), by = 'AwayTeam']
+             [,.(team = AwayTeam, away_scored)], by = 'team', all = TRUE)
+  t <- merge(t,
+             dt[, .(away_conceded = sum(FTAG)), by = 'AwayTeam']
+             [,.(team = AwayTeam, away_conceded)], by = 'team', all = TRUE)
+  if(sum(duplicated(t[,.(p, goal_difference = home_scored - home_conceded
+                         + away_scored - away_conceded,
+                         home_scored + away_scored)])) > 0) {
     ## h2h function}
-    t[,tb := as.numeric(0)]
-    setkey(t, HomeTeam)
+    t[,tb := 0]
+    setkey(t, team)
     temp <- t$p[duplicated(t$p)] ## duplicated doesn't return both, get p first
     teams <- t[p %in% temp, HomeTeam:p]
     # setkey(teams, HomeTeam)

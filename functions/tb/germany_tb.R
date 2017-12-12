@@ -28,8 +28,8 @@ tb <- function(dt) {
     ## h2h function}
     t[,tb := 0]
     setkey(t, team)
-    temp <- t$p[duplicated(t$p)] ## duplicated doesn't return both, get p first
-    teams <- t[p %in% temp, HomeTeam:p]
+    temp <- t$p[duplicated(t$p)] ## Have to grapple with how to select
+    teams <- t[p %in% temp, HomeTeam:p] ## teams for mini
     # setkey(teams, HomeTeam)
     for(tie in unique(teams[,p])) {
       ## limit to tied teams

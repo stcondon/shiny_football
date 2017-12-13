@@ -20,7 +20,7 @@ tb <- function(dt) {
              dt[, .(away_scored = sum(FTAG)), by = 'AwayTeam']
              [,.(team = AwayTeam, away_scored)], by = 'team', all = TRUE)
   t <- merge(t,
-             dt[, .(away_conceded = sum(FTAG)), by = 'AwayTeam']
+             dt[, .(away_conceded = sum(FTHG)), by = 'AwayTeam']
              [,.(team = AwayTeam, away_conceded)], by = 'team', all = TRUE)
   if(sum(duplicated(t[,.(p, goal_difference = home_scored - home_conceded
                          + away_scored - away_conceded,

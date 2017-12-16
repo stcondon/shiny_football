@@ -1,7 +1,7 @@
 library(data.table)
 ## https://en.wikipedia.org/wiki/La_Liga#Ranking_of_clubs_on_equal_points
 ## ^^ EYE ROLL ^^
-spain_tb <- function(dt, country = 'England') {
+spain_tb <- function(dt) {
   ## Cut down table to just full time goals and results
   dt <- dt[,c("HomeTeam","AwayTeam","FTR","FTHG","FTAG")]
   t <- rbindlist(list(dt[FTR == 'H', .(p = uniqueN(AwayTeam) * 3),

@@ -7,5 +7,7 @@ totteringham <- function(dt, team_1 = 'Arsenal', team_2 = 'Tottenham',
   t <- tb(dt)[HomeTeam %in% c(team_1, team_2)]
   t1_gl <- 2 * (tc - 1) - nrow(dt[HomeTeam == team_1 | AwayTeam == team_1])
   t2_gl <- 2 * (tc - 1) - nrow(dt[HomeTeam == team_2 | AwayTeam == team_2])
-  # if()
+  if(t[HomeTeam == team_2,p] > t1_gl * 3 + t[HomeTeam == team_1,p]) {
+    result <- "Sorry, blood, no St Totteringham's Day this year"
+  } elif()
 }

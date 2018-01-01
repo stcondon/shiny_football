@@ -21,6 +21,13 @@ totteringham <- function(dt, team_1 = 'Arsenal', team_2 = 'Tottenham',
         break
       }
     }
+  } else {
+    game <- 0
+    while((t[HomeTeam==team_1,p+3*game] - t[HomeTeam==team_2,p]) / 3 < t1_gl) {
+      game <- game + 1
+      t1_gl <- t1_gl - 1
+    }
+    result <- paste('At LEAST', game, 'more games')
   }
   result
 }

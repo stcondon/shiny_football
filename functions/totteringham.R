@@ -31,8 +31,8 @@ totteringham <- function(dt, team_1 = 'Arsenal', team_2 = 'Tottenham',
   }
   result
   ## looks good, problem years so far:
-  ## 96/97:
-  ## 04/05:
-  ## 14/15:
+  ## 96/97: 05/04/97
+  ## 04/05: 02/04/05
+  ## 14/15: 04/05/15
   ## http://www.chiark.greenend.org.uk/~mikepitt/tothistory.html
 }

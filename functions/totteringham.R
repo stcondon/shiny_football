@@ -10,7 +10,9 @@ totteringham <- function(dt, team_1 = 'Arsenal', team_2 = 'Tottenham',
   if(t[HomeTeam == team_2,p] > t1_gl * 3 + t[HomeTeam == team_1,p]) {
     result <- "Sorry, blood, not this year"
   } else if(t[HomeTeam == team_1,p] > t2_gl * 3 + t[HomeTeam == team_2,p]) {
-    dates <- dt$Date
+    dt$Date <- as.Date(dt$Date, format = "%d/%m/%y")
+    dt <- dt[order(dt$Date)]
+    dates <- dt$Date[order(dt$Date)]
     for(gameday in c(1:length(dates))) {
       dt <- head(dt, -1)
       t <- tb(dt)[HomeTeam %in% c(team_1, team_2)]
@@ -31,8 +33,8 @@ totteringham <- function(dt, team_1 = 'Arsenal', team_2 = 'Tottenham',
   }
   result
   ## looks good, problem years so far:
-  ## 96/97: 05/04/97
-  ## 04/05: 02/04/05
-  ## 14/15: 04/05/15
+  ## 95/96: 05/05/96 -
+  ## 96/97: 05/04/97 - Spurs beat wimbledon, lost next, email to be sent
+  ## 04/05: 02/04/05 - Spurs beat Newcastle, lost next, email to be sent
   ## http://www.chiark.greenend.org.uk/~mikepitt/tothistory.html
 }

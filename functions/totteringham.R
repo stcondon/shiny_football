@@ -30,6 +30,9 @@ totteringham <- function(dt, team_1 = 'Arsenal', team_2 = 'Tottenham',
     result <- paste('At LEAST', game, 'more games')
   }
   result
-  ## looks good, problem years so far: 96/97, 04/05, 14/15
+  ## looks good, problem years so far:
+  ## 96/97:
+  ## 04/05:
+  ## 14/15:
   ## http://www.chiark.greenend.org.uk/~mikepitt/tothistory.html
 }

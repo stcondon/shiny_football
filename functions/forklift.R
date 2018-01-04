@@ -25,5 +25,6 @@ if(as.numeric(first_year) < 2000 && as.numeric(last_year) >= 2010) {
 patron <- paste(country, tier, re, sep = '_')
 temp <- list.files(path = paste0('data/',tolower(country),'/'),
                    pattern= patron)
-lapply(paste0('data/',tolower(country),'/', temp), fread)
+temp <- lapply(paste0('data/',tolower(country),'/', temp), fread)
+lapply(temp, function(x) x[!(is.na(x$FTHG))])
 }

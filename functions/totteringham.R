@@ -2,6 +2,7 @@ library(data.table)
 totteringham <- function(dt, team_1 = 'Arsenal', team_2 = 'Tottenham',
                          country = 'England') {
   tc <- length(unique(c(dt$HomeTeam, dt$AwayTeam)))
+  ## ^^^ REMEMBER TO REMOVE NA'S ^^
   dt <- dt[HomeTeam %in% c(team_1, team_2) | AwayTeam %in% c(team_1, team_2)]
   tb <- match.fun(paste0(tolower(country), '_tb'))
   t <- tb(dt)[HomeTeam %in% c(team_1, team_2)]

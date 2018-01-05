@@ -34,7 +34,6 @@ totteringham <- function(dt, team_1 = 'Arsenal', team_2 = 'Tottenham',
   }
   result
   ## looks good, problem years so far:
-  ## 95/96: 05/05/96 - last game was 04/05/96?
   ## 96/97: 05/04/97 - Spurs beat wimbledon, lost next, email to be sent
   ## 04/05: 02/04/05 - Spurs beat Newcastle, lost next, email to be sent
   ## http://www.chiark.greenend.org.uk/~mikepitt/tothistory.html

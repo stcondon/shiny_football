@@ -5,6 +5,6 @@ scratch/
 .RData
 .Ruserdata
 .DS_Store
-.log
+*.log
 packrat/lib*/
 packrat/src/

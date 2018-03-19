@@ -1,7 +1,7 @@
 ## Build something that takes inputs and converts to list of data.tables
 library(data.table)
 forklift <- function(country = 'England', tier = '1',
-                   first_year = '1993', last_year = '1993') {
+                   first_year = '1993', last_year = '1993', scraped = FALSE) {
 fld <- substr(first_year, 4,4)
 lld <- substr(last_year, 4,4)
 if(as.numeric(first_year) < 2000 && as.numeric(last_year) >= 2010) {
@@ -21,6 +21,7 @@ if(as.numeric(first_year) < 2000 && as.numeric(last_year) >= 2010) {
               '])_[[:digit:]]{4}.csv$')
 }
 patron <- paste(country, tier, re, sep = '_')
+## HERE WE CREATE path VARIABLE
 temp <- list.files(path = paste0('data/',tolower(country),'/'),
                    pattern= patron)
 temp <- lapply(paste0('data/',tolower(country),'/', temp), fread)

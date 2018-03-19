@@ -25,5 +25,5 @@ patron <- paste(country, tier, re, sep = '_')
 temp <- list.files(path = paste0('data/',tolower(country),'/'),
                    pattern= patron)
 temp <- lapply(paste0('data/',tolower(country),'/', temp), fread)
-lapply(temp, function(x) x[!(is.na(x$FTHG))])
+lapply(temp, function(x) x[!(is.na(x$FTHG))]) ## change this for scraped
 }

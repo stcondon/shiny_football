@@ -2,8 +2,6 @@
 library(data.table)
 forklift <- function(country = 'England', tier = '1',
                    first_year = '1993', last_year = '1993') {
-# can't decide whether to make yrs strings and coerce to numeric
-# or vice versa
 fld <- substr(first_year, 4,4)
 lld <- substr(last_year, 4,4)
 if(as.numeric(first_year) < 2000 && as.numeric(last_year) >= 2010) {

@@ -22,8 +22,13 @@ forklift <- function(country = 'England', tier = '1',
   }
   patron <- paste(country, tier, re, sep = '_')
   ## HERE WE CREATE path VARIABLE
-  temp <- list.files(path = paste0('data/',tolower(country),'/'),
+  if(scraped == TRUE) {
+    camino <- paste0('scrapy_qa/data/',tolower(country),'/')
+  } else {
+    camino <- paste0('data/',tolower(country),'/')
+  }
+  temp <- list.files(path = camino,
                      pattern= patron)
-  temp <- lapply(paste0('data/',tolower(country),'/', temp), fread)
+  temp <- lapply(paste0(camino, temp), fread)
   lapply(temp, function(x) x[!(is.na(x$FTHG))]) ## change this for scraped
 }

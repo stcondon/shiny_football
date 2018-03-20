@@ -30,5 +30,9 @@ forklift <- function(country = 'England', tier = '1',
   temp <- list.files(path = camino,
                      pattern= patron)
   temp <- lapply(paste0(camino, temp), fread)
-  lapply(temp, function(x) x[!(is.na(x$FTHG))]) ## change this for scraped
+  if(scraped == TRUE) {
+    lapply(temp, function(x) x[!(is.na(x$GP))])
+  } else{
+    lapply(temp, function(x) x[!(is.na(x$FTHG))])
+  }
 }

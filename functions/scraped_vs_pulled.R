@@ -6,3 +6,7 @@ scraped_vs_pulled <- function(scraped_dt, pulled_dt, country = 'England') {
   tb <- match.fun(paste0(tolower(country), '_tb'))
   identical(scraped_dt, tb(pulled_dt))
 }
+
+## FOR PR QA:
+## > sort(setdiff(unique(england$HomeTeam), unique(scraped$team)))
+## character(0)

@@ -4,7 +4,11 @@ scraped_vs_pulled <- function(scraped_dt, pulled_dt, country = 'England') {
   names(scraped_dt) <- c('HomeTeam','p', 'scored', 'conceded')
   scraped_dt$p <- as.double(scraped_dt$p)
   tb <- match.fun(paste0(tolower(country), '_tb'))
-  identical(scraped_dt, tb(pulled_dt))
+  if(identical(scraped_dt, tb(pulled_dt))) {
+    TRUE
+  } else {
+    FALSE
+  }
 }
 
 ## FOR PR QA:
@@ -13,4 +17,4 @@ scraped_vs_pulled <- function(scraped_dt, pulled_dt, country = 'England') {
 
 ## it works! let's lapply that shizz
 ## > scraped_vs_pulled(scraped_dt, pulled_dt)
-## [1] TRUE
+##

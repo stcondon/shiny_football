@@ -11,10 +11,5 @@ scraped_vs_pulled <- function(scraped_dt, pulled_dt, country = 'England') {
   }
 }
 
-## FOR PR QA:
-## > sort(setdiff(unique(england$HomeTeam), unique(scraped$team)))
-## character(0)
-
-## it works! let's lapply that shizz
-## > scraped_vs_pulled(scraped_dt, pulled_dt)
-##
+# identical(scraped_dt, tb(pulled_dt))
+## Why didn't ^^ work?, if-else raro

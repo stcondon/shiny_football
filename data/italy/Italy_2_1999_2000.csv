@@ -2,7 +2,7 @@ Div,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,,,,,,,,,,,
 I2,29/08/99,Alzano,Monza,2,1,H,0,1,A,,,,,,,,,,,
 I2,29/08/99,Brescia,Savoia,1,1,D,0,1,A,,,,,,,,,,,
 I2,29/08/99,Cesena,US Pescara,0,0,D,0,0,D,,,,,,,,,,,
-I2,29/08/99,Chievo Hellas Verona,Salernitana,3,1,H,1,1,D,,,,,,,,,,,
+I2,29/08/99,Chievo Verona,Salernitana,3,1,H,1,1,D,,,,,,,,,,,
 I2,29/08/99,Cosenza,Atalanta,0,1,A,0,1,A,,,,,,,,,,,
 I2,29/08/99,Empoli,Fermana,1,0,H,0,0,D,,,,,,,,,,,
 I2,29/08/99,Genoa,Ternana,2,0,H,0,0,D,,,,,,,,,,,
@@ -12,14 +12,14 @@ I2,29/08/99,Treviso,Vicenza,0,1,A,0,0,D,,,,,,,,,,,
 I2,05/09/99,Atalanta,Treviso,3,2,H,2,0,H,,,,,,,,,,,
 I2,05/09/99,Fermana,Pistoiese,0,0,D,0,0,D,,,,,,,,,,,
 I2,05/09/99,Monza,Napoli,0,0,D,0,0,D,,,,,,,,,,,
-I2,05/09/99,US Pescara,Chievo Hellas Verona,2,1,H,1,0,H,,,,,,,,,,,
+I2,05/09/99,US Pescara,Chievo Verona,2,1,H,1,0,H,,,,,,,,,,,
 I2,05/09/99,Ravenna,Cosenza,0,0,D,0,0,D,,,,,,,,,,,
 I2,05/09/99,Salernitana,Cesena,1,1,D,0,1,A
 I2,05/09/99,Sampdoria,Brescia,0,0,D,0,0,D
 I2,05/09/99,Savoia,Empoli,1,0,H,1,0,H
 I2,05/09/99,Ternana,Alzano,1,0,H,0,0,D
 I2,05/09/99,Vicenza,Genoa,1,1,D,0,0,D
-I2,12/09/99,Alzano,Chievo Hellas Verona,2,1,H,0,1,A
+I2,12/09/99,Alzano,Chievo Verona,2,1,H,0,1,A
 I2,12/09/99,Brescia,Salernitana,4,1,H,4,1,H
 I2,12/09/99,Cosenza,Monza,2,1,H,1,1,D
 I2,12/09/99,Empoli,Sampdoria,1,0,H,1,0,H
@@ -30,7 +30,7 @@ I2,12/09/99,Ravenna,Atalanta,1,3,A,1,1,D
 I2,12/09/99,Ternana,Vicenza,1,0,H,1,0,H
 I2,12/09/99,Treviso,Cesena,2,1,H,1,1,D
 I2,19/09/99,Cesena,Genoa,1,0,H,1,0,H
-I2,19/09/99,Chievo Hellas Verona,Ternana,0,1,A,0,0,D
+I2,19/09/99,Chievo Verona,Ternana,0,1,A,0,0,D
 I2,19/09/99,Fermana,Brescia,1,2,A,0,1,A
 I2,19/09/99,Monza,Empoli,1,0,H,0,0,D
 I2,19/09/99,US Pescara,Cosenza,1,1,D,0,0,D
@@ -44,7 +44,7 @@ I2,26/09/99,Alzano,Brescia,0,1,A,0,1,A
 I2,26/09/99,Empoli,Cesena,2,1,H,1,0,H
 I2,26/09/99,Napoli,Vicenza,2,1,H,0,1,A
 I2,26/09/99,US Pescara,Fermana,4,2,H,1,2,A
-I2,26/09/99,Pistoiese,Chievo Hellas Verona,2,1,H,0,0,D
+I2,26/09/99,Pistoiese,Chievo Verona,2,1,H,0,0,D
 I2,26/09/99,Ravenna,Savoia,4,0,H,2,0,H
 I2,26/09/99,Ternana,Atalanta,1,1,D,1,1,D
 I2,26/09/99,Treviso,Monza,3,1,H,2,0,H
@@ -53,7 +53,7 @@ I2,01/10/99,Vicenza,Empoli,6,0,H,5,0,H
 I2,03/10/99,Atalanta,US Pescara,3,1,H,2,0,H
 I2,03/10/99,Brescia,Pistoiese,2,0,H,1,0,H
 I2,03/10/99,Cesena,Alzano,1,1,D,1,0,H
-I2,03/10/99,Chievo Hellas Verona,Genoa,1,0,H,1,0,H
+I2,03/10/99,Chievo Verona,Genoa,1,0,H,1,0,H
 I2,03/10/99,Fermana,Treviso,1,1,D,0,0,D
 I2,03/10/99,Monza,Ravenna,1,1,D,1,1,D
 I2,03/10/99,Sampdoria,Ternana,2,2,D,1,1,D
@@ -63,7 +63,7 @@ I2,08/10/99,Monza,Brescia,1,1,D,1,0,H
 I2,10/10/99,Alzano,Salernitana,3,2,H,3,0,H
 I2,10/10/99,Cosenza,Genoa,1,0,H,0,0,D
 I2,10/10/99,Fermana,Savoia,3,2,H,2,1,H
-I2,10/10/99,Napoli,Chievo Hellas Verona,3,2,H,0,0,D
+I2,10/10/99,Napoli,Chievo Verona,3,2,H,0,0,D
 I2,10/10/99,US Pescara,Treviso,2,2,D,2,0,H
 I2,10/10/99,Ravenna,Vicenza,2,1,H,2,1,H
 I2,10/10/99,Sampdoria,Atalanta,1,0,H,0,0,D
@@ -73,7 +73,7 @@ I2,22/10/99,Genoa,Sampdoria,1,1,D,0,1,A
 I2,24/10/99,Atalanta,Pistoiese,3,1,H,3,1,H
 I2,24/10/99,Brescia,Ternana,3,0,H,1,0,H
 I2,24/10/99,Cesena,Ravenna,0,0,D,0,0,D
-I2,24/10/99,Chievo Hellas Verona,Fermana,2,1,H,1,1,D
+I2,24/10/99,Chievo Verona,Fermana,2,1,H,1,1,D
 I2,24/10/99,Empoli,US Pescara,1,1,D,0,0,D
 I2,24/10/99,Salernitana,Monza,1,1,D,1,1,D
 I2,24/10/99,Savoia,Alzano,1,1,D,1,1,D
@@ -86,21 +86,21 @@ I2,31/10/99,Monza,Atalanta,1,0,H,1,0,H
 I2,31/10/99,US Pescara,Brescia,1,2,A,0,1,A
 I2,31/10/99,Pistoiese,Cesena,0,2,A,0,0,D
 I2,31/10/99,Ravenna,Treviso,0,0,D,0,0,D
-I2,31/10/99,Sampdoria,Chievo Hellas Verona,0,0,D,0,0,D
+I2,31/10/99,Sampdoria,Chievo Verona,0,0,D,0,0,D
 I2,31/10/99,Savoia,Salernitana,0,0,D,0,0,D
 I2,31/10/99,Ternana,Napoli,2,2,D,2,1,H
 I2,04/11/99,Salernitana,Sampdoria,1,1,D,0,1,A
 I2,07/11/99,Alzano,Cosenza,0,0,D,0,0,D
 I2,07/11/99,Brescia,Atalanta,0,0,D,0,0,D
 I2,07/11/99,Cesena,Fermana,1,0,H,0,0,D
-I2,07/11/99,Chievo Hellas Verona,Savoia,1,1,D,1,1,D
+I2,07/11/99,Chievo Verona,Savoia,1,1,D,1,1,D
 I2,07/11/99,Empoli,Ravenna,1,1,D,1,1,D
 I2,07/11/99,Genoa,Monza,1,1,D,1,0,H
 I2,07/11/99,Treviso,Ternana,3,1,H,2,1,H
 I2,07/11/99,Vicenza,Pistoiese,2,1,H,0,1,A
 I2,08/11/99,Napoli,US Pescara,1,1,D,1,1,D
 I2,12/11/99,Atalanta,Salernitana,2,0,H,2,0,H
-I2,14/11/99,Chievo Hellas Verona,Monza,0,0,D,0,0,D
+I2,14/11/99,Chievo Verona,Monza,0,0,D,0,0,D
 I2,14/11/99,Cosenza,Ternana,1,1,D,1,1,D
 I2,14/11/99,Empoli,Treviso,1,0,H,1,0,H
 I2,14/11/99,Fermana,Alzano,0,1,A,0,1,A
@@ -117,11 +117,11 @@ I2,21/11/99,Salernitana,Fermana,3,1,H,0,1,A
 I2,21/11/99,Ternana,US Pescara,1,1,D,0,1,A
 I2,21/11/99,Treviso,Cosenza,2,1,H,0,1,A
 I2,21/11/99,Vicenza,Atalanta,5,3,H,2,1,H
-I2,22/11/99,Brescia,Chievo Hellas Verona,3,1,H,2,0,H
+I2,22/11/99,Brescia,Chievo Verona,3,1,H,2,0,H
 I2,22/11/99,Napoli,Sampdoria,1,0,H,1,0,H
 I2,26/11/99,Atalanta,Genoa,1,0,H,0,0,D
 I2,28/11/99,Brescia,Vicenza,1,1,D,1,0,H
-I2,28/11/99,Chievo Hellas Verona,Cesena,2,1,H,0,1,A
+I2,28/11/99,Chievo Verona,Cesena,2,1,H,0,1,A
 I2,28/11/99,Cosenza,Napoli,1,0,H,0,0,D
 I2,28/11/99,Empoli,Salernitana,0,3,A,0,1,A
 I2,28/11/99,Fermana,Monza,0,1,A,0,0,D
@@ -129,7 +129,7 @@ I2,28/11/99,Ravenna,Ternana,1,0,H,1,0,H
 I2,28/11/99,Sampdoria,Treviso,2,0,H,1,0,H
 I2,28/11/99,Savoia,US Pescara,2,2,D,1,1,D
 I2,29/11/99,Pistoiese,Alzano,1,1,D,1,1,D
-I2,05/12/99,Atalanta,Chievo Hellas Verona,0,1,A,0,1,A
+I2,05/12/99,Atalanta,Chievo Verona,0,1,A,0,1,A
 I2,05/12/99,Cesena,Brescia,2,2,D,1,2,A
 I2,05/12/99,Cosenza,Salernitana,0,0,D,0,0,D
 I2,05/12/99,Genoa,Fermana,1,1,D,0,0,D
@@ -141,7 +141,7 @@ I2,06/12/99,Treviso,Alzano,2,0,H,2,0,H
 I2,10/12/99,Empoli,Atalanta,0,0,D,0,0,D
 I2,12/12/99,Alzano,Napoli,0,4,A,0,2,A
 I2,12/12/99,Cesena,Monza,3,3,D,1,2,A
-I2,12/12/99,Chievo Hellas Verona,Ravenna,2,2,D,1,0,H
+I2,12/12/99,Chievo Verona,Ravenna,2,2,D,1,0,H
 I2,12/12/99,Fermana,Cosenza,1,1,D,1,1,D
 I2,12/12/99,Pistoiese,Treviso,1,0,H,0,0,D
 I2,12/12/99,Salernitana,Vicenza,3,2,H,0,2,A
@@ -149,7 +149,7 @@ I2,12/12/99,Sampdoria,US Pescara,2,1,H,1,1,D
 I2,12/12/99,Savoia,Ternana,0,1,A,0,1,A
 I2,13/12/99,Brescia,Genoa,0,1,A,0,1,A
 I2,15/12/99,Ternana,Pistoiese,1,0,H,1,0,H
-I2,17/12/99,Vicenza,Chievo Hellas Verona,1,2,A,0,1,A
+I2,17/12/99,Vicenza,Chievo Verona,1,2,A,0,1,A
 I2,19/12/99,Atalanta,Alzano,1,0,H,0,0,D
 I2,19/12/99,Cosenza,Pistoiese,3,0,H,1,0,H
 I2,19/12/99,Genoa,Savoia,1,0,H,0,0,D
@@ -162,7 +162,7 @@ I2,20/12/99,Napoli,Cesena,1,1,D,0,1,A
 I2,06/01/00,Alzano,Empoli,2,1,H,2,1,H
 I2,06/01/00,Brescia,Napoli,3,1,H,1,0,H
 I2,06/01/00,Cesena,Vicenza,1,1,D,0,1,A
-I2,06/01/00,Chievo Hellas Verona,Cosenza,1,1,D,1,1,D
+I2,06/01/00,Chievo Verona,Cosenza,1,1,D,1,1,D
 I2,06/01/00,Fermana,Atalanta,1,0,H,0,0,D
 I2,06/01/00,Genoa,Treviso,2,0,H,0,0,D
 I2,06/01/00,Monza,Ternana,2,2,D,2,1,H
@@ -176,14 +176,14 @@ I2,09/01/00,US Pescara,Alzano,0,0,D,0,0,D
 I2,09/01/00,Ravenna,Genoa,2,0,H,2,0,H
 I2,09/01/00,Sampdoria,Fermana,1,1,D,1,0,H
 I2,09/01/00,Ternana,Salernitana,1,1,D,0,1,A
-I2,09/01/00,Treviso,Chievo Hellas Verona,1,0,H,1,0,H
+I2,09/01/00,Treviso,Chievo Verona,1,0,H,1,0,H
 I2,09/01/00,Vicenza,Monza,2,1,H,1,0,H
 I2,10/01/00,Empoli,Brescia,2,0,H,1,0,H
 I2,14/01/00,Genoa,Napoli,0,1,A,0,0,D
 I2,16/01/00,Alzano,Sampdoria,0,1,A,0,0,D
 I2,16/01/00,Brescia,Cosenza,0,1,A,0,0,D
 I2,16/01/00,Cesena,Atalanta,1,1,D,1,1,D
-I2,16/01/00,Chievo Hellas Verona,Empoli,3,1,H,1,0,H
+I2,16/01/00,Chievo Verona,Empoli,3,1,H,1,0,H
 I2,16/01/00,Fermana,Ternana,2,1,H,0,0,D
 I2,16/01/00,Monza,US Pescara,0,0,D,0,0,D
 I2,16/01/00,Pistoiese,Ravenna,2,0,H,0,0,D
@@ -194,7 +194,7 @@ I2,23/01/00,Atalanta,Cosenza,1,1,D,1,0,H
 I2,23/01/00,Fermana,Empoli,1,1,D,0,0,D
 I2,23/01/00,Monza,Alzano,1,1,D,0,0,D
 I2,23/01/00,Ravenna,Napoli,0,0,D,0,0,D
-I2,23/01/00,Salernitana,Chievo Hellas Verona,3,0,H,2,0,H
+I2,23/01/00,Salernitana,Chievo Verona,3,0,H,2,0,H
 I2,23/01/00,Sampdoria,Pistoiese,1,0,H,0,0,D
 I2,23/01/00,Savoia,Brescia,2,3,A,1,2,A
 I2,23/01/00,Ternana,Genoa,2,2,D,2,2,D
@@ -202,7 +202,7 @@ I2,24/01/00,Vicenza,Treviso,2,0,H,1,0,H
 I2,28/01/00,Brescia,Sampdoria,0,1,A,0,0,D
 I2,30/01/00,Alzano,Ternana,1,0,H,0,0,D
 I2,30/01/00,Cesena,Salernitana,4,0,H,2,0,H
-I2,30/01/00,Chievo Hellas Verona,US Pescara,1,1,D,0,1,A
+I2,30/01/00,Chievo Verona,US Pescara,1,1,D,0,1,A
 I2,30/01/00,Empoli,Savoia,1,0,H,0,0,D
 I2,30/01/00,Genoa,Vicenza,2,2,D,0,1,A
 I2,30/01/00,Napoli,Monza,2,2,D,1,1,D
@@ -211,7 +211,7 @@ I2,30/01/00,Treviso,Atalanta,2,1,H,1,0,H
 I2,31/01/00,Cosenza,Ravenna,1,3,A,1,0,H
 I2,11/02/00,Salernitana,Brescia,2,0,H,1,0,H
 I2,13/02/00,Cesena,Treviso,2,0,H,1,0,H
-I2,13/02/00,Chievo Hellas Verona,Alzano,0,0,D,0,0,D
+I2,13/02/00,Chievo Verona,Alzano,0,0,D,0,0,D
 I2,13/02/00,Fermana,Napoli,3,2,H,1,2,A
 I2,13/02/00,Monza,Cosenza,0,0,D,0,0,D
 I2,13/02/00,US Pescara,Genoa,3,1,H,2,1,H
@@ -219,7 +219,7 @@ I2,13/02/00,Sampdoria,Empoli,1,1,D,0,0,D
 I2,13/02/00,Savoia,Pistoiese,1,1,D,0,1,A
 I2,13/02/00,Vicenza,Ternana,0,0,D,0,0,D
 I2,14/02/00,Atalanta,Ravenna,1,0,H,1,0,H
-I2,18/02/00,Ternana,Chievo Hellas Verona,1,3,A,0,0,D
+I2,18/02/00,Ternana,Chievo Verona,1,3,A,0,0,D
 I2,20/02/00,Alzano,Vicenza,1,3,A,1,0,H
 I2,20/02/00,Brescia,Fermana,0,0,D,0,0,D
 I2,20/02/00,Cosenza,US Pescara,1,1,D,0,1,A
@@ -233,7 +233,7 @@ I2,25/02/00,Sampdoria,Cosenza,2,0,H,1,0,H
 I2,27/02/00,Atalanta,Ternana,1,2,A,0,2,A
 I2,27/02/00,Brescia,Alzano,2,0,H,0,0,D
 I2,27/02/00,Cesena,Empoli,2,1,H,2,1,H
-I2,27/02/00,Chievo Hellas Verona,Pistoiese,1,0,H,1,0,H
+I2,27/02/00,Chievo Verona,Pistoiese,1,0,H,1,0,H
 I2,27/02/00,Fermana,US Pescara,0,3,A,0,1,A
 I2,27/02/00,Monza,Treviso,1,1,D,1,1,D
 I2,27/02/00,Salernitana,Genoa,1,0,H,1,0,H
@@ -243,7 +243,7 @@ I2,03/03/00,US Pescara,Atalanta,0,1,A,0,1,A
 I2,05/03/00,Alzano,Cesena,0,0,D,0,0,D
 I2,05/03/00,Cosenza,Savoia,1,0,H,1,0,H
 I2,05/03/00,Empoli,Vicenza,2,1,H,2,0,H
-I2,05/03/00,Genoa,Chievo Hellas Verona,2,0,H,1,0,H
+I2,05/03/00,Genoa,Chievo Verona,2,0,H,1,0,H
 I2,05/03/00,Napoli,Salernitana,3,1,H,3,1,H
 I2,05/03/00,Ravenna,Monza,2,0,H,1,0,H
 I2,05/03/00,Ternana,Sampdoria,0,1,A,0,0,D
@@ -252,7 +252,7 @@ I2,06/03/00,Pistoiese,Brescia,0,1,A,0,1,A
 I2,10/03/00,Treviso,US Pescara,2,2,D,1,1,D
 I2,12/03/00,Brescia,Monza,1,0,H,1,0,H
 I2,12/03/00,Cesena,Ternana,1,1,D,1,0,H
-I2,12/03/00,Chievo Hellas Verona,Napoli,1,2,A,0,1,A
+I2,12/03/00,Chievo Verona,Napoli,1,2,A,0,1,A
 I2,12/03/00,Empoli,Pistoiese,2,5,A,1,4,A
 I2,12/03/00,Genoa,Cosenza,2,1,H,0,1,A
 I2,12/03/00,Salernitana,Alzano,3,2,H,3,0,H
@@ -261,7 +261,7 @@ I2,12/03/00,Vicenza,Ravenna,1,0,H,1,0,H
 I2,13/03/00,Atalanta,Sampdoria,3,3,D,0,1,A
 I2,17/03/00,Cosenza,Vicenza,1,0,H,0,0,D
 I2,19/03/00,Alzano,Savoia,2,1,H,0,0,D
-I2,19/03/00,Fermana,Chievo Hellas Verona,1,1,D,1,1,D
+I2,19/03/00,Fermana,Chievo Verona,1,1,D,1,1,D
 I2,19/03/00,Monza,Salernitana,1,1,D,1,1,D
 I2,19/03/00,Napoli,Treviso,2,3,A,1,1,D
 I2,19/03/00,US Pescara,Empoli,4,1,H,2,0,H
@@ -271,7 +271,7 @@ I2,19/03/00,Ternana,Brescia,2,2,D,0,1,A
 I2,20/03/00,Sampdoria,Genoa,0,1,A,0,0,D
 I2,26/03/00,Atalanta,Monza,3,1,H,3,0,H
 I2,26/03/00,Cesena,Pistoiese,3,1,H,0,1,A
-I2,26/03/00,Chievo Hellas Verona,Sampdoria,3,2,H,2,0,H
+I2,26/03/00,Chievo Verona,Sampdoria,3,2,H,2,0,H
 I2,26/03/00,Empoli,Cosenza,3,2,H,3,1,H
 I2,26/03/00,Genoa,Alzano,1,0,H,0,0,D
 I2,26/03/00,Napoli,Ternana,2,0,H,2,0,H
@@ -286,13 +286,13 @@ I2,02/04/00,Fermana,Cesena,1,0,H,0,0,D
 I2,02/04/00,Pistoiese,Vicenza,3,1,H,3,1,H
 I2,02/04/00,Ravenna,Empoli,1,1,D,0,1,A
 I2,02/04/00,Sampdoria,Salernitana,2,4,A,0,3,A
-I2,02/04/00,Savoia,Chievo Hellas Verona,2,2,D,1,2,A
+I2,02/04/00,Savoia,Chievo Verona,2,2,D,1,2,A
 I2,02/04/00,Ternana,Treviso,1,0,H,0,0,D
 I2,03/04/00,US Pescara,Napoli,1,1,D,0,0,D
 I2,07/04/00,Cesena,Sampdoria,0,0,D,0,0,D
 I2,09/04/00,Alzano,Fermana,2,2,D,1,1,D
 I2,09/04/00,Genoa,Pistoiese,2,1,H,1,0,H
-I2,09/04/00,Monza,Chievo Hellas Verona,2,1,H,1,0,H
+I2,09/04/00,Monza,Chievo Verona,2,1,H,1,0,H
 I2,09/04/00,Napoli,Savoia,1,1,D,0,1,A
 I2,09/04/00,Salernitana,Atalanta,0,1,A,0,0,D
 I2,09/04/00,Ternana,Cosenza,3,0,H,2,0,H
@@ -300,7 +300,7 @@ I2,09/04/00,Treviso,Empoli,0,0,D,0,0,D
 I2,09/04/00,Vicenza,US Pescara,3,1,H,3,0,H
 I2,10/04/00,Brescia,Ravenna,2,1,H,0,1,A
 I2,22/04/00,Atalanta,Vicenza,1,0,H,1,0,H
-I2,22/04/00,Chievo Hellas Verona,Brescia,2,2,D,1,0,H
+I2,22/04/00,Chievo Verona,Brescia,2,2,D,1,0,H
 I2,22/04/00,Cosenza,Treviso,1,1,D,1,1,D
 I2,22/04/00,Empoli,Genoa,0,0,D,0,0,D
 I2,22/04/00,Fermana,Salernitana,1,2,A,1,0,H
@@ -311,7 +311,7 @@ I2,22/04/00,Sampdoria,Napoli,0,2,A,0,1,A
 I2,22/04/00,Savoia,Cesena,0,0,D,0,0,D
 I2,28/04/00,Genoa,Atalanta,2,1,H,1,0,H
 I2,30/04/00,Alzano,Pistoiese,1,2,A,1,2,A
-I2,30/04/00,Cesena,Chievo Hellas Verona,0,0,D,0,0,D
+I2,30/04/00,Cesena,Chievo Verona,0,0,D,0,0,D
 I2,30/04/00,Monza,Fermana,4,1,H,1,0,H
 I2,30/04/00,Napoli,Cosenza,1,0,H,0,0,D
 I2,30/04/00,US Pescara,Savoia,4,1,H,2,0,H
@@ -322,7 +322,7 @@ I2,01/05/00,Vicenza,Brescia,2,1,H,1,0,H
 I2,05/05/00,Pistoiese,Ternana,3,2,H,1,1,D
 I2,07/05/00,Alzano,Treviso,2,2,D,1,1,D
 I2,07/05/00,Brescia,Cesena,1,1,D,1,1,D
-I2,07/05/00,Chievo Hellas Verona,Atalanta,1,1,D,0,1,A
+I2,07/05/00,Chievo Verona,Atalanta,1,1,D,0,1,A
 I2,07/05/00,Fermana,Genoa,2,1,H,0,1,A
 I2,07/05/00,Ravenna,US Pescara,2,1,H,1,1,D
 I2,07/05/00,Salernitana,Cosenza,4,1,H,0,0,D
@@ -335,14 +335,14 @@ I2,14/05/00,Cosenza,Fermana,1,0,H,0,0,D
 I2,14/05/00,Genoa,Brescia,2,2,D,1,2,A
 I2,14/05/00,Monza,Cesena,1,1,D,0,0,D
 I2,14/05/00,Napoli,Alzano,3,1,H,1,0,H
-I2,14/05/00,Ravenna,Chievo Hellas Verona,2,2,D,1,0,H
+I2,14/05/00,Ravenna,Chievo Verona,2,2,D,1,0,H
 I2,14/05/00,Ternana,Savoia,3,1,H,1,0,H
 I2,14/05/00,Treviso,Pistoiese,3,3,D,2,1,H
 I2,15/05/00,Vicenza,Salernitana,2,0,H,1,0,H
 I2,21/05/00,Alzano,Atalanta,0,0,D,0,0,D
 I2,21/05/00,Brescia,Treviso,2,1,H,2,1,H
 I2,21/05/00,Cesena,Napoli,2,2,D,1,0,H
-I2,21/05/00,Chievo Hellas Verona,Vicenza,2,2,D,1,1,D
+I2,21/05/00,Chievo Verona,Vicenza,2,2,D,1,1,D
 I2,21/05/00,Empoli,Ternana,2,1,H,0,0,D
 I2,21/05/00,Fermana,Ravenna,2,2,D,1,1,D
 I2,21/05/00,Pistoiese,Cosenza,1,0,H,1,0,H
@@ -350,7 +350,7 @@ I2,21/05/00,Salernitana,US Pescara,4,3,H,3,0,H
 I2,21/05/00,Sampdoria,Monza,2,1,H,1,0,H
 I2,21/05/00,Savoia,Genoa,0,2,A,0,2,A
 I2,28/05/00,Atalanta,Fermana,4,0,H,1,0,H
-I2,28/05/00,Cosenza,Chievo Hellas Verona,2,0,H,1,0,H
+I2,28/05/00,Cosenza,Chievo Verona,2,0,H,1,0,H
 I2,28/05/00,Empoli,Alzano,2,1,H,0,0,D
 I2,28/05/00,Napoli,Brescia,3,0,H,2,0,H
 I2,28/05/00,US Pescara,Pistoiese,1,0,H,1,0,H
@@ -362,7 +362,7 @@ I2,28/05/00,Vicenza,Cesena,3,2,H,0,2,A
 I2,04/06/00,Alzano,US Pescara,4,2,H,2,1,H
 I2,04/06/00,Brescia,Empoli,1,0,H,0,0,D
 I2,04/06/00,Cesena,Cosenza,3,3,D,0,0,D
-I2,04/06/00,Chievo Hellas Verona,Treviso,2,1,H,2,0,H
+I2,04/06/00,Chievo Verona,Treviso,2,1,H,2,0,H
 I2,04/06/00,Fermana,Sampdoria,1,2,A,1,0,H
 I2,04/06/00,Genoa,Ravenna,3,2,H,0,1,A
 I2,04/06/00,Monza,Vicenza,2,1,H,2,0,H
@@ -371,7 +371,7 @@ I2,04/06/00,Salernitana,Ternana,0,2,A,0,2,A
 I2,04/06/00,Savoia,Atalanta,1,2,A,0,1,A
 I2,11/06/00,Atalanta,Cesena,1,1,D,1,1,D
 I2,11/06/00,Cosenza,Brescia,2,2,D,1,2,A
-I2,11/06/00,Empoli,Chievo Hellas Verona,4,2,H,3,0,H
+I2,11/06/00,Empoli,Chievo Verona,4,2,H,3,0,H
 I2,11/06/00,Napoli,Genoa,1,3,A,0,1,A
 I2,11/06/00,US Pescara,Monza,3,3,D,3,2,H
 I2,11/06/00,Ravenna,Pistoiese,1,2,A,1,1,D

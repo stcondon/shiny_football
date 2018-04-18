@@ -55,7 +55,6 @@ spain_tb <- function(dt) {
                                           temp[,sum(FTHG), by = 'AwayTeam']))
                       [,.(conceded = sum(conceded)), by = 'HomeTeam'],
                       by = 'HomeTeam', all = TRUE)[order(p, scored - conceded,
-                                                         scored,
                                                          decreasing = TRUE)]
       } #elif(nrow(unique(mini)) < nrow(mini)) {
         ## NOT GOING TO BUILD FAIR PLAY SILLINESS UNLESS VALIDATION FAILS

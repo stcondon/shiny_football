@@ -68,4 +68,7 @@ spain_tb <- function(dt) {
     t <- t[order(p, tb, scored - conceded, scored, decreasing = TRUE)]
     t[,c(1:4)]
   }
+  else {
+    t[order(p, decreasing = TRUE)]
+  }
 }

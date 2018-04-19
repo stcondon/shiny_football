@@ -56,9 +56,8 @@ spain_tb <- function(dt) {
                                                          decreasing = TRUE)]
         if(sum(duplicated(mini[,.(p,scored-conceded)])) > 0) {
           setkey(mini, HomeTeam)
-          mini[t, total_gd := i.scored - i.conceded][order(p, scored - conceded,
-                                                           total_gd,
-                                                           decreasing = TRUE)]
+          mini[t, total_gd := i.scored - i.conceded]
+          mini <- mini[order(p, scored - conceded, total_gd, decreasing = TRUE)]
           ## right here, let's try magrittr on mini, set the key,
           ## put the new stuff on and reorder
         }

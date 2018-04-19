@@ -1,6 +1,4 @@
 library(data.table)
-## https://en.wikipedia.org/wiki/La_Liga#Ranking_of_clubs_on_equal_points
-## ^^ EYE ROLL ^^
 spain_tb <- function(dt) {
   ## Cut down table to just full time goals and results
   dt <- dt[,c("HomeTeam","AwayTeam","FTR","FTHG","FTAG")]
@@ -55,15 +53,22 @@ spain_tb <- function(dt) {
                                           temp[,sum(FTHG), by = 'AwayTeam']))
                       [,.(conceded = sum(conceded)), by = 'HomeTeam'],
                       by = 'HomeTeam', all = TRUE)[order(p, scored - conceded,
-                                                         scored,
                                                          decreasing = TRUE)]
-      } #elif(nrow(unique(mini)) < nrow(mini)) {
-        ## NOT GOING TO BUILD FAIR PLAY SILLINESS UNLESS VALIDATION FAILS
-      # }
+        if(sum(duplicated(mini[,.(p,scored-conceded)])) > 0) {
+          setkey(mini, HomeTeam)
+          mini[t, total_gd := i.scored - i.conceded]
+          mini <- mini[order(p, scored - conceded, total_gd, decreasing = TRUE)]
+          ## right here, let's try magrittr on mini, set the key,
+          ## put the new stuff on and reorder
+        }
+      }
       mini[, tb := 2 * nrow(mini) - .I]
       t[mini, tb := as.double(i.tb)] ## had to coerce to double to avoid warning
     }
     t <- t[order(p, tb, scored - conceded, scored, decreasing = TRUE)]
     t[,c(1:4)]
+  }
+  else {
+    t[order(p, decreasing = TRUE)]
   }
 }

@@ -58,8 +58,6 @@ spain_tb <- function(dt) {
           setkey(mini, HomeTeam)
           mini[t, total_gd := i.scored - i.conceded]
           mini <- mini[order(p, scored - conceded, total_gd, decreasing = TRUE)]
-          ## right here, let's try magrittr on mini, set the key,
-          ## put the new stuff on and reorder
         }
       }
       mini[, tb := 2 * nrow(mini) - .I]

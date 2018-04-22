@@ -41,8 +41,10 @@ spain_tb <- function(dt) {
                              temp[FTR == 'D', .(p = uniqueN(HomeTeam)),
                                   by = 'AwayTeam']))[,.(p = sum(p)),
                                                      by = 'HomeTeam']
-      # if(nrow(mini) > 1 & sum(duplicated(mini$p)) > 0) {
-      if(nrow(mini) > 1) {
+      if(nrow(mini) > 1 & sum(duplicated(mini$p)) == 0) {
+        mini <- mini[order(p, decreasing = TRUE)]
+      }
+      else if(nrow(mini) > 1) {
         mini <- merge(mini,rbindlist(list(temp[, .(scored = sum(FTHG)),
                                                by = 'HomeTeam'],
                                           temp[,sum(FTAG),by = 'AwayTeam']))

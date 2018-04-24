@@ -14,7 +14,7 @@ forklift <- function(country = 'England', tier = '1',
                 '])_[[:digit:]]{4}.csv$')
   } else if(as.numeric(first_year) < 2010 && as.numeric(first_year) >= 2000 &&
             as.numeric(last_year) >= 2010) {
-    re <- paste0('(200[', fld, '-]|201[0-', lld,
+    re <- paste0('(200[', fld, '-9]|201[0-', lld,
                 '])_[[:digit:]]{4}.csv$')
   } else {
     re <- paste0('(', substr(first_year,1,3), '[', fld, '-', lld,

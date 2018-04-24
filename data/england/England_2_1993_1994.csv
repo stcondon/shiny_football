@@ -2,7 +2,7 @@ Div,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR
 E1,14/08/93,Barnsley,West Bromwich Albion,1,1,D
 E1,14/08/93,Charlton Athletic,Birmingham City,1,0,H
 E1,14/08/93,Crystal Palace,Tranmere,0,0,D
-E1,14/08/93,Derby,Sunderland,5,0,H
+E1,14/08/93,Derby County,Sunderland,5,0,H
 E1,14/08/93,Grimsby,Bolton Wanderers,0,0,D
 E1,14/08/93,Leicester City,Peterboro,2,1,H
 E1,14/08/93,Luton,Watford,2,1,H
@@ -13,10 +13,10 @@ E1,14/08/93,Wolverhampton Wanderers,Bristol City,3,1,H
 E1,15/08/93,Southend,Nott'm Forest,1,1,D
 E1,17/08/93,Peterboro,Barnsley,4,1,H
 E1,17/08/93,Portsmouth,Charlton Athletic,1,2,A
-E1,18/08/93,Nott'm Forest,Derby,1,1,D
+E1,18/08/93,Nott'm Forest,Derby County,1,1,D
 E1,21/08/93,Bolton Wanderers,Stoke City,1,1,D
 E1,21/08/93,Bristol City,Crystal Palace,2,0,H
-E1,21/08/93,Middlesbrough,Derby,3,0,H
+E1,21/08/93,Middlesbrough,Derby County,3,0,H
 E1,21/08/93,Nott'm Forest,Grimsby,5,3,H
 E1,21/08/93,Peterboro,Notts County,1,1,D
 E1,21/08/93,Portsmouth,Luton,1,0,H
@@ -34,7 +34,7 @@ E1,25/08/93,Wolverhampton Wanderers,Millwall,2,0,H
 E1,28/08/93,Barnsley,Birmingham City,2,3,A
 E1,28/08/93,Charlton Athletic,Bolton Wanderers,3,0,H
 E1,28/08/93,Crystal Palace,Portsmouth,5,1,H
-E1,28/08/93,Derby,Bristol City,1,0,H
+E1,28/08/93,Derby County,Bristol City,1,0,H
 E1,28/08/93,Grimsby,Tranmere,0,0,D
 E1,28/08/93,Leicester City,Millwall,4,0,H
 E1,28/08/93,Luton,Nott'm Forest,1,2,A
@@ -46,7 +46,7 @@ E1,28/08/93,Wolverhampton Wanderers,Middlesbrough,2,3,A
 E1,31/08/93,Birmingham City,Crystal Palace,2,4,A
 E1,31/08/93,Bolton Wanderers,Oxford,1,0,H
 E1,01/09/93,West Bromwich Albion,Southend,2,2,D
-E1,04/09/93,Birmingham City,Derby,3,0,H
+E1,04/09/93,Birmingham City,Derby County,3,0,H
 E1,04/09/93,Bristol City,Southend,2,1,H
 E1,04/09/93,Millwall,Barnsley,2,0,H
 E1,04/09/93,Peterboro,Grimsby,1,2,A
@@ -57,7 +57,7 @@ E1,05/09/93,West Bromwich Albion,Wolverhampton Wanderers,3,2,H
 E1,07/09/93,Watford,Wolverhampton Wanderers,1,0,H
 E1,11/09/93,Barnsley,Nott'm Forest,1,0,H
 E1,11/09/93,Charlton Athletic,Millwall,0,0,D
-E1,11/09/93,Derby,Peterboro,2,0,H
+E1,11/09/93,Derby County,Peterboro,2,0,H
 E1,11/09/93,Grimsby,Watford,2,2,D
 E1,11/09/93,Luton,Bolton Wanderers,0,2,A
 E1,11/09/93,Notts County,West Bromwich Albion,1,0,H
@@ -74,7 +74,7 @@ E1,18/09/93,Birmingham City,Grimsby,1,1,D
 E1,18/09/93,Bolton Wanderers,Leicester City,1,2,A
 E1,18/09/93,Bristol City,Charlton Athletic,0,0,D
 E1,18/09/93,Middlesbrough,Luton,0,0,D
-E1,18/09/93,Millwall,Derby,0,0,D
+E1,18/09/93,Millwall,Derby County,0,0,D
 E1,18/09/93,Peterboro,Oxford,3,1,H
 E1,18/09/93,Portsmouth,Southend,2,1,H
 E1,18/09/93,Sunderland,Wolverhampton Wanderers,0,2,A
@@ -85,7 +85,7 @@ E1,19/09/93,Nott'm Forest,Stoke City,2,3,A
 E1,25/09/93,Barnsley,Leicester City,0,1,A
 E1,25/09/93,Birmingham City,Luton,1,1,D
 E1,25/09/93,Grimsby,Wolverhampton Wanderers,2,0,H
-E1,25/09/93,Notts County,Derby,4,1,H
+E1,25/09/93,Notts County,Derby County,4,1,H
 E1,25/09/93,Peterboro,Millwall,0,0,D
 E1,25/09/93,Portsmouth,Bristol City,0,0,D
 E1,25/09/93,Stoke City,Southend,0,1,A
@@ -107,10 +107,10 @@ E1,02/10/93,Oxford,Grimsby,2,2,D
 E1,02/10/93,Southend,Tranmere,1,2,A
 E1,02/10/93,Sunderland,Peterboro,2,0,H
 E1,02/10/93,Wolverhampton Wanderers,Charlton Athletic,1,1,D
-E1,03/10/93,Derby,West Bromwich Albion,5,3,H
+E1,03/10/93,Derby County,West Bromwich Albion,5,3,H
 E1,05/10/93,Luton,Bristol City,0,2,A
 E1,09/10/93,Barnsley,Charlton Athletic,0,1,A
-E1,09/10/93,Derby,Luton,2,1,H
+E1,09/10/93,Derby County,Luton,2,1,H
 E1,09/10/93,Grimsby,Southend,4,0,H
 E1,09/10/93,Millwall,West Bromwich Albion,2,1,H
 E1,09/10/93,Notts County,Bristol City,2,0,H
@@ -125,7 +125,7 @@ E1,16/10/93,Bristol City,Barnsley,0,2,A
 E1,16/10/93,Charlton Athletic,Leicester City,2,1,H
 E1,16/10/93,Luton,Notts County,1,0,H
 E1,16/10/93,Nott'm Forest,Tranmere,2,1,H
-E1,16/10/93,Portsmouth,Derby,3,2,H
+E1,16/10/93,Portsmouth,Derby County,3,2,H
 E1,16/10/93,Southend,Oxford,6,1,H
 E1,16/10/93,Stoke City,Grimsby,1,0,H
 E1,16/10/93,West Bromwich Albion,Peterboro,3,0,H
@@ -137,7 +137,7 @@ E1,20/10/93,Nott'm Forest,Oxford,0,0,D
 E1,20/10/93,Sunderland,Luton,2,0,H
 E1,22/10/93,Tranmere,Bristol City,2,2,D
 E1,23/10/93,Barnsley,Southend,1,3,A
-E1,23/10/93,Derby,Crystal Palace,3,1,H
+E1,23/10/93,Derby County,Crystal Palace,3,1,H
 E1,23/10/93,Grimsby,Charlton Athletic,0,1,A
 E1,23/10/93,Notts County,Portsmouth,1,1,D
 E1,23/10/93,Oxford,Luton,0,1,A
@@ -147,7 +147,7 @@ E1,23/10/93,Watford,Bolton Wanderers,4,3,H
 E1,23/10/93,Wolverhampton Wanderers,Stoke City,1,1,D
 E1,24/10/93,Leicester City,Nott'm Forest,1,0,H
 E1,24/10/93,Millwall,Middlesbrough,1,1,D
-E1,30/10/93,Bolton Wanderers,Derby,0,2,A
+E1,30/10/93,Bolton Wanderers,Derby County,0,2,A
 E1,30/10/93,Bristol City,Sunderland,2,0,H
 E1,30/10/93,Charlton Athletic,Oxford,1,0,H
 E1,30/10/93,Crystal Palace,Grimsby,1,0,H
@@ -161,7 +161,7 @@ E1,30/10/93,West Bromwich Albion,Watford,4,1,H
 E1,31/10/93,Birmingham City,Millwall,1,0,H
 E1,02/11/93,Bolton Wanderers,Peterboro,1,1,D
 E1,02/11/93,Bristol City,Birmingham City,3,0,H
-E1,02/11/93,Charlton Athletic,Derby,1,2,A
+E1,02/11/93,Charlton Athletic,Derby County,1,2,A
 E1,02/11/93,Crystal Palace,Luton,3,2,H
 E1,02/11/93,Grimsby,Leicester City,0,0,D
 E1,02/11/93,Oxford,Barnsley,1,1,D
@@ -181,19 +181,19 @@ E1,06/11/93,Sunderland,Portsmouth,1,2,A
 E1,06/11/93,Watford,Stoke City,1,3,A
 E1,06/11/93,West Bromwich Albion,Bolton Wanderers,2,2,D
 E1,07/11/93,Barnsley,Grimsby,1,2,A
-E1,07/11/93,Derby,Wolverhampton Wanderers,0,4,A
+E1,07/11/93,Derby County,Wolverhampton Wanderers,0,4,A
 E1,07/11/93,Luton,Charlton Athletic,1,0,H
 E1,10/11/93,Wolverhampton Wanderers,Nott'm Forest,1,1,D
 E1,13/11/93,Bristol City,Millwall,2,2,D
 E1,13/11/93,Charlton Athletic,Notts County,5,1,H
-E1,13/11/93,Oxford,Derby,2,0,H
+E1,13/11/93,Oxford,Derby County,2,0,H
 E1,13/11/93,Southend,Luton,2,1,H
 E1,13/11/93,Tranmere,Sunderland,4,1,H
 E1,13/11/93,Wolverhampton Wanderers,Barnsley,1,1,D
 E1,14/11/93,Stoke City,Leicester City,1,0,H
 E1,20/11/93,Barnsley,Crystal Palace,1,3,A
 E1,20/11/93,Birmingham City,Portsmouth,0,1,A
-E1,20/11/93,Derby,Grimsby,2,1,H
+E1,20/11/93,Derby County,Grimsby,2,1,H
 E1,20/11/93,Leicester City,Oxford,2,3,A
 E1,20/11/93,Millwall,Tranmere,3,1,H
 E1,20/11/93,Notts County,Stoke City,2,0,H
@@ -205,7 +205,7 @@ E1,21/11/93,West Bromwich Albion,Nott'm Forest,0,2,A
 E1,24/11/93,Bolton Wanderers,Crystal Palace,1,0,H
 E1,27/11/93,Barnsley,Bolton Wanderers,1,1,D
 E1,27/11/93,Birmingham City,Tranmere,0,3,A
-E1,27/11/93,Derby,Southend,1,3,A
+E1,27/11/93,Derby County,Southend,1,3,A
 E1,27/11/93,Leicester City,Wolverhampton Wanderers,2,2,D
 E1,27/11/93,Luton,Stoke City,6,2,H
 E1,27/11/93,Millwall,Grimsby,1,0,H
@@ -224,7 +224,7 @@ E1,04/12/93,Portsmouth,Sunderland,0,1,A
 E1,04/12/93,Stoke City,Watford,2,0,H
 E1,05/12/93,Crystal Palace,Notts County,1,2,A
 E1,05/12/93,Southend,Leicester City,0,0,D
-E1,05/12/93,Wolverhampton Wanderers,Derby,2,2,D
+E1,05/12/93,Wolverhampton Wanderers,Derby County,2,2,D
 E1,07/12/93,Bolton Wanderers,West Bromwich Albion,1,1,D
 E1,07/12/93,Portsmouth,Watford,2,0,H
 E1,08/12/93,Leicester City,Crystal Palace,1,1,D
@@ -243,7 +243,7 @@ E1,18/12/93,Bolton Wanderers,Grimsby,1,1,D
 E1,18/12/93,Bristol City,Wolverhampton Wanderers,2,1,H
 E1,18/12/93,Middlesbrough,Notts County,3,0,H
 E1,18/12/93,Portsmouth,Oxford,1,1,D
-E1,18/12/93,Sunderland,Derby,1,0,H
+E1,18/12/93,Sunderland,Derby County,1,0,H
 E1,19/12/93,Millwall,Stoke City,2,0,H
 E1,19/12/93,Nott'm Forest,Southend,2,0,H
 E1,19/12/93,Peterboro,Leicester City,1,1,D
@@ -251,7 +251,7 @@ E1,19/12/93,Tranmere,Crystal Palace,0,1,A
 E1,19/12/93,Watford,Luton,2,2,D
 E1,19/12/93,West Bromwich Albion,Barnsley,1,1,D
 E1,26/12/93,Stoke City,Birmingham City,2,1,H
-E1,27/12/93,Barnsley,Derby,0,1,A
+E1,27/12/93,Barnsley,Derby County,0,1,A
 E1,27/12/93,Bolton Wanderers,Sunderland,0,0,D
 E1,27/12/93,Grimsby,Notts County,2,2,D
 E1,27/12/93,Leicester City,Watford,4,4,D
@@ -264,7 +264,7 @@ E1,27/12/93,Tranmere,Wolverhampton Wanderers,1,1,D
 E1,27/12/93,West Bromwich Albion,Bristol City,0,1,A
 E1,28/12/93,Birmingham City,West Bromwich Albion,2,0,H
 E1,28/12/93,Bristol City,Nott'm Forest,1,4,A
-E1,28/12/93,Derby,Leicester City,3,2,H
+E1,28/12/93,Derby County,Leicester City,3,2,H
 E1,28/12/93,Portsmouth,Bolton Wanderers,0,0,D
 E1,28/12/93,Sunderland,Millwall,2,1,H
 E1,28/12/93,Watford,Peterboro,2,1,H
@@ -282,13 +282,13 @@ E1,01/01/94,Nott'm Forest,Charlton Athletic,1,1,D
 E1,01/01/94,Oxford,Middlesbrough,1,1,D
 E1,01/01/94,Peterboro,Wolverhampton Wanderers,0,1,A
 E1,01/01/94,Southend,Birmingham City,3,1,H
-E1,01/01/94,Stoke City,Derby,2,1,H
+E1,01/01/94,Stoke City,Derby County,2,1,H
 E1,01/01/94,Tranmere,Watford,2,1,H
 E1,01/01/94,West Bromwich Albion,Luton,1,1,D
 E1,03/01/94,Birmingham City,Oxford,1,1,D
 E1,03/01/94,Bristol City,Stoke City,0,0,D
 E1,03/01/94,Charlton Athletic,West Bromwich Albion,2,1,H
-E1,03/01/94,Derby,Tranmere,4,0,H
+E1,03/01/94,Derby County,Tranmere,4,0,H
 E1,03/01/94,Middlesbrough,Grimsby,1,0,H
 E1,03/01/94,Notts County,Southend,2,1,H
 E1,03/01/94,Sunderland,Barnsley,1,0,H
@@ -299,7 +299,7 @@ E1,11/01/94,Oxford,Sunderland,0,3,A
 E1,12/01/94,Leicester City,West Bromwich Albion,4,2,H
 E1,12/01/94,Southend,Bolton Wanderers,0,2,A
 E1,15/01/94,Barnsley,Bristol City,1,1,D
-E1,15/01/94,Derby,Portsmouth,1,0,H
+E1,15/01/94,Derby County,Portsmouth,1,0,H
 E1,15/01/94,Grimsby,Stoke City,0,0,D
 E1,15/01/94,Millwall,Bolton Wanderers,1,0,H
 E1,15/01/94,Notts County,Luton,1,2,A
@@ -314,7 +314,7 @@ E1,22/01/94,Birmingham City,Sunderland,0,0,D
 E1,22/01/94,Bristol City,Notts County,0,2,A
 E1,22/01/94,Charlton Athletic,Barnsley,2,1,H
 E1,22/01/94,Crystal Palace,Leicester City,2,1,H
-E1,22/01/94,Luton,Derby,2,1,H
+E1,22/01/94,Luton,Derby County,2,1,H
 E1,22/01/94,Middlesbrough,Watford,1,1,D
 E1,22/01/94,Portsmouth,Peterboro,0,2,A
 E1,22/01/94,Southend,Grimsby,1,2,A
@@ -322,14 +322,14 @@ E1,22/01/94,Stoke City,Oxford,1,1,D
 E1,22/01/94,West Bromwich Albion,Millwall,0,0,D
 E1,23/01/94,Bolton Wanderers,Tranmere,2,1,H
 E1,23/01/94,Nott'm Forest,Wolverhampton Wanderers,0,0,D
-E1,29/01/94,Derby,Watford,1,2,A
+E1,29/01/94,Derby County,Watford,1,2,A
 E1,01/02/94,Crystal Palace,Peterboro,3,2,H
 E1,01/02/94,Grimsby,West Bromwich Albion,2,2,D
 E1,05/02/94,Birmingham City,Peterboro,0,0,D
 E1,05/02/94,Bolton Wanderers,Watford,3,1,H
 E1,05/02/94,Bristol City,Tranmere,2,0,H
 E1,05/02/94,Charlton Athletic,Grimsby,0,1,A
-E1,05/02/94,Crystal Palace,Derby,1,1,D
+E1,05/02/94,Crystal Palace,Derby County,1,1,D
 E1,05/02/94,Luton,Oxford,3,0,H
 E1,05/02/94,Portsmouth,Notts County,0,0,D
 E1,05/02/94,Southend,Barnsley,0,3,A
@@ -339,7 +339,7 @@ E1,06/02/94,Middlesbrough,Millwall,4,2,H
 E1,06/02/94,Nott'm Forest,Leicester City,4,0,H
 E1,11/02/94,Tranmere,Portsmouth,3,1,H
 E1,12/02/94,Barnsley,Stoke City,3,0,H
-E1,12/02/94,Derby,Bolton Wanderers,2,0,H
+E1,12/02/94,Derby County,Bolton Wanderers,2,0,H
 E1,12/02/94,Grimsby,Crystal Palace,1,1,D
 E1,12/02/94,Leicester City,Luton,2,1,H
 E1,12/02/94,Millwall,Birmingham City,2,1,H
@@ -353,7 +353,7 @@ E1,19/02/94,Birmingham City,Notts County,2,3,A
 E1,19/02/94,Nott'm Forest,Crystal Palace,1,1,D
 E1,19/02/94,Peterboro,Stoke City,1,1,D
 E1,19/02/94,Portsmouth,Grimsby,3,1,H
-E1,19/02/94,Watford,Derby,3,4,A
+E1,19/02/94,Watford,Derby County,3,4,A
 E1,19/02/94,West Bromwich Albion,Leicester City,1,2,A
 E1,22/02/94,Charlton Athletic,Sunderland,0,0,D
 E1,22/02/94,Crystal Palace,Bristol City,4,1,H
@@ -361,11 +361,11 @@ E1,22/02/94,Luton,Portsmouth,4,1,H
 E1,22/02/94,Notts County,Peterboro,2,1,H
 E1,22/02/94,Stoke City,Bolton Wanderers,2,0,H
 E1,22/02/94,Wolverhampton Wanderers,Birmingham City,3,0,H
-E1,23/02/94,Derby,Middlesbrough,0,1,A
+E1,23/02/94,Derby County,Middlesbrough,0,1,A
 E1,23/02/94,Leicester City,Tranmere,1,1,D
 E1,26/02/94,Charlton Athletic,Watford,2,1,H
 E1,26/02/94,Crystal Palace,Bolton Wanderers,1,1,D
-E1,26/02/94,Derby,Birmingham City,1,1,D
+E1,26/02/94,Derby County,Birmingham City,1,1,D
 E1,26/02/94,Luton,Sunderland,2,1,H
 E1,26/02/94,Oxford,Nott'm Forest,1,0,H
 E1,26/02/94,Southend,Bristol City,0,1,A
@@ -376,7 +376,7 @@ E1,02/03/94,Nott'm Forest,Peterboro,2,0,H
 E1,02/03/94,Southend,Millwall,1,1,D
 E1,05/03/94,Birmingham City,Barnsley,0,2,A
 E1,05/03/94,Bolton Wanderers,Charlton Athletic,3,2,H
-E1,05/03/94,Bristol City,Derby,0,0,D
+E1,05/03/94,Bristol City,Derby County,0,0,D
 E1,05/03/94,Middlesbrough,Wolverhampton Wanderers,1,0,H
 E1,05/03/94,Nott'm Forest,Luton,2,0,H
 E1,05/03/94,Peterboro,Southend,3,1,H
@@ -390,7 +390,7 @@ E1,08/03/94,Grimsby,Peterboro,3,2,H
 E1,08/03/94,Luton,Middlesbrough,1,1,D
 E1,12/03/94,Barnsley,Tranmere,1,0,H
 E1,12/03/94,Crystal Palace,West Bromwich Albion,1,0,H
-E1,12/03/94,Derby,Millwall,0,0,D
+E1,12/03/94,Derby County,Millwall,0,0,D
 E1,12/03/94,Grimsby,Birmingham City,1,0,H
 E1,12/03/94,Leicester City,Middlesbrough,2,0,H
 E1,12/03/94,Notts County,Watford,1,0,H
@@ -405,7 +405,7 @@ E1,15/03/94,Portsmouth,Wolverhampton Wanderers,3,0,H
 E1,15/03/94,Tranmere,Stoke City,2,0,H
 E1,15/03/94,Watford,Grimsby,0,3,A
 E1,16/03/94,Nott'm Forest,Barnsley,2,1,H
-E1,16/03/94,Peterboro,Derby,2,2,D
+E1,16/03/94,Peterboro,Derby County,2,2,D
 E1,16/03/94,Sunderland,Crystal Palace,1,0,H
 E1,16/03/94,West Bromwich Albion,Notts County,3,0,H
 E1,19/03/94,Bristol City,Portsmouth,1,0,H
@@ -431,13 +431,13 @@ E1,26/03/94,Peterboro,Sunderland,1,3,A
 E1,26/03/94,Portsmouth,Nott'm Forest,2,1,H
 E1,26/03/94,Stoke City,Crystal Palace,0,2,A
 E1,26/03/94,Watford,Millwall,2,0,H
-E1,26/03/94,West Bromwich Albion,Derby,1,2,A
+E1,26/03/94,West Bromwich Albion,Derby County,1,2,A
 E1,29/03/94,Barnsley,Sunderland,4,0,H
 E1,29/03/94,Bolton Wanderers,Wolverhampton Wanderers,1,3,A
 E1,29/03/94,Grimsby,Middlesbrough,1,1,D
 E1,29/03/94,Oxford,Birmingham City,2,0,H
 E1,29/03/94,Peterboro,Crystal Palace,1,1,D
-E1,29/03/94,Tranmere,Derby,4,0,H
+E1,29/03/94,Tranmere,Derby County,4,0,H
 E1,30/03/94,Leicester City,Portsmouth,0,3,A
 E1,30/03/94,Millwall,Luton,2,2,D
 E1,30/03/94,Nott'm Forest,Watford,2,1,H
@@ -448,7 +448,7 @@ E1,02/04/94,Birmingham City,Stoke City,3,1,H
 E1,02/04/94,Bristol City,West Bromwich Albion,0,0,D
 E1,02/04/94,Charlton Athletic,Southend,4,3,H
 E1,02/04/94,Crystal Palace,Oxford,2,1,H
-E1,02/04/94,Derby,Barnsley,2,0,H
+E1,02/04/94,Derby County,Barnsley,2,0,H
 E1,02/04/94,Luton,Peterboro,2,0,H
 E1,02/04/94,Middlesbrough,Nott'm Forest,2,2,D
 E1,02/04/94,Notts County,Grimsby,2,1,H
@@ -463,7 +463,7 @@ E1,04/04/94,Nott'm Forest,Bristol City,0,0,D
 E1,04/04/94,Oxford,Wolverhampton Wanderers,4,0,H
 E1,04/04/94,Stoke City,Charlton Athletic,1,0,H
 E1,04/04/94,Tranmere,Middlesbrough,4,0,H
-E1,05/04/94,Leicester City,Derby,3,3,D
+E1,05/04/94,Leicester City,Derby County,3,3,D
 E1,05/04/94,Peterboro,Watford,3,4,A
 E1,06/04/94,Millwall,Sunderland,2,1,H
 E1,06/04/94,Southend,Crystal Palace,1,2,A
@@ -471,7 +471,7 @@ E1,09/04/94,Birmingham City,Southend,3,1,H
 E1,09/04/94,Bristol City,Grimsby,1,0,H
 E1,09/04/94,Charlton Athletic,Nott'm Forest,0,1,A
 E1,09/04/94,Crystal Palace,Millwall,1,0,H
-E1,09/04/94,Derby,Stoke City,4,2,H
+E1,09/04/94,Derby County,Stoke City,4,2,H
 E1,09/04/94,Middlesbrough,Oxford,2,1,H
 E1,09/04/94,Notts County,Bolton Wanderers,2,1,H
 E1,09/04/94,Portsmouth,Barnsley,2,1,H
@@ -498,14 +498,14 @@ E1,16/04/94,West Bromwich Albion,Tranmere,1,3,A
 E1,17/04/94,Millwall,Nott'm Forest,2,2,D
 E1,19/04/94,Bristol City,Luton,1,0,H
 E1,19/04/94,Middlesbrough,Charlton Athletic,2,0,H
-E1,20/04/94,Derby,Charlton Athletic,2,0,H
-E1,21/04/94,Derby,Notts County,1,1,D
+E1,20/04/94,Derby County,Charlton Athletic,2,0,H
+E1,21/04/94,Derby County,Notts County,1,1,D
 E1,21/04/94,Millwall,Wolverhampton Wanderers,1,0,H
 E1,23/04/94,Bolton Wanderers,Middlesbrough,4,1,H
 E1,23/04/94,Bristol City,Watford,1,1,D
 E1,23/04/94,Charlton Athletic,Peterboro,5,1,H
 E1,23/04/94,Crystal Palace,Barnsley,1,0,H
-E1,23/04/94,Grimsby,Derby,1,1,D
+E1,23/04/94,Grimsby,Derby County,1,1,D
 E1,23/04/94,Oxford,Leicester City,2,2,D
 E1,23/04/94,Portsmouth,Birmingham City,0,2,A
 E1,23/04/94,Southend,Sunderland,0,1,A
@@ -518,11 +518,11 @@ E1,26/04/94,Middlesbrough,Barnsley,5,0,H
 E1,26/04/94,Portsmouth,Leicester City,0,1,A
 E1,26/04/94,Sunderland,Oxford,2,3,A
 E1,26/04/94,Tranmere,Charlton Athletic,2,0,H
-E1,27/04/94,Derby,Nott'm Forest,0,2,A
+E1,27/04/94,Derby County,Nott'm Forest,0,2,A
 E1,27/04/94,West Bromwich Albion,Birmingham City,2,4,A
 E1,30/04/94,Barnsley,Wolverhampton Wanderers,2,0,H
 E1,30/04/94,Bolton Wanderers,Birmingham City,1,1,D
-E1,30/04/94,Derby,Oxford,2,1,H
+E1,30/04/94,Derby County,Oxford,2,1,H
 E1,30/04/94,Leicester City,Stoke City,1,1,D
 E1,30/04/94,Luton,Southend,1,1,D
 E1,30/04/94,Millwall,Bristol City,0,0,D
@@ -547,7 +547,7 @@ E1,08/05/94,Grimsby,Millwall,0,0,D
 E1,08/05/94,Nott'm Forest,Sunderland,2,2,D
 E1,08/05/94,Oxford,Notts County,2,1,H
 E1,08/05/94,Portsmouth,West Bromwich Albion,0,1,A
-E1,08/05/94,Southend,Derby,4,3,H
+E1,08/05/94,Southend,Derby County,4,3,H
 E1,08/05/94,Stoke City,Luton,2,2,D
 E1,08/05/94,Tranmere,Birmingham City,1,2,A
 E1,08/05/94,Wolverhampton Wanderers,Leicester City,1,1,D

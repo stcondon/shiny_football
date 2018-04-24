@@ -9,7 +9,7 @@ E1,12/08/95,Sunderland,Leicester City,1,2,A
 E1,12/08/95,Tranmere,Wolverhampton Wanderers,2,2,D
 E1,12/08/95,Watford,Sheffield United,2,1,H
 E1,12/08/95,West Bromwich Albion,Charlton Athletic,1,0,H
-E1,13/08/95,Derby,Port Vale,0,0,D
+E1,13/08/95,Derby County,Port Vale,0,0,D
 E1,13/08/95,Luton,Norwich City,1,3,A
 E1,19/08/95,Barnsley,Oldham,2,1,H
 E1,19/08/95,Charlton Athletic,Birmingham City,3,1,H
@@ -19,13 +19,13 @@ E1,19/08/95,Ipswich,Crystal Palace,1,0,H
 E1,19/08/95,Leicester City,Stoke City,2,3,A
 E1,19/08/95,Norwich City,Sunderland,0,0,D
 E1,19/08/95,Port Vale,Millwall,0,1,A
-E1,19/08/95,Reading,Derby,3,2,H
+E1,19/08/95,Reading,Derby County,3,2,H
 E1,19/08/95,Sheffield United,Tranmere,0,2,A
 E1,19/08/95,Southend,Luton,0,1,A
 E1,20/08/95,Wolverhampton Wanderers,West Bromwich Albion,1,1,D
 E1,26/08/95,Birmingham City,Norwich City,3,1,H
 E1,26/08/95,Crystal Palace,Charlton Athletic,1,1,D
-E1,26/08/95,Derby,Grimsby,1,1,D
+E1,26/08/95,Derby County,Grimsby,1,1,D
 E1,26/08/95,Luton,Leicester City,1,1,D
 E1,26/08/95,Millwall,Southend,0,0,D
 E1,26/08/95,Oldham,Sheffield United,2,1,H
@@ -46,14 +46,14 @@ E1,30/08/95,Ipswich,Stoke City,4,1,H
 E1,30/08/95,Leicester City,Portsmouth,4,2,H
 E1,30/08/95,Norwich City,Oldham,2,1,H
 E1,30/08/95,Port Vale,Sunderland,1,1,D
-E1,30/08/95,Wolverhampton Wanderers,Derby,3,0,H
+E1,30/08/95,Wolverhampton Wanderers,Derby County,3,0,H
 E1,01/09/95,Southend,Reading,0,0,D
 E1,02/09/95,Barnsley,Birmingham City,0,5,A
 E1,02/09/95,Charlton Athletic,Huddersfield Town,2,1,H
 E1,02/09/95,Grimsby,Watford,0,0,D
 E1,02/09/95,Ipswich,Sunderland,3,0,H
 E1,02/09/95,Leicester City,Wolverhampton Wanderers,1,0,H
-E1,02/09/95,Luton,Derby,1,2,A
+E1,02/09/95,Luton,Derby County,1,2,A
 E1,02/09/95,Norwich City,Port Vale,2,1,H
 E1,02/09/95,Portsmouth,Millwall,0,1,A
 E1,02/09/95,Stoke City,Oldham,0,1,A
@@ -69,7 +69,7 @@ E1,09/09/95,Sunderland,Southend,1,0,H
 E1,09/09/95,Tranmere,Charlton Athletic,0,0,D
 E1,09/09/95,Watford,Stoke City,3,0,H
 E1,09/09/95,Wolverhampton Wanderers,Grimsby,4,1,H
-E1,10/09/95,Derby,Leicester City,0,1,A
+E1,10/09/95,Derby County,Leicester City,0,1,A
 E1,12/09/95,Birmingham City,Stoke City,1,1,D
 E1,12/09/95,Huddersfield Town,Barnsley,3,0,H
 E1,12/09/95,Oldham,Ipswich,1,1,D
@@ -79,7 +79,7 @@ E1,12/09/95,Sheffield United,Charlton Athletic,2,0,H
 E1,12/09/95,Sunderland,Portsmouth,1,1,D
 E1,12/09/95,Tranmere,West Bromwich Albion,2,2,D
 E1,12/09/95,Watford,Crystal Palace,0,0,D
-E1,13/09/95,Derby,Southend,1,0,H
+E1,13/09/95,Derby County,Southend,1,0,H
 E1,13/09/95,Millwall,Luton,1,0,H
 E1,13/09/95,Wolverhampton Wanderers,Norwich City,0,2,A
 E1,16/09/95,Charlton Athletic,Oldham,1,1,D
@@ -89,12 +89,12 @@ E1,16/09/95,Ipswich,Watford,4,2,H
 E1,16/09/95,Leicester City,Reading,1,1,D
 E1,16/09/95,Luton,Sunderland,0,2,A
 E1,16/09/95,Norwich City,Millwall,0,0,D
-E1,16/09/95,Portsmouth,Derby,2,2,D
+E1,16/09/95,Portsmouth,Derby County,2,2,D
 E1,16/09/95,Southend,Wolverhampton Wanderers,2,1,H
 E1,16/09/95,Stoke City,Tranmere,0,0,D
 E1,17/09/95,Barnsley,Sheffield United,2,2,D
 E1,17/09/95,West Bromwich Albion,Birmingham City,1,0,H
-E1,23/09/95,Barnsley,Derby,2,0,H
+E1,23/09/95,Barnsley,Derby County,2,0,H
 E1,23/09/95,Grimsby,Norwich City,2,2,D
 E1,23/09/95,Ipswich,Charlton Athletic,1,5,A
 E1,23/09/95,Leicester City,Southend,1,3,A
@@ -117,20 +117,20 @@ E1,30/09/95,Southend,Grimsby,1,0,H
 E1,30/09/95,Sunderland,Reading,2,2,D
 E1,30/09/95,Tranmere,Watford,2,3,A
 E1,30/09/95,West Bromwich Albion,Huddersfield Town,1,2,A
-E1,01/10/95,Derby,Millwall,2,2,D
+E1,01/10/95,Derby County,Millwall,2,2,D
 E1,07/10/95,Barnsley,Leicester City,2,2,D
 E1,07/10/95,Charlton Athletic,Grimsby,0,1,A
 E1,07/10/95,Crystal Palace,Sunderland,0,1,A
 E1,07/10/95,Huddersfield Town,Port Vale,0,2,A
 E1,07/10/95,Ipswich,Wolverhampton Wanderers,1,2,A
 E1,07/10/95,Oldham,Portsmouth,1,1,D
-E1,07/10/95,Sheffield United,Derby,0,2,A
+E1,07/10/95,Sheffield United,Derby County,0,2,A
 E1,07/10/95,Stoke City,Norwich City,1,1,D
 E1,07/10/95,Tranmere,Luton,1,0,H
 E1,07/10/95,Watford,Millwall,0,1,A
 E1,07/10/95,West Bromwich Albion,Reading,2,0,H
 E1,08/10/95,Birmingham City,Southend,2,0,H
-E1,14/10/95,Derby,Ipswich,1,1,D
+E1,14/10/95,Derby County,Ipswich,1,1,D
 E1,14/10/95,Grimsby,Oldham,1,1,D
 E1,14/10/95,Leicester City,Charlton Athletic,1,1,D
 E1,14/10/95,Luton,West Bromwich Albion,1,2,A
@@ -153,8 +153,8 @@ E1,21/10/95,Watford,Wolverhampton Wanderers,1,1,D
 E1,21/10/95,West Bromwich Albion,Portsmouth,2,1,H
 E1,22/10/95,Crystal Palace,Millwall,1,2,A
 E1,22/10/95,Ipswich,Luton,0,1,A
-E1,22/10/95,Stoke City,Derby,1,1,D
-E1,28/10/95,Derby,Oldham,2,1,H
+E1,22/10/95,Stoke City,Derby County,1,1,D
+E1,28/10/95,Derby County,Oldham,2,1,H
 E1,28/10/95,Grimsby,Stoke City,1,0,H
 E1,28/10/95,Leicester City,Crystal Palace,2,3,A
 E1,28/10/95,Millwall,West Bromwich Albion,2,1,H
@@ -173,12 +173,12 @@ E1,04/11/95,Huddersfield Town,Norwich City,3,2,H
 E1,04/11/95,Ipswich,Grimsby,2,2,D
 E1,04/11/95,Sheffield United,Portsmouth,4,1,H
 E1,04/11/95,Stoke City,Luton,5,0,H
-E1,04/11/95,Tranmere,Derby,5,1,H
+E1,04/11/95,Tranmere,Derby County,5,1,H
 E1,04/11/95,Watford,Southend,2,2,D
 E1,05/11/95,Charlton Athletic,Sunderland,1,1,D
 E1,05/11/95,Oldham,Port Vale,2,2,D
 E1,05/11/95,West Bromwich Albion,Leicester City,2,3,A
-E1,11/11/95,Derby,West Bromwich Albion,3,0,H
+E1,11/11/95,Derby County,West Bromwich Albion,3,0,H
 E1,11/11/95,Grimsby,Barnsley,3,1,H
 E1,11/11/95,Leicester City,Watford,1,0,H
 E1,11/11/95,Luton,Oldham,1,1,D
@@ -189,7 +189,7 @@ E1,11/11/95,Portsmouth,Huddersfield Town,1,1,D
 E1,11/11/95,Reading,Birmingham City,0,1,A
 E1,11/11/95,Southend,Stoke City,2,4,A
 E1,12/11/95,Wolverhampton Wanderers,Charlton Athletic,0,0,D
-E1,18/11/95,Derby,Charlton Athletic,2,0,H
+E1,18/11/95,Derby County,Charlton Athletic,2,0,H
 E1,18/11/95,Grimsby,West Bromwich Albion,1,0,H
 E1,18/11/95,Luton,Birmingham City,0,0,D
 E1,18/11/95,Millwall,Huddersfield Town,0,0,D
@@ -202,7 +202,7 @@ E1,19/11/95,Leicester City,Tranmere,0,1,A
 E1,19/11/95,Norwich City,Ipswich,2,1,H
 E1,19/11/95,Southend,Crystal Palace,1,1,D
 E1,21/11/95,Barnsley,Portsmouth,0,0,D
-E1,21/11/95,Birmingham City,Derby,1,4,A
+E1,21/11/95,Birmingham City,Derby County,1,4,A
 E1,21/11/95,Charlton Athletic,Reading,2,1,H
 E1,21/11/95,Huddersfield Town,Leicester City,3,1,H
 E1,21/11/95,Oldham,Millwall,2,2,D
@@ -215,7 +215,7 @@ E1,22/11/95,Stoke City,Sunderland,1,0,H
 E1,22/11/95,Tranmere,Port Vale,2,1,H
 E1,25/11/95,Barnsley,Luton,1,0,H
 E1,25/11/95,Charlton Athletic,Port Vale,2,2,D
-E1,25/11/95,Crystal Palace,Derby,0,0,D
+E1,25/11/95,Crystal Palace,Derby County,0,0,D
 E1,25/11/95,Huddersfield Town,Wolverhampton Wanderers,2,1,H
 E1,25/11/95,Ipswich,Portsmouth,3,2,H
 E1,25/11/95,Oldham,Southend,0,1,A
@@ -225,7 +225,7 @@ E1,25/11/95,Tranmere,Grimsby,0,1,A
 E1,25/11/95,West Bromwich Albion,Sunderland,0,1,A
 E1,26/11/95,Birmingham City,Leicester City,2,2,D
 E1,26/11/95,Watford,Norwich City,0,2,A
-E1,02/12/95,Derby,Sheffield United,4,2,H
+E1,02/12/95,Derby County,Sheffield United,4,2,H
 E1,02/12/95,Grimsby,Charlton Athletic,1,2,A
 E1,02/12/95,Leicester City,Barnsley,2,2,D
 E1,02/12/95,Luton,Tranmere,3,2,H
@@ -241,7 +241,7 @@ E1,05/12/95,Millwall,Charlton Athletic,0,2,A
 E1,09/12/95,Birmingham City,Watford,1,0,H
 E1,09/12/95,Charlton Athletic,Ipswich,0,2,A
 E1,09/12/95,Crystal Palace,Oldham,2,2,D
-E1,09/12/95,Derby,Barnsley,4,1,H
+E1,09/12/95,Derby County,Barnsley,4,1,H
 E1,09/12/95,Norwich City,Grimsby,2,2,D
 E1,09/12/95,Port Vale,Reading,3,2,H
 E1,09/12/95,Sheffield United,Huddersfield Town,0,2,A
@@ -254,7 +254,7 @@ E1,16/12/95,Barnsley,Charlton Athletic,1,2,A
 E1,16/12/95,Grimsby,Southend,1,1,D
 E1,16/12/95,Huddersfield Town,West Bromwich Albion,4,1,H
 E1,16/12/95,Ipswich,Sheffield United,1,1,D
-E1,16/12/95,Millwall,Derby,0,1,A
+E1,16/12/95,Millwall,Derby County,0,1,A
 E1,16/12/95,Oldham,Birmingham City,4,0,H
 E1,16/12/95,Portsmouth,Luton,4,0,H
 E1,16/12/95,Reading,Sunderland,1,1,D
@@ -265,7 +265,7 @@ E1,17/12/95,Leicester City,Norwich City,3,2,H
 E1,20/12/95,Southend,Port Vale,2,1,H
 E1,22/12/95,Ipswich,Barnsley,2,2,D
 E1,23/12/95,Birmingham City,Tranmere,1,0,H
-E1,23/12/95,Derby,Sunderland,3,1,H
+E1,23/12/95,Derby County,Sunderland,3,1,H
 E1,23/12/95,Grimsby,Leicester City,2,2,D
 E1,23/12/95,Luton,Huddersfield Town,2,2,D
 E1,23/12/95,Oldham,Watford,0,0,D
@@ -274,7 +274,7 @@ E1,23/12/95,Stoke City,Sheffield United,2,2,D
 E1,23/12/95,West Bromwich Albion,Crystal Palace,2,3,A
 E1,26/12/95,Barnsley,Stoke City,3,1,H
 E1,26/12/95,Charlton Athletic,Portsmouth,2,1,H
-E1,26/12/95,Huddersfield Town,Derby,0,1,A
+E1,26/12/95,Huddersfield Town,Derby County,0,1,A
 E1,26/12/95,Norwich City,Southend,0,1,A
 E1,26/12/95,Port Vale,West Bromwich Albion,3,1,H
 E1,26/12/95,Sheffield United,Birmingham City,1,1,D
@@ -283,7 +283,7 @@ E1,26/12/95,Wolverhampton Wanderers,Millwall,1,1,D
 E1,30/12/95,Huddersfield Town,Stoke City,1,1,D
 E1,30/12/95,Norwich City,Reading,3,3,D
 E1,30/12/95,Wolverhampton Wanderers,Portsmouth,2,2,D
-E1,01/01/96,Derby,Norwich City,2,1,H
+E1,01/01/96,Derby County,Norwich City,2,1,H
 E1,01/01/96,Grimsby,Huddersfield Town,1,1,D
 E1,01/01/96,Ipswich,Port Vale,5,1,H
 E1,01/01/96,Millwall,Leicester City,1,1,D
@@ -291,7 +291,7 @@ E1,01/01/96,Portsmouth,Crystal Palace,2,3,A
 E1,01/01/96,Reading,Tranmere,1,0,H
 E1,01/01/96,Southend,Barnsley,0,0,D
 E1,13/01/96,Crystal Palace,Ipswich,1,1,D
-E1,13/01/96,Derby,Reading,3,0,H
+E1,13/01/96,Derby County,Reading,3,0,H
 E1,13/01/96,Luton,Southend,3,1,H
 E1,13/01/96,Millwall,Port Vale,1,2,A
 E1,13/01/96,Oldham,Barnsley,0,1,A
@@ -308,7 +308,7 @@ E1,20/01/96,Grimsby,Millwall,1,2,A
 E1,20/01/96,Huddersfield Town,Oldham,0,0,D
 E1,20/01/96,Ipswich,Birmingham City,2,0,H
 E1,20/01/96,Norwich City,Luton,0,1,A
-E1,20/01/96,Port Vale,Derby,1,1,D
+E1,20/01/96,Port Vale,Derby County,1,1,D
 E1,20/01/96,Reading,Stoke City,1,0,H
 E1,20/01/96,Sheffield United,Watford,1,1,D
 E1,20/01/96,Southend,Portsmouth,2,1,H
@@ -319,7 +319,7 @@ E1,27/01/96,Millwall,Portsmouth,1,1,D
 E1,30/01/96,Sunderland,Tranmere,0,0,D
 E1,31/01/96,Luton,Sheffield United,1,0,H
 E1,03/02/96,Barnsley,Watford,2,1,H
-E1,03/02/96,Grimsby,Derby,1,1,D
+E1,03/02/96,Grimsby,Derby County,1,1,D
 E1,03/02/96,Huddersfield Town,Tranmere,1,0,H
 E1,03/02/96,Ipswich,West Bromwich Albion,2,1,H
 E1,03/02/96,Leicester City,Luton,1,1,D
@@ -330,7 +330,7 @@ E1,04/02/96,Charlton Athletic,Crystal Palace,0,0,D
 E1,04/02/96,Norwich City,Birmingham City,1,1,D
 E1,04/02/96,Reading,Portsmouth,0,1,A
 E1,10/02/96,Crystal Palace,Sheffield United,0,0,D
-E1,10/02/96,Derby,Wolverhampton Wanderers,0,0,D
+E1,10/02/96,Derby County,Wolverhampton Wanderers,0,0,D
 E1,10/02/96,Luton,Grimsby,3,2,H
 E1,10/02/96,Millwall,Reading,1,1,D
 E1,10/02/96,Oldham,Norwich City,2,0,H
@@ -348,7 +348,7 @@ E1,17/02/96,Leicester City,Port Vale,1,1,D
 E1,17/02/96,Luton,Millwall,1,0,H
 E1,17/02/96,Norwich City,Wolverhampton Wanderers,2,3,A
 E1,17/02/96,Portsmouth,Sunderland,2,2,D
-E1,17/02/96,Southend,Derby,1,2,A
+E1,17/02/96,Southend,Derby County,1,2,A
 E1,17/02/96,Stoke City,Birmingham City,1,0,H
 E1,17/02/96,West Bromwich Albion,Tranmere,1,1,D
 E1,20/02/96,Birmingham City,Barnsley,0,0,D
@@ -356,9 +356,9 @@ E1,20/02/96,Huddersfield Town,Charlton Athletic,2,2,D
 E1,20/02/96,Sheffield United,West Bromwich Albion,1,2,A
 E1,20/02/96,Sunderland,Ipswich,1,0,H
 E1,20/02/96,Tranmere,Crystal Palace,2,3,A
-E1,21/02/96,Derby,Luton,1,1,D
+E1,21/02/96,Derby County,Luton,1,1,D
 E1,21/02/96,Wolverhampton Wanderers,Leicester City,2,3,A
-E1,24/02/96,Derby,Portsmouth,3,2,H
+E1,24/02/96,Derby County,Portsmouth,3,2,H
 E1,24/02/96,Huddersfield Town,Crystal Palace,2,0,H
 E1,24/02/96,Millwall,Norwich City,2,1,H
 E1,24/02/96,Oldham,Charlton Athletic,1,1,D
@@ -373,11 +373,11 @@ E1,27/02/96,Crystal Palace,Birmingham City,3,2,H
 E1,27/02/96,Luton,Reading,1,2,A
 E1,27/02/96,Southend,Sunderland,0,2,A
 E1,27/02/96,West Bromwich Albion,Oldham,1,0,H
-E1,28/02/96,Leicester City,Derby,0,0,D
+E1,28/02/96,Leicester City,Derby County,0,0,D
 E1,28/02/96,Norwich City,Sheffield United,0,0,D
 E1,28/02/96,Stoke City,Watford,2,0,H
 E1,02/03/96,Birmingham City,Sheffield United,0,1,A
-E1,02/03/96,Derby,Huddersfield Town,3,2,H
+E1,02/03/96,Derby County,Huddersfield Town,3,2,H
 E1,02/03/96,Luton,Crystal Palace,0,0,D
 E1,02/03/96,Millwall,Wolverhampton Wanderers,0,1,A
 E1,02/03/96,Portsmouth,Charlton Athletic,2,1,H
@@ -391,7 +391,7 @@ E1,03/03/96,Oldham,Tranmere,1,2,A
 E1,05/03/96,Birmingham City,Wolverhampton Wanderers,2,0,H
 E1,05/03/96,Charlton Athletic,Southend,0,3,A
 E1,05/03/96,Crystal Palace,Grimsby,5,0,H
-E1,05/03/96,Watford,Derby,0,0,D
+E1,05/03/96,Watford,Derby County,0,0,D
 E1,09/03/96,Barnsley,Ipswich,3,3,D
 E1,09/03/96,Charlton Athletic,Millwall,2,0,H
 E1,09/03/96,Crystal Palace,West Bromwich Albion,1,0,H
@@ -400,7 +400,7 @@ E1,09/03/96,Leicester City,Grimsby,2,1,H
 E1,09/03/96,Norwich City,Portsmouth,1,1,D
 E1,09/03/96,Port Vale,Southend,2,1,H
 E1,09/03/96,Sheffield United,Stoke City,0,0,D
-E1,09/03/96,Sunderland,Derby,3,0,H
+E1,09/03/96,Sunderland,Derby County,3,0,H
 E1,09/03/96,Tranmere,Birmingham City,2,2,D
 E1,09/03/96,Watford,Oldham,2,1,H
 E1,09/03/96,Wolverhampton Wanderers,Reading,1,1,D
@@ -411,7 +411,7 @@ E1,12/03/96,Oldham,Sunderland,1,2,A
 E1,12/03/96,Port Vale,Stoke City,1,0,H
 E1,12/03/96,West Bromwich Albion,Watford,4,4,D
 E1,13/03/96,Leicester City,Ipswich,0,2,A
-E1,16/03/96,Derby,Watford,1,1,D
+E1,16/03/96,Derby County,Watford,1,1,D
 E1,16/03/96,Grimsby,Crystal Palace,0,2,A
 E1,16/03/96,Ipswich,Tranmere,1,2,A
 E1,16/03/96,Millwall,Sheffield United,1,0,H
@@ -432,7 +432,7 @@ E1,23/03/96,Barnsley,Southend,1,1,D
 E1,23/03/96,Charlton Athletic,Stoke City,2,1,H
 E1,23/03/96,Crystal Palace,Portsmouth,0,0,D
 E1,23/03/96,Leicester City,Millwall,2,1,H
-E1,23/03/96,Norwich City,Derby,1,0,H
+E1,23/03/96,Norwich City,Derby County,1,0,H
 E1,23/03/96,Port Vale,Ipswich,2,1,H
 E1,23/03/96,Sheffield United,Luton,1,0,H
 E1,23/03/96,Sunderland,Oldham,1,0,H
@@ -441,7 +441,7 @@ E1,23/03/96,Watford,West Bromwich Albion,1,1,D
 E1,23/03/96,Wolverhampton Wanderers,Birmingham City,3,2,H
 E1,24/03/96,Huddersfield Town,Grimsby,1,3,A
 E1,27/03/96,Portsmouth,Port Vale,1,2,A
-E1,30/03/96,Derby,Stoke City,3,1,H
+E1,30/03/96,Derby County,Stoke City,3,1,H
 E1,30/03/96,Grimsby,Birmingham City,2,1,H
 E1,30/03/96,Leicester City,Sheffield United,0,2,A
 E1,30/03/96,Luton,Ipswich,1,2,A
@@ -458,7 +458,7 @@ E1,02/04/96,Birmingham City,Portsmouth,2,0,H
 E1,02/04/96,Charlton Athletic,Leicester City,0,1,A
 E1,02/04/96,Crystal Palace,Port Vale,2,2,D
 E1,02/04/96,Huddersfield Town,Reading,3,1,H
-E1,02/04/96,Ipswich,Derby,1,0,H
+E1,02/04/96,Ipswich,Derby County,1,0,H
 E1,02/04/96,Oldham,Grimsby,1,0,H
 E1,02/04/96,Sheffield United,Southend,3,0,H
 E1,02/04/96,Tranmere,Millwall,2,2,D
@@ -471,13 +471,13 @@ E1,06/04/96,Birmingham City,Port Vale,3,1,H
 E1,06/04/96,Crystal Palace,Leicester City,0,1,A
 E1,06/04/96,Huddersfield Town,Southend,3,1,H
 E1,06/04/96,Ipswich,Reading,1,2,A
-E1,06/04/96,Oldham,Derby,0,1,A
+E1,06/04/96,Oldham,Derby County,0,1,A
 E1,06/04/96,Sheffield United,Wolverhampton Wanderers,2,1,H
 E1,06/04/96,Stoke City,Grimsby,1,2,A
 E1,06/04/96,Tranmere,Norwich City,1,1,D
 E1,06/04/96,Watford,Portsmouth,1,2,A
 E1,06/04/96,West Bromwich Albion,Millwall,1,0,H
-E1,08/04/96,Derby,Tranmere,6,2,H
+E1,08/04/96,Derby County,Tranmere,6,2,H
 E1,08/04/96,Grimsby,Ipswich,3,1,H
 E1,08/04/96,Norwich City,Huddersfield Town,2,0,H
 E1,08/04/96,Port Vale,Oldham,1,3,A
@@ -499,7 +499,7 @@ E1,13/04/96,Stoke City,Portsmouth,2,1,H
 E1,13/04/96,Tranmere,Leicester City,1,1,D
 E1,13/04/96,Watford,Port Vale,5,2,H
 E1,13/04/96,West Bromwich Albion,Grimsby,3,1,H
-E1,14/04/96,Charlton Athletic,Derby,0,0,D
+E1,14/04/96,Charlton Athletic,Derby County,0,0,D
 E1,14/04/96,Ipswich,Norwich City,2,1,H
 E1,16/04/96,Port Vale,Grimsby,1,0,H
 E1,16/04/96,Sunderland,Birmingham City,3,0,H
@@ -507,7 +507,7 @@ E1,16/04/96,Watford,Reading,4,2,H
 E1,17/04/96,Leicester City,Oldham,2,0,H
 E1,17/04/96,Stoke City,Charlton Athletic,1,0,H
 E1,17/04/96,Tranmere,Ipswich,5,2,H
-E1,20/04/96,Derby,Birmingham City,1,1,D
+E1,20/04/96,Derby County,Birmingham City,1,1,D
 E1,20/04/96,Grimsby,Sheffield United,0,2,A
 E1,20/04/96,Leicester City,Huddersfield Town,2,1,H
 E1,20/04/96,Luton,Watford,0,0,D
@@ -532,7 +532,7 @@ E1,27/04/96,Reading,Sheffield United,0,3,A
 E1,27/04/96,Southend,Oldham,1,1,D
 E1,27/04/96,Sunderland,West Bromwich Albion,0,0,D
 E1,27/04/96,Wolverhampton Wanderers,Huddersfield Town,0,0,D
-E1,28/04/96,Derby,Crystal Palace,2,1,H
+E1,28/04/96,Derby County,Crystal Palace,2,1,H
 E1,30/04/96,Barnsley,West Bromwich Albion,1,1,D
 E1,30/04/96,Charlton Athletic,Tranmere,0,0,D
 E1,30/04/96,Luton,Port Vale,3,2,H
@@ -550,4 +550,4 @@ E1,05/05/96,Oldham,Luton,1,0,H
 E1,05/05/96,Stoke City,Southend,1,0,H
 E1,05/05/96,Tranmere,Sunderland,2,0,H
 E1,05/05/96,Watford,Leicester City,0,1,A
-E1,05/05/96,West Bromwich Albion,Derby,3,2,H
+E1,05/05/96,West Bromwich Albion,Derby County,3,2,H

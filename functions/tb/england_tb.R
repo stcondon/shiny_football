@@ -16,7 +16,9 @@ england_tb <- function(dt) {
                               dt[,sum(FTHG), by = 'AwayTeam']))
              [,.(conceded = sum(conceded)), by = 'HomeTeam'], by = 'HomeTeam',
              all = TRUE)
-  # if(grepl('09$',dt$Date[1])) {}
+  if(grepl('09$',dt$Date[1])) {
+    t[HomeTeam == 'Portsmouth', p := p - 9]
+  }
   if(nrow(dt) > length(unique(dt$HomeTeam)) * length(unique(dt$HomeTeam)) - 1) {
     ## HAVEN'T SEEN YET, DON'T KNOW WHAT DATA WOULD LOOK LIKE :(
     ## https://en.wikipedia.org/wiki/Premier_League#Competition_format

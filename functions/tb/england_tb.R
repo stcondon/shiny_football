@@ -1,7 +1,6 @@
 library(data.table)
 england_tb <- function(dt) {
   ## GOTTA PUT DATE BACK IN, STUPID POMPEY
-  dt <- dt[,c("HomeTeam","AwayTeam","FTR","FTHG","FTAG")]
   t <- rbindlist(list(dt[FTR == 'H', .(p = uniqueN(AwayTeam) * 3),
                          by = 'HomeTeam'],
                       dt[FTR == 'A', .(p = uniqueN(HomeTeam) * 3),

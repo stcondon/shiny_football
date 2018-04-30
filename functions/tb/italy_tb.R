@@ -18,7 +18,7 @@ italy_tb <- function(dt) {
              all = TRUE)
   if(sum(duplicated(t$p)) > 0) {
     ## h2h function}
-    t[,tb := as.numeric(0)]
+    t[,tb := 0]
     setkey(t, HomeTeam)
     temp <- t$p[duplicated(t$p)] ## duplicated doesn't return both, get p first
     teams <- t[p %in% temp, HomeTeam:p]
@@ -39,8 +39,10 @@ italy_tb <- function(dt) {
                              temp[FTR == 'D', .(p = uniqueN(HomeTeam)),
                                   by = 'AwayTeam']))[,.(p = sum(p)),
                                                      by = 'HomeTeam']
-      # if(nrow(mini) > 1 & sum(duplicated(mini$p)) > 0) {
-      if(nrow(mini) > 1) {
+      if(nrow(mini) > 1 & sum(duplicated(mini$p)) == 0) {
+        mini <- mini[order(p, decreasing = TRUE)]
+      }
+      else if(nrow(mini) > 1) {
         mini <- merge(mini,rbindlist(list(temp[, .(scored = sum(FTHG)),
                                                by = 'HomeTeam'],
                                           temp[,sum(FTAG),by = 'AwayTeam']))
@@ -51,15 +53,20 @@ italy_tb <- function(dt) {
                                           temp[,sum(FTHG), by = 'AwayTeam']))
                       [,.(conceded = sum(conceded)), by = 'HomeTeam'],
                       by = 'HomeTeam', all = TRUE)[order(p, scored - conceded,
-                                                         scored,
                                                          decreasing = TRUE)]
+        if(sum(duplicated(mini[,.(p,scored-conceded)])) > 0) {
+          setkey(mini, HomeTeam)
+          mini[t, total_gd := i.scored - i.conceded]
+          mini <- mini[order(p, scored - conceded, total_gd, decreasing = TRUE)]
+        }
       }
       mini[, tb := 2 * nrow(mini) - .I]
       t[mini, tb := as.double(i.tb)] ## had to coerce to double to avoid warning
     }
     t <- t[order(p, tb, scored - conceded, scored, decreasing = TRUE)]
     t[,c(1:4)]
-  } else {
-    t[order(p, scored - conceded, scored, decreasing = TRUE)]
+  }
+  else {
+    t[order(p, decreasing = TRUE)]
   }
 }

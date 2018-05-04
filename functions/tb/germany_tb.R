@@ -16,8 +16,10 @@ germany_tb <- function(dt) {
                               dt[,sum(FTHG), by = 'AwayTeam']))
              [,.(conceded = sum(conceded)), by = 'HomeTeam'], by = 'HomeTeam',
              all = TRUE)
-  if(sum(duplicated(t$p)) > 0) {
-    ## h2h function}
+  if(sum(duplicated(t[,.(p,scored - conceded)])) > 0) {
+    t <- merge(t, dt[,.(away_scored = sum(FTAG)), by = 'AwayTeam']
+               [,.(HomeTeam = AwayTeam, away_scored)], by = 'HomeTeam',
+               all = TRUE)
     t[,tb := 0]
     setkey(t, HomeTeam)
     temp <- t$p[duplicated(t$p)] ## duplicated doesn't return both, get p first
@@ -67,6 +69,6 @@ germany_tb <- function(dt) {
     t[,c(1:4)]
   }
   else {
-    t[order(p, decreasing = TRUE)]
+    t[order(p, scored - conceded, decreasing = TRUE)]
   }
 }

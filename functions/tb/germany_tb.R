@@ -58,8 +58,12 @@ germany_tb <- function(dt) {
                                                          decreasing = TRUE)]
         if(sum(duplicated(mini[,.(p,scored-conceded)])) > 0) {
           setkey(mini, HomeTeam)
-          mini[t, total_gd := i.scored - i.conceded]
-          mini <- mini[order(p, scored - conceded, total_gd, decreasing = TRUE)]
+          mini <- merge(mini, temp[,.(away_scored = sum(FTAG)), by = 'AwayTeam']
+                        [,.(HomeTeam = AwayTeam, away_scored)], by = 'HomeTeam',
+                        all = TRUE)
+          mini[t, total_away_scored := i.away_scored]
+          mini <- mini[order(p, scored - conceded, away_scored,
+                             total_away_scored, decreasing = TRUE)]
         }
       }
       mini[, tb := 2 * nrow(mini) - .I]
@@ -69,6 +73,6 @@ germany_tb <- function(dt) {
     t[,c(1:4)]
   }
   else {
-    t[order(p, scored - conceded, decreasing = TRUE)]
+    t[order(p, scored - conceded, scored, decreasing = TRUE)]
   }
 }

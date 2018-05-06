@@ -1,5 +1,9 @@
 library(data.table)
 france_tb <- function(dt) {
+  if(grepl('06$',dt$Date[1])) {
+    ## Pitch invasion, go figure
+    dt[HomeTeam == 'Nantes'& AwayTeam == 'Toulouse', FTR := 'A']
+  }
   t <- rbindlist(list(dt[FTR == 'H', .(p = uniqueN(AwayTeam) * 3),
                          by = 'HomeTeam'],
                       dt[FTR == 'A', .(p = uniqueN(HomeTeam) * 3),

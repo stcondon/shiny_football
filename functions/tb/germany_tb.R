@@ -16,7 +16,7 @@ germany_tb <- function(dt) {
                               dt[,sum(FTHG), by = 'AwayTeam']))
              [,.(conceded = sum(conceded)), by = 'HomeTeam'], by = 'HomeTeam',
              all = TRUE)
-  if(sum(duplicated(t[,.(p,scored - conceded)])) > 0) {
+  if(sum(duplicated(t[,.(p,scored - conceded, scored)])) > 0) {
     t <- merge(t, dt[,.(away_scored = sum(FTAG)), by = 'AwayTeam']
                [,.(HomeTeam = AwayTeam, away_scored)], by = 'HomeTeam',
                all = TRUE)

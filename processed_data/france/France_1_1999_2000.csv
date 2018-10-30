@@ -1,0 +1,553 @@
+Div,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,,,,,,,,,,,
+F1,30/07/99,Bordeaux,Bastia,3,2,H,1,0,H,,,,,,,,,,,
+F1,30/07/99,AS Monaco,Saint-Etienne,2,2,D,2,1,H,,,,,,,,,,,
+F1,31/07/99,AJ Auxerre,AS Nancy Lorraine,2,1,H,1,0,H,,,,,,,,,,,
+F1,31/07/99,Lyon,Montpellier,1,2,A,0,1,A,,,,,,,,,,,
+F1,31/07/99,Marseille,Sedan,3,0,H,2,0,H,,,,,,,,,,,
+F1,31/07/99,Metz,Stade Rennes,0,0,D,0,0,D,,,,,,,,,,,
+F1,31/07/99,Nantes,Le Havre AC,1,0,H,0,0,D,,,,,,,,,,,
+F1,31/07/99,Paris Saint-Germain,Troyes,1,0,H,0,0,D,,,,,,,,,,,
+F1,31/07/99,Strasbourg,Lens,1,0,H,0,0,D,,,,,,,,,,,
+F1,05/08/99,Le Havre AC,Marseille,0,0,D,0,0,D,,,,,,,,,,,
+F1,05/08/99,Troyes,Lyon,1,2,A,0,1,A,,,,,,,,,,,
+F1,06/08/99,Bastia,Strasbourg,3,0,H,1,0,H,,,,,,,,,,,
+F1,06/08/99,Lens,AS Monaco,1,0,H,0,0,D,,,,,,,,,,,
+F1,06/08/99,Sedan,AS Nancy Lorraine,3,1,H,2,0,H,,,,,,,,,,,
+F1,06/08/99,Saint-Etienne,Nantes,0,2,A,0,1,A,,,,,,,,,,,
+F1,07/08/99,Metz,AJ Auxerre,3,0,H,2,0,H
+F1,07/08/99,Montpellier,Bordeaux,2,2,D,2,1,H
+F1,07/08/99,Stade Rennes,Paris Saint-Germain,1,3,A,1,1,D
+F1,14/08/99,AJ Auxerre,Sedan,3,1,H,2,0,H
+F1,14/08/99,Bordeaux,Troyes,4,0,H,1,0,H
+F1,14/08/99,AS Monaco,Bastia,4,0,H,1,0,H
+F1,14/08/99,AS Nancy Lorraine,Le Havre AC,3,0,H,0,0,D
+F1,14/08/99,Nantes,Lens,0,1,A,0,0,D
+F1,14/08/99,Paris Saint-Germain,Metz,2,1,H,2,1,H
+F1,14/08/99,Strasbourg,Montpellier,2,0,H,0,0,D
+F1,15/08/99,Lyon,Stade Rennes,2,2,D,1,0,H
+F1,15/08/99,Marseille,Saint-Etienne,3,3,D,1,1,D
+F1,20/08/99,Le Havre AC,Sedan,2,1,H,1,0,H
+F1,20/08/99,Metz,Lyon,0,1,A,0,0,D
+F1,20/08/99,Montpellier,AS Monaco,2,3,A,1,0,H
+F1,20/08/99,Paris Saint-Germain,AJ Auxerre,1,1,D,0,1,A
+F1,20/08/99,Stade Rennes,Bordeaux,2,1,H,1,1,D
+F1,20/08/99,Saint-Etienne,AS Nancy Lorraine,2,1,H,0,1,A
+F1,20/08/99,Troyes,Strasbourg,2,1,H,1,0,H
+F1,22/08/99,Bastia,Nantes,2,1,H,0,1,A
+F1,22/08/99,Lens,Marseille,0,0,D,0,0,D
+F1,28/08/99,AJ Auxerre,Le Havre AC,2,1,H,0,1,A
+F1,28/08/99,Bordeaux,Metz,0,0,D,0,0,D
+F1,28/08/99,Marseille,Bastia,1,1,D,0,1,A
+F1,28/08/99,AS Nancy Lorraine,Lens,2,1,H,1,0,H
+F1,28/08/99,Nantes,Montpellier,3,0,H,1,0,H
+F1,28/08/99,Sedan,Saint-Etienne,3,2,H,1,2,A
+F1,28/08/99,Strasbourg,Stade Rennes,2,1,H,1,1,D
+F1,29/08/99,Lyon,Paris Saint-Germain,1,0,H,0,0,D
+F1,29/08/99,AS Monaco,Troyes,3,0,H,2,0,H
+F1,11/09/99,Bastia,AS Nancy Lorraine,1,1,D,0,0,D
+F1,11/09/99,Lens,Sedan,0,3,A,0,2,A
+F1,11/09/99,Lyon,AJ Auxerre,0,0,D,0,0,D
+F1,11/09/99,Metz,Strasbourg,0,0,D,0,0,D
+F1,11/09/99,Montpellier,Marseille,3,1,H,0,1,A
+F1,11/09/99,Saint-Etienne,Le Havre AC,3,3,D,2,1,H
+F1,11/09/99,Troyes,Nantes,1,0,H,0,0,D
+F1,12/09/99,Paris Saint-Germain,Bordeaux,2,1,H,1,0,H
+F1,12/09/99,Stade Rennes,AS Monaco,2,1,H,1,1,D
+F1,18/09/99,AJ Auxerre,Saint-Etienne,2,1,H,0,0,D
+F1,18/09/99,Bordeaux,Lyon,1,3,A,0,2,A
+F1,19/09/99,Le Havre AC,Lens,1,1,D,1,1,D
+F1,19/09/99,Marseille,Troyes,1,0,H,1,0,H
+F1,19/09/99,AS Monaco,Metz,2,2,D,1,0,H
+F1,19/09/99,AS Nancy Lorraine,Montpellier,1,2,A,0,1,A
+F1,19/09/99,Nantes,Stade Rennes,3,0,H,2,0,H
+F1,19/09/99,Sedan,Bastia,2,0,H,1,0,H
+F1,19/09/99,Strasbourg,Paris Saint-Germain,1,1,D,0,0,D
+F1,25/09/99,Bastia,Le Havre AC,1,1,D,1,1,D
+F1,25/09/99,Bordeaux,AJ Auxerre,1,0,H,1,0,H
+F1,25/09/99,Lyon,Strasbourg,0,0,D,0,0,D
+F1,25/09/99,Metz,Nantes,2,1,H,1,0,H
+F1,25/09/99,Montpellier,Sedan,1,1,D,0,0,D
+F1,25/09/99,Paris Saint-Germain,AS Monaco,0,3,A,0,0,D
+F1,25/09/99,Troyes,AS Nancy Lorraine,2,0,H,0,0,D
+F1,26/09/99,Lens,Saint-Etienne,0,2,A,0,2,A
+F1,26/09/99,Stade Rennes,Marseille,1,2,A,1,1,D
+F1,02/10/99,Le Havre AC,Montpellier,2,1,H,0,1,A
+F1,02/10/99,Marseille,Metz,1,1,D,0,0,D
+F1,02/10/99,AS Nancy Lorraine,Stade Rennes,3,0,H,0,0,D
+F1,02/10/99,Sedan,Troyes,2,1,H,1,1,D
+F1,02/10/99,Saint-Etienne,Bastia,1,1,D,1,0,H
+F1,02/10/99,Strasbourg,Bordeaux,2,2,D,1,1,D
+F1,03/10/99,AJ Auxerre,Lens,3,2,H,1,1,D
+F1,03/10/99,AS Monaco,Lyon,1,0,H,1,0,H
+F1,03/10/99,Nantes,Paris Saint-Germain,0,4,A,0,2,A
+F1,12/10/99,Lyon,Nantes,2,0,H,0,0,D
+F1,12/10/99,Paris Saint-Germain,Marseille,0,2,A,0,0,D
+F1,13/10/99,Bastia,Lens,2,0,H,0,0,D
+F1,13/10/99,Bordeaux,AS Monaco,3,2,H,2,1,H
+F1,13/10/99,Metz,AS Nancy Lorraine,2,2,D,1,1,D
+F1,13/10/99,Montpellier,Saint-Etienne,0,1,A,0,0,D
+F1,13/10/99,Stade Rennes,Sedan,5,0,H,2,0,H
+F1,13/10/99,Strasbourg,AJ Auxerre,1,3,A,1,3,A
+F1,13/10/99,Troyes,Le Havre AC,3,1,H,2,0,H
+F1,15/10/99,Marseille,Lyon,0,1,A,0,1,A
+F1,16/10/99,AJ Auxerre,Bastia,3,1,H,2,0,H
+F1,16/10/99,Le Havre AC,Stade Rennes,0,1,A,0,0,D
+F1,16/10/99,Lens,Montpellier,1,0,H,0,0,D
+F1,16/10/99,AS Monaco,Strasbourg,3,0,H,1,0,H
+F1,16/10/99,AS Nancy Lorraine,Paris Saint-Germain,1,1,D,1,0,H
+F1,16/10/99,Nantes,Bordeaux,0,1,A,0,1,A
+F1,16/10/99,Saint-Etienne,Troyes,1,0,H,0,0,D
+F1,17/10/99,Sedan,Metz,0,2,A,0,1,A
+F1,20/10/99,Nantes,AS Monaco,0,3,A,0,1,A
+F1,20/10/99,Sedan,Lyon,2,0,H,1,0,H
+F1,23/10/99,Bordeaux,Marseille,2,1,H,1,1,D
+F1,23/10/99,Stade Rennes,Saint-Etienne,4,1,H,1,1,D
+F1,24/10/99,Lyon,AS Nancy Lorraine,2,1,H,1,1,D
+F1,24/10/99,Metz,Le Havre AC,3,0,H,1,0,H
+F1,24/10/99,Montpellier,Bastia,1,1,D,1,1,D
+F1,24/10/99,Paris Saint-Germain,Sedan,3,2,H,2,1,H
+F1,24/10/99,Strasbourg,Nantes,3,2,H,1,1,D
+F1,24/10/99,Troyes,Lens,0,1,A,0,0,D
+F1,30/10/99,AJ Auxerre,Montpellier,2,1,H,1,0,H
+F1,30/10/99,Bastia,Troyes,5,0,H,2,0,H
+F1,30/10/99,Le Havre AC,Paris Saint-Germain,3,1,H,1,0,H
+F1,30/10/99,Marseille,Strasbourg,4,1,H,2,0,H
+F1,30/10/99,AS Nancy Lorraine,Bordeaux,2,2,D,1,0,H
+F1,30/10/99,Saint-Etienne,Metz,2,0,H,1,0,H
+F1,31/10/99,Lens,Stade Rennes,1,1,D,0,1,A
+F1,06/11/99,Bordeaux,Sedan,1,1,D,0,1,A
+F1,06/11/99,Paris Saint-Germain,Saint-Etienne,2,0,H,1,0,H
+F1,06/11/99,Stade Rennes,Bastia,0,0,D,0,0,D
+F1,06/11/99,Strasbourg,AS Nancy Lorraine,0,2,A,0,0,D
+F1,07/11/99,Lyon,Le Havre AC,3,0,H,1,0,H
+F1,07/11/99,Metz,Lens,0,0,D,0,0,D
+F1,07/11/99,AS Monaco,Marseille,1,1,D,1,1,D
+F1,07/11/99,Nantes,AJ Auxerre,3,1,H,2,1,H
+F1,07/11/99,Troyes,Montpellier,2,1,H,1,1,D
+F1,09/11/99,Sedan,Strasbourg,2,1,H,2,0,H
+F1,10/11/99,AJ Auxerre,Troyes,0,1,A,0,1,A
+F1,10/11/99,Bastia,Metz,0,0,D,0,0,D
+F1,10/11/99,Le Havre AC,Bordeaux,3,0,H,2,0,H
+F1,10/11/99,Lens,Paris Saint-Germain,3,2,H,0,1,A
+F1,10/11/99,Marseille,Nantes,1,1,D,1,1,D
+F1,10/11/99,Montpellier,Stade Rennes,1,2,A,0,1,A
+F1,10/11/99,AS Nancy Lorraine,AS Monaco,1,2,A,0,0,D
+F1,10/11/99,Saint-Etienne,Lyon,1,1,D,1,1,D
+F1,19/11/99,Bordeaux,Saint-Etienne,1,2,A,1,1,D
+F1,19/11/99,Metz,Montpellier,2,2,D,2,0,H
+F1,19/11/99,Paris Saint-Germain,Bastia,2,0,H,0,0,D
+F1,19/11/99,Stade Rennes,Troyes,2,2,D,1,0,H
+F1,19/11/99,Strasbourg,Le Havre AC,0,1,A,0,1,A
+F1,20/11/99,Lyon,Lens,1,0,H,0,0,D
+F1,20/11/99,Marseille,AJ Auxerre,0,1,A,0,0,D
+F1,20/11/99,AS Monaco,Sedan,2,1,H,2,1,H
+F1,20/11/99,Nantes,AS Nancy Lorraine,2,0,H,0,0,D
+F1,27/11/99,Le Havre AC,AS Monaco,1,4,A,1,1,D
+F1,27/11/99,Montpellier,Paris Saint-Germain,0,1,A,0,0,D
+F1,27/11/99,AS Nancy Lorraine,Marseille,2,2,D,0,0,D
+F1,27/11/99,Stade Rennes,AJ Auxerre,1,0,H,1,0,H
+F1,27/11/99,Saint-Etienne,Strasbourg,0,1,A,0,0,D
+F1,27/11/99,Troyes,Metz,2,2,D,1,0,H
+F1,28/11/99,Bastia,Lyon,3,0,H,1,0,H
+F1,28/11/99,Lens,Bordeaux,3,3,D,2,1,H
+F1,28/11/99,Sedan,Nantes,0,0,D,0,0,D
+F1,01/12/99,AS Monaco,AJ Auxerre,2,0,H,2,0,H
+F1,03/12/99,Bordeaux,Montpellier,2,0,H,0,0,D
+F1,03/12/99,Lyon,Troyes,1,3,A,1,1,D
+F1,03/12/99,Marseille,Le Havre AC,2,0,H,0,0,D
+F1,03/12/99,AS Nancy Lorraine,Sedan,0,2,A,0,0,D
+F1,03/12/99,Nantes,Saint-Etienne,0,1,A,0,1,A
+F1,03/12/99,Strasbourg,Bastia,2,0,H,2,0,H
+F1,04/12/99,AJ Auxerre,Metz,1,1,D,0,1,A
+F1,04/12/99,AS Monaco,Lens,2,0,H,2,0,H
+F1,04/12/99,Paris Saint-Germain,Stade Rennes,1,0,H,1,0,H
+F1,11/12/99,Le Havre AC,AS Nancy Lorraine,0,1,A,0,0,D
+F1,11/12/99,Montpellier,Strasbourg,1,1,D,0,0,D
+F1,11/12/99,Stade Rennes,Lyon,1,2,A,1,1,D
+F1,11/12/99,Sedan,AJ Auxerre,1,1,D,1,1,D
+F1,11/12/99,Troyes,Bordeaux,2,0,H,1,0,H
+F1,12/12/99,Bastia,AS Monaco,1,0,H,0,0,D
+F1,12/12/99,Metz,Paris Saint-Germain,1,3,A,0,2,A
+F1,12/12/99,Saint-Etienne,Marseille,5,1,H,4,0,H
+F1,14/12/99,Lens,Nantes,1,2,A,1,1,D
+F1,17/12/99,AJ Auxerre,Paris Saint-Germain,1,0,H,0,0,D
+F1,17/12/99,Bordeaux,Stade Rennes,1,0,H,0,0,D
+F1,18/12/99,Lyon,Metz,2,0,H,0,0,D
+F1,18/12/99,Marseille,Lens,1,2,A,1,0,H
+F1,18/12/99,AS Monaco,Montpellier,1,0,H,1,0,H
+F1,18/12/99,AS Nancy Lorraine,Saint-Etienne,1,0,H,0,0,D
+F1,18/12/99,Nantes,Bastia,1,1,D,0,0,D
+F1,11/01/00,Metz,Bordeaux,2,1,H,1,0,H
+F1,11/01/00,Paris Saint-Germain,Lyon,2,2,D,1,0,H
+F1,12/01/00,Bastia,Marseille,0,0,D,0,0,D
+F1,12/01/00,Le Havre AC,AJ Auxerre,0,0,D,0,0,D
+F1,12/01/00,Lens,AS Nancy Lorraine,0,1,A,0,1,A
+F1,12/01/00,Montpellier,Nantes,3,0,H,1,0,H
+F1,12/01/00,Stade Rennes,Strasbourg,2,1,H,1,0,H
+F1,12/01/00,Saint-Etienne,Sedan,2,3,A,0,2,A
+F1,12/01/00,Troyes,AS Monaco,1,4,A,0,3,A
+F1,15/01/00,AJ Auxerre,Lyon,2,0,H,1,0,H
+F1,15/01/00,Le Havre AC,Saint-Etienne,1,0,H,0,0,D
+F1,15/01/00,AS Monaco,Stade Rennes,3,1,H,3,0,H
+F1,15/01/00,AS Nancy Lorraine,Bastia,1,0,H,1,0,H
+F1,15/01/00,Nantes,Troyes,3,0,H,1,0,H
+F1,15/01/00,Sedan,Lens,0,0,D,0,0,D
+F1,15/01/00,Strasbourg,Metz,1,1,D,0,0,D
+F1,16/01/00,Bordeaux,Paris Saint-Germain,1,1,D,1,1,D
+F1,16/01/00,Marseille,Montpellier,0,0,D,0,0,D
+F1,19/01/00,Sedan,Le Havre AC,0,1,A,0,1,A
+F1,19/01/00,Strasbourg,Troyes,2,0,H,1,0,H
+F1,25/01/00,Metz,AS Monaco,1,1,D,0,0,D
+F1,25/01/00,Troyes,Marseille,1,2,A,1,1,D
+F1,26/01/00,Bastia,Sedan,1,0,H,0,0,D
+F1,26/01/00,Lens,Le Havre AC,4,0,H,2,0,H
+F1,26/01/00,Lyon,Bordeaux,1,1,D,1,1,D
+F1,26/01/00,Montpellier,AS Nancy Lorraine,1,0,H,1,0,H
+F1,26/01/00,Paris Saint-Germain,Strasbourg,4,2,H,2,0,H
+F1,26/01/00,Stade Rennes,Nantes,0,0,D,0,0,D
+F1,26/01/00,Saint-Etienne,AJ Auxerre,0,0,D,0,0,D
+F1,01/02/00,AJ Auxerre,Bordeaux,1,0,H,0,0,D
+F1,01/02/00,AS Monaco,Paris Saint-Germain,1,0,H,0,0,D
+F1,02/02/00,Le Havre AC,Bastia,2,2,D,1,1,D
+F1,02/02/00,Marseille,Stade Rennes,1,1,D,1,0,H
+F1,02/02/00,AS Nancy Lorraine,Troyes,1,2,A,1,1,D
+F1,02/02/00,Nantes,Metz,1,3,A,1,2,A
+F1,02/02/00,Sedan,Montpellier,2,1,H,2,0,H
+F1,02/02/00,Saint-Etienne,Lens,0,2,A,0,1,A
+F1,02/02/00,Strasbourg,Lyon,4,2,H,1,0,H
+F1,05/02/00,Bastia,Saint-Etienne,4,0,H,1,0,H
+F1,05/02/00,Bordeaux,Strasbourg,3,0,H,2,0,H
+F1,05/02/00,Lens,AJ Auxerre,2,1,H,1,0,H
+F1,05/02/00,Montpellier,Le Havre AC,0,0,D,0,0,D
+F1,05/02/00,Paris Saint-Germain,Nantes,0,0,D,0,0,D
+F1,05/02/00,Stade Rennes,AS Nancy Lorraine,3,1,H,0,0,D
+F1,05/02/00,Troyes,Sedan,0,2,A,0,0,D
+F1,06/02/00,Lyon,AS Monaco,2,1,H,2,1,H
+F1,06/02/00,Metz,Marseille,2,0,H,1,0,H
+F1,15/02/00,Marseille,Paris Saint-Germain,4,1,H,1,1,D
+F1,15/02/00,Nantes,Lyon,6,1,H,4,1,H
+F1,16/02/00,AJ Auxerre,Strasbourg,0,1,A,0,1,A
+F1,16/02/00,Le Havre AC,Troyes,2,0,H,1,0,H
+F1,16/02/00,Lens,Bastia,4,0,H,2,0,H
+F1,16/02/00,AS Monaco,Bordeaux,1,0,H,0,0,D
+F1,16/02/00,AS Nancy Lorraine,Metz,0,0,D,0,0,D
+F1,16/02/00,Sedan,Stade Rennes,2,1,H,1,0,H
+F1,16/02/00,Saint-Etienne,Montpellier,5,4,H,4,2,H
+F1,26/02/00,Bastia,AJ Auxerre,2,0,H,0,0,D
+F1,26/02/00,Bordeaux,Nantes,3,0,H,0,0,D
+F1,26/02/00,Lyon,Marseille,2,0,H,1,0,H
+F1,26/02/00,Metz,Sedan,1,1,D,1,0,H
+F1,26/02/00,Montpellier,Lens,1,1,D,0,0,D
+F1,26/02/00,Paris Saint-Germain,AS Nancy Lorraine,1,1,D,0,0,D
+F1,26/02/00,Stade Rennes,Le Havre AC,2,1,H,0,1,A
+F1,26/02/00,Troyes,Saint-Etienne,0,1,A,0,1,A
+F1,27/02/00,Strasbourg,AS Monaco,3,2,H,2,2,D
+F1,11/03/00,Bastia,Montpellier,1,0,H,0,0,D
+F1,11/03/00,Le Havre AC,Metz,1,0,H,1,0,H
+F1,11/03/00,Marseille,Bordeaux,0,2,A,0,1,A
+F1,11/03/00,Nantes,Strasbourg,3,1,H,2,0,H
+F1,11/03/00,Sedan,Paris Saint-Germain,1,1,D,1,0,H
+F1,11/03/00,Saint-Etienne,Stade Rennes,1,0,H,0,0,D
+F1,12/03/00,AJ Auxerre,AS Monaco,0,2,A,0,0,D
+F1,12/03/00,Lens,Troyes,0,1,A,0,0,D
+F1,12/03/00,AS Nancy Lorraine,Lyon,1,0,H,0,0,D
+F1,25/03/00,Bordeaux,AS Nancy Lorraine,2,1,H,0,0,D
+F1,25/03/00,Metz,Saint-Etienne,1,1,D,0,1,A
+F1,25/03/00,Montpellier,AJ Auxerre,2,0,H,1,0,H
+F1,25/03/00,Paris Saint-Germain,Le Havre AC,2,1,H,1,1,D
+F1,25/03/00,Strasbourg,Marseille,3,1,H,0,0,D
+F1,25/03/00,Troyes,Bastia,1,0,H,1,0,H
+F1,26/03/00,Lyon,Sedan,2,0,H,0,0,D
+F1,26/03/00,AS Monaco,Nantes,2,0,H,2,0,H
+F1,26/03/00,Stade Rennes,Lens,3,0,H,1,0,H
+F1,07/04/00,Marseille,AS Monaco,4,2,H,1,0,H
+F1,07/04/00,Sedan,Bordeaux,0,1,A,0,0,D
+F1,08/04/00,AJ Auxerre,Nantes,1,1,D,1,0,H
+F1,08/04/00,Bastia,Stade Rennes,4,2,H,1,1,D
+F1,08/04/00,Le Havre AC,Lyon,0,1,A,0,1,A
+F1,08/04/00,Montpellier,Troyes,2,2,D,2,0,H
+F1,08/04/00,AS Nancy Lorraine,Strasbourg,2,3,A,0,0,D
+F1,08/04/00,Saint-Etienne,Paris Saint-Germain,1,1,D,1,1,D
+F1,09/04/00,Lens,Metz,1,0,H,1,0,H
+F1,14/04/00,Lyon,Saint-Etienne,0,0,D,0,0,D
+F1,14/04/00,Paris Saint-Germain,Lens,4,1,H,2,1,H
+F1,15/04/00,Bordeaux,Le Havre AC,3,0,H,1,0,H
+F1,15/04/00,Metz,Bastia,1,1,D,0,0,D
+F1,15/04/00,AS Monaco,AS Nancy Lorraine,2,2,D,1,2,A
+F1,15/04/00,Nantes,Marseille,0,0,D,0,0,D
+F1,15/04/00,Stade Rennes,Montpellier,1,3,A,1,1,D
+F1,15/04/00,Strasbourg,Sedan,1,1,D,0,0,D
+F1,15/04/00,Troyes,AJ Auxerre,2,0,H,0,0,D
+F1,29/04/00,Le Havre AC,Strasbourg,0,1,A,0,0,D
+F1,29/04/00,Lens,Lyon,4,3,H,2,2,D
+F1,29/04/00,Montpellier,Metz,0,1,A,0,1,A
+F1,29/04/00,AS Nancy Lorraine,Nantes,2,1,H,1,0,H
+F1,29/04/00,Sedan,AS Monaco,2,1,H,1,0,H
+F1,29/04/00,Saint-Etienne,Bordeaux,1,2,A,0,0,D
+F1,29/04/00,Troyes,Stade Rennes,1,0,H,1,0,H
+F1,30/04/00,AJ Auxerre,Marseille,2,2,D,1,1,D
+F1,30/04/00,Bastia,Paris Saint-Germain,1,2,A,0,0,D
+F1,04/05/00,AJ Auxerre,Stade Rennes,4,0,H,1,0,H
+F1,04/05/00,Bordeaux,Lens,1,2,A,0,2,A
+F1,04/05/00,Lyon,Bastia,2,1,H,0,1,A
+F1,04/05/00,Marseille,AS Nancy Lorraine,2,2,D,1,0,H
+F1,04/05/00,Metz,Troyes,3,1,H,2,0,H
+F1,04/05/00,AS Monaco,Le Havre AC,5,2,H,1,0,H
+F1,04/05/00,Nantes,Sedan,1,0,H,0,0,D
+F1,04/05/00,Paris Saint-Germain,Montpellier,3,0,H,1,0,H
+F1,04/05/00,Strasbourg,Saint-Etienne,0,1,A,0,1,A
+F1,13/05/00,Bastia,Bordeaux,1,1,D,0,0,D
+F1,13/05/00,Le Havre AC,Nantes,0,1,A,0,1,A
+F1,13/05/00,Lens,Strasbourg,3,0,H,0,0,D
+F1,13/05/00,Montpellier,Lyon,2,2,D,1,2,A
+F1,13/05/00,AS Nancy Lorraine,AJ Auxerre,2,0,H,0,0,D
+F1,13/05/00,Stade Rennes,Metz,2,0,H,0,0,D
+F1,13/05/00,Sedan,Marseille,2,2,D,1,1,D
+F1,13/05/00,Saint-Etienne,AS Monaco,3,1,H,3,1,H
+F1,13/05/00,Troyes,Paris Saint-Germain,2,2,D,2,2,D
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,

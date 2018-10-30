@@ -1,0 +1,553 @@
+Div,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,,,,,,,,,,,
+F1,19/07/95,Bastia,Paris Saint-Germain,2,2,D,1,2,A,,,,,,,,,,,
+F1,19/07/95,Bordeaux,Lille,1,0,H,1,0,H,,,,,,,,,,,
+F1,19/07/95,Cannes,Lyon,3,0,H,0,0,D,,,,,,,,,,,
+F1,19/07/95,Gueugnon,Metz,0,0,D,0,0,D,,,,,,,,,,,
+F1,19/07/95,Guingamp,Martigues,2,0,H,0,0,D,,,,,,,,,,,
+F1,19/07/95,Lens,Le Havre AC,2,0,H,1,0,H,,,,,,,,,,,
+F1,19/07/95,AS Monaco,Stade Rennes,3,1,H,0,1,A,,,,,,,,,,,
+F1,19/07/95,Montpellier,Strasbourg,2,2,D,1,1,D,,,,,,,,,,,
+F1,19/07/95,Nantes,AJ Auxerre,1,0,H,1,0,H,,,,,,,,,,,
+F1,19/07/95,Saint-Etienne,Nice,1,1,D,0,1,A,,,,,,,,,,,
+F1,26/07/95,AJ Auxerre,Gueugnon,4,0,H,1,0,H,,,,,,,,,,,
+F1,26/07/95,Bordeaux,Saint-Etienne,2,0,H,2,0,H,,,,,,,,,,,
+F1,26/07/95,Lille,Bastia,0,2,A,0,1,A,,,,,,,,,,,
+F1,26/07/95,Lyon,Montpellier,3,2,H,1,1,D,,,,,,,,,,,
+F1,26/07/95,Martigues,Nantes,0,4,A,0,1,A,,,,,,,,,,,
+F1,26/07/95,Metz,Lens,2,0,H,1,0,H
+F1,26/07/95,Nice,AS Monaco,1,2,A,1,1,D
+F1,26/07/95,Paris Saint-Germain,Guingamp,1,1,D,1,0,H
+F1,26/07/95,Stade Rennes,Cannes,3,2,H,2,2,D
+F1,26/07/95,Strasbourg,Le Havre AC,3,0,H,1,0,H
+F1,04/08/95,Nantes,Paris Saint-Germain,1,2,A,1,1,D
+F1,05/08/95,Bastia,Bordeaux,2,0,H,1,0,H
+F1,05/08/95,Cannes,Metz,1,2,A,0,0,D
+F1,05/08/95,Gueugnon,Martigues,0,0,D,0,0,D
+F1,05/08/95,Guingamp,Nice,0,0,D,0,0,D
+F1,05/08/95,Le Havre AC,Lyon,2,1,H,2,0,H
+F1,05/08/95,Lens,Strasbourg,0,0,D,0,0,D
+F1,05/08/95,AS Monaco,AJ Auxerre,2,2,D,2,0,H
+F1,05/08/95,Montpellier,Stade Rennes,3,1,H,1,1,D
+F1,05/08/95,Saint-Etienne,Lille,1,1,D,1,0,H
+F1,09/08/95,AJ Auxerre,Lens,0,1,A,0,0,D
+F1,09/08/95,Bastia,AS Monaco,2,1,H,0,0,D
+F1,09/08/95,Lille,Guingamp,0,3,A,0,0,D
+F1,09/08/95,Martigues,Cannes,2,1,H,1,0,H
+F1,09/08/95,Metz,Montpellier,1,0,H,1,0,H
+F1,09/08/95,Nice,Gueugnon,3,1,H,1,1,D
+F1,09/08/95,Paris Saint-Germain,Saint-Etienne,4,0,H,2,0,H
+F1,09/08/95,Stade Rennes,Le Havre AC,1,0,H,1,0,H
+F1,19/08/95,Cannes,Lille,2,1,H,1,0,H
+F1,19/08/95,Gueugnon,Paris Saint-Germain,1,3,A,0,1,A
+F1,19/08/95,Guingamp,Bordeaux,1,0,H,1,0,H
+F1,19/08/95,Le Havre AC,Metz,0,0,D,0,0,D
+F1,19/08/95,AS Monaco,Martigues,0,1,A,0,0,D
+F1,19/08/95,Montpellier,AJ Auxerre,3,1,H,3,0,H
+F1,19/08/95,Nantes,Nice,1,0,H,0,0,D
+F1,19/08/95,Saint-Etienne,Bastia,3,0,H,1,0,H
+F1,19/08/95,Strasbourg,Stade Rennes,3,1,H,2,0,H
+F1,20/08/95,Lens,Lyon,2,2,D,1,1,D
+F1,25/08/95,Lille,Nantes,0,0,D,0,0,D
+F1,26/08/95,AJ Auxerre,Cannes,5,1,H,1,0,H
+F1,26/08/95,Bastia,Gueugnon,1,2,A,0,0,D
+F1,26/08/95,Bordeaux,AS Monaco,2,4,A,0,4,A
+F1,26/08/95,Martigues,Montpellier,0,1,A,0,0,D
+F1,26/08/95,Metz,Strasbourg,3,2,H,2,1,H
+F1,26/08/95,Nice,Lens,1,1,D,0,0,D
+F1,26/08/95,Paris Saint-Germain,Le Havre AC,2,0,H,1,0,H
+F1,26/08/95,Stade Rennes,Lyon,1,0,H,1,0,H
+F1,26/08/95,Saint-Etienne,Guingamp,4,0,H,2,0,H
+F1,29/08/95,Cannes,Paris Saint-Germain,0,2,A,0,0,D
+F1,29/08/95,Gueugnon,Bordeaux,2,2,D,2,1,H
+F1,29/08/95,Le Havre AC,AJ Auxerre,0,4,A,0,1,A
+F1,29/08/95,Lens,Stade Rennes,1,0,H,0,0,D
+F1,29/08/95,Lyon,Metz,1,1,D,1,0,H
+F1,29/08/95,AS Monaco,Lille,2,1,H,0,0,D
+F1,29/08/95,Montpellier,Nice,0,1,A,0,1,A
+F1,29/08/95,Nantes,Saint-Etienne,2,2,D,1,0,H
+F1,29/08/95,Strasbourg,Martigues,2,0,H,0,0,D
+F1,30/08/95,Guingamp,Bastia,1,0,H,1,0,H
+F1,02/09/95,Bordeaux,Nantes,3,0,H,2,0,H
+F1,02/09/95,Lyon,Strasbourg,1,1,D,1,1,D
+F1,09/09/95,AJ Auxerre,Strasbourg,1,0,H,0,0,D
+F1,09/09/95,Bastia,Nantes,4,1,H,2,1,H
+F1,09/09/95,Bordeaux,Cannes,2,1,H,1,0,H
+F1,09/09/95,Guingamp,Montpellier,0,0,D,0,0,D
+F1,09/09/95,Lille,Lens,1,3,A,1,2,A
+F1,09/09/95,Martigues,Lyon,1,2,A,0,2,A
+F1,09/09/95,Nice,Le Havre AC,1,2,A,1,0,H
+F1,09/09/95,Paris Saint-Germain,AS Monaco,2,1,H,2,1,H
+F1,09/09/95,Saint-Etienne,Gueugnon,2,0,H,0,0,D
+F1,10/09/95,Metz,Stade Rennes,0,0,D,0,0,D
+F1,16/09/95,Cannes,Saint-Etienne,2,0,H,1,0,H
+F1,16/09/95,Gueugnon,Lille,3,1,H,1,1,D
+F1,16/09/95,Lyon,AJ Auxerre,0,1,A,0,1,A
+F1,16/09/95,AS Monaco,Metz,0,1,A,0,1,A
+F1,16/09/95,Nantes,Guingamp,0,0,D,0,0,D
+F1,16/09/95,Stade Rennes,Martigues,1,3,A,1,2,A
+F1,16/09/95,Strasbourg,Nice,1,1,D,0,1,A
+F1,17/09/95,Le Havre AC,Bordeaux,1,0,H,0,0,D
+F1,17/09/95,Lens,Bastia,3,1,H,1,0,H
+F1,17/09/95,Montpellier,Paris Saint-Germain,1,0,H,1,0,H
+F1,20/09/95,Saint-Etienne,AS Monaco,2,4,A,1,1,D
+F1,21/09/95,AJ Auxerre,Stade Rennes,2,1,H,0,1,A
+F1,21/09/95,Bastia,Cannes,2,1,H,2,0,H
+F1,21/09/95,Bordeaux,Montpellier,3,0,H,2,0,H
+F1,21/09/95,Guingamp,Gueugnon,0,0,D,0,0,D
+F1,21/09/95,Lille,Le Havre AC,2,0,H,1,0,H
+F1,21/09/95,Martigues,Metz,0,1,A,0,1,A
+F1,21/09/95,Nantes,Lens,1,1,D,1,1,D
+F1,21/09/95,Nice,Lyon,1,0,H,0,0,D
+F1,21/09/95,Paris Saint-Germain,Strasbourg,2,0,H,1,0,H
+F1,30/09/95,Cannes,Nice,1,3,A,1,0,H
+F1,30/09/95,Gueugnon,Nantes,0,1,A,0,0,D
+F1,30/09/95,Le Havre AC,Martigues,1,0,H,1,0,H
+F1,30/09/95,Lyon,Saint-Etienne,2,1,H,2,0,H
+F1,30/09/95,Metz,AJ Auxerre,3,1,H,1,0,H
+F1,30/09/95,AS Monaco,Guingamp,1,0,H,1,0,H
+F1,30/09/95,Montpellier,Lille,0,0,D,0,0,D
+F1,30/09/95,Stade Rennes,Bastia,2,0,H,2,0,H
+F1,01/10/95,Lens,Paris Saint-Germain,3,1,H,1,0,H
+F1,01/10/95,Strasbourg,Bordeaux,3,0,H,1,0,H
+F1,03/10/95,Nantes,AS Monaco,2,2,D,0,0,D
+F1,04/10/95,Bastia,Le Havre AC,1,0,H,1,0,H
+F1,04/10/95,Bordeaux,Lyon,1,1,D,1,0,H
+F1,04/10/95,Gueugnon,Lens,0,1,A,0,0,D
+F1,04/10/95,Guingamp,Cannes,2,0,H,0,0,D
+F1,04/10/95,Lille,Strasbourg,2,0,H,1,0,H
+F1,04/10/95,Martigues,AJ Auxerre,1,2,A,1,0,H
+F1,04/10/95,Nice,Metz,0,1,A,0,1,A
+F1,04/10/95,Paris Saint-Germain,Stade Rennes,1,1,D,1,0,H
+F1,04/10/95,Saint-Etienne,Montpellier,0,2,A,0,0,D
+F1,13/10/95,Lens,Martigues,1,0,H,1,0,H
+F1,14/10/95,AJ Auxerre,Nice,2,1,H,1,0,H
+F1,14/10/95,Cannes,Nantes,0,2,A,0,1,A
+F1,14/10/95,Lyon,Paris Saint-Germain,0,0,D,0,0,D
+F1,14/10/95,Metz,Bordeaux,2,0,H,1,0,H
+F1,14/10/95,AS Monaco,Gueugnon,0,0,D,0,0,D
+F1,14/10/95,Montpellier,Bastia,4,3,H,1,1,D
+F1,14/10/95,Stade Rennes,Lille,3,1,H,1,1,D
+F1,14/10/95,Strasbourg,Guingamp,0,0,D,0,0,D
+F1,15/10/95,Le Havre AC,Saint-Etienne,2,2,D,2,1,H
+F1,21/10/95,Bastia,Strasbourg,1,1,D,1,0,H
+F1,21/10/95,Bordeaux,Stade Rennes,0,0,D,0,0,D
+F1,21/10/95,Gueugnon,Cannes,1,1,D,0,1,A
+F1,21/10/95,Guingamp,Le Havre AC,2,2,D,1,1,D
+F1,21/10/95,Lille,Metz,0,0,D,0,0,D
+F1,21/10/95,AS Monaco,Montpellier,3,1,H,1,1,D
+F1,21/10/95,Nantes,Lyon,0,0,D,0,0,D
+F1,21/10/95,Nice,Martigues,1,0,H,0,0,D
+F1,21/10/95,Saint-Etienne,Lens,1,1,D,0,0,D
+F1,22/10/95,Paris Saint-Germain,AJ Auxerre,3,1,H,1,0,H
+F1,26/10/95,Metz,Paris Saint-Germain,0,3,A,0,2,A
+F1,27/10/95,AJ Auxerre,Lille,1,2,A,1,0,H
+F1,27/10/95,Cannes,AS Monaco,1,1,D,0,1,A
+F1,27/10/95,Le Havre AC,Nantes,0,1,A,0,1,A
+F1,27/10/95,Lens,Guingamp,0,1,A,0,0,D
+F1,27/10/95,Lyon,Bastia,1,1,D,0,0,D
+F1,27/10/95,Martigues,Bordeaux,3,1,H,0,0,D
+F1,27/10/95,Montpellier,Gueugnon,2,2,D,1,1,D
+F1,27/10/95,Stade Rennes,Nice,1,0,H,0,0,D
+F1,27/10/95,Strasbourg,Saint-Etienne,3,1,H,0,0,D
+F1,04/11/95,Bastia,Metz,1,0,H,0,0,D
+F1,04/11/95,Bordeaux,AJ Auxerre,0,1,A,0,0,D
+F1,04/11/95,Gueugnon,Le Havre AC,0,1,A,0,0,D
+F1,04/11/95,Guingamp,Lyon,1,0,H,0,0,D
+F1,04/11/95,Lille,Martigues,0,0,D,0,0,D
+F1,04/11/95,AS Monaco,Lens,1,1,D,0,1,A
+F1,04/11/95,Nantes,Montpellier,1,0,H,0,0,D
+F1,04/11/95,Saint-Etienne,Stade Rennes,0,0,D,0,0,D
+F1,05/11/95,Cannes,Strasbourg,0,3,A,,,
+F1,05/11/95,Paris Saint-Germain,Nice,3,2,H,1,1,D
+F1,07/11/95,Stade Rennes,Guingamp,3,0,H,2,0,H
+F1,08/11/95,AJ Auxerre,Bastia,3,0,H,0,0,D
+F1,08/11/95,Le Havre AC,AS Monaco,2,1,H,1,1,D
+F1,08/11/95,Lens,Bordeaux,0,0,D,0,0,D
+F1,08/11/95,Lyon,Gueugnon,0,0,D,0,0,D
+F1,08/11/95,Martigues,Paris Saint-Germain,2,4,A,0,1,A
+F1,08/11/95,Metz,Saint-Etienne,1,2,A,0,0,D
+F1,08/11/95,Montpellier,Cannes,3,1,H,3,1,H
+F1,08/11/95,Nice,Lille,2,1,H,0,0,D
+F1,08/11/95,Strasbourg,Nantes,1,1,D,1,1,D
+F1,17/11/95,Montpellier,Lens,0,0,D,0,0,D
+F1,18/11/95,Bastia,Martigues,2,0,H,2,0,H
+F1,18/11/95,Bordeaux,Nice,4,1,H,2,1,H
+F1,18/11/95,Cannes,Le Havre AC,0,0,D,0,0,D
+F1,18/11/95,Gueugnon,Strasbourg,0,1,A,0,0,D
+F1,18/11/95,Guingamp,Metz,0,0,D,0,0,D
+F1,18/11/95,Lille,Paris Saint-Germain,0,0,D,0,0,D
+F1,18/11/95,AS Monaco,Lyon,0,2,A,0,0,D
+F1,18/11/95,Nantes,Stade Rennes,2,2,D,1,2,A
+F1,19/11/95,Saint-Etienne,AJ Auxerre,0,5,A,,,
+F1,24/11/95,Strasbourg,AS Monaco,2,0,H,1,0,H
+F1,25/11/95,AJ Auxerre,Guingamp,1,2,A,0,0,D
+F1,25/11/95,Le Havre AC,Montpellier,2,2,D,1,1,D
+F1,25/11/95,Lens,Cannes,1,1,D,0,0,D
+F1,25/11/95,Lyon,Lille,1,1,D,0,0,D
+F1,25/11/95,Martigues,Saint-Etienne,1,1,D,1,0,H
+F1,25/11/95,Metz,Nantes,0,0,D,0,0,D
+F1,25/11/95,Nice,Bastia,3,1,H,2,0,H
+F1,25/11/95,Paris Saint-Germain,Bordeaux,3,0,H,1,0,H
+F1,25/11/95,Stade Rennes,Gueugnon,2,1,H,0,1,A
+F1,30/11/95,Gueugnon,AJ Auxerre,0,0,D,0,0,D
+F1,01/12/95,Bastia,Lille,4,0,H,1,0,H
+F1,01/12/95,Cannes,Stade Rennes,3,0,H,1,0,H
+F1,01/12/95,Guingamp,Paris Saint-Germain,0,0,D,0,0,D
+F1,01/12/95,Le Havre AC,Strasbourg,2,0,H,1,0,H
+F1,01/12/95,Lens,Metz,2,0,H,1,0,H
+F1,01/12/95,AS Monaco,Nice,1,0,H,0,0,D
+F1,01/12/95,Montpellier,Lyon,2,1,H,0,0,D
+F1,01/12/95,Nantes,Martigues,3,0,H,1,0,H
+F1,01/12/95,Saint-Etienne,Bordeaux,2,0,H,2,0,H
+F1,09/12/95,AJ Auxerre,AS Monaco,1,2,A,1,1,D
+F1,09/12/95,Bordeaux,Bastia,1,3,A,0,1,A
+F1,09/12/95,Lille,Saint-Etienne,1,1,D,1,1,D
+F1,09/12/95,Lyon,Le Havre AC,3,2,H,3,1,H
+F1,09/12/95,Martigues,Gueugnon,3,0,H,1,0,H
+F1,09/12/95,Metz,Cannes,0,0,D,0,0,D
+F1,09/12/95,Nice,Guingamp,2,1,H,2,0,H
+F1,09/12/95,Paris Saint-Germain,Nantes,5,0,H,3,0,H
+F1,09/12/95,Stade Rennes,Montpellier,1,1,D,1,0,H
+F1,09/12/95,Strasbourg,Lens,1,2,A,1,2,A
+F1,16/12/95,Cannes,Martigues,2,1,H,1,1,D
+F1,16/12/95,Gueugnon,Nice,1,0,H,1,0,H
+F1,16/12/95,Guingamp,Lille,0,1,A,0,1,A
+F1,16/12/95,Le Havre AC,Stade Rennes,0,0,D,0,0,D
+F1,16/12/95,Lens,AJ Auxerre,0,0,D,0,0,D
+F1,16/12/95,AS Monaco,Bastia,0,0,D,0,0,D
+F1,16/12/95,Nantes,Bordeaux,2,0,H,1,0,H
+F1,16/12/95,Saint-Etienne,Paris Saint-Germain,1,1,D,0,0,D
+F1,16/12/95,Strasbourg,Lyon,2,2,D,1,1,D
+F1,03/01/96,Montpellier,Metz,1,2,A,,,
+F1,09/01/96,Martigues,AS Monaco,0,4,A,,,
+F1,10/01/96,AJ Auxerre,Montpellier,1,0,H,,,
+F1,10/01/96,Bastia,Saint-Etienne,0,0,D,0,0,D
+F1,10/01/96,Bordeaux,Guingamp,2,0,H,,,
+F1,10/01/96,Lille,Cannes,0,2,A,,,
+F1,10/01/96,Lyon,Lens,0,0,D,0,0,D
+F1,10/01/96,Metz,Le Havre AC,2,1,H,,,
+F1,10/01/96,Paris Saint-Germain,Gueugnon,1,1,D,,,
+F1,10/01/96,Stade Rennes,Strasbourg,0,0,D,0,0,D
+F1,13/01/96,Nice,Nantes,1,0,H,,,
+F1,19/01/96,Le Havre AC,Paris Saint-Germain,1,1,D,0,0,D
+F1,20/01/96,Cannes,AJ Auxerre,0,1,A,0,0,D
+F1,20/01/96,Gueugnon,Bastia,1,0,H,0,0,D
+F1,20/01/96,Guingamp,Saint-Etienne,3,0,H,1,0,H
+F1,20/01/96,Lens,Nice,0,0,D,0,0,D
+F1,20/01/96,Lyon,Stade Rennes,2,2,D,1,2,A
+F1,20/01/96,AS Monaco,Bordeaux,2,0,H,0,0,D
+F1,20/01/96,Montpellier,Martigues,2,0,H,0,0,D
+F1,20/01/96,Nantes,Lille,1,2,A,1,2,A
+F1,20/01/96,Strasbourg,Metz,1,2,A,0,1,A
+F1,27/01/96,AJ Auxerre,Le Havre AC,1,0,H,1,0,H
+F1,27/01/96,Bastia,Guingamp,0,1,A,0,0,D
+F1,27/01/96,Bordeaux,Gueugnon,3,1,H,0,1,A
+F1,27/01/96,Lille,AS Monaco,0,0,D,0,0,D
+F1,27/01/96,Martigues,Strasbourg,2,0,H,,,
+F1,27/01/96,Nice,Montpellier,1,2,A,,,
+F1,27/01/96,Paris Saint-Germain,Cannes,2,1,H,1,0,H
+F1,27/01/96,Stade Rennes,Lens,2,1,H,,,
+F1,28/01/96,Saint-Etienne,Nantes,0,0,D,0,0,D
+F1,06/02/96,Lens,Lille,1,1,D,,,
+F1,07/02/96,Cannes,Bordeaux,1,1,D,,,
+F1,07/02/96,Le Havre AC,Nice,0,0,D,0,0,D
+F1,07/02/96,Lyon,Martigues,5,1,H,,,
+F1,07/02/96,AS Monaco,Paris Saint-Germain,1,0,H,,,
+F1,07/02/96,Nantes,Bastia,3,1,H,,,
+F1,10/02/96,AJ Auxerre,Lyon,2,0,H,,,
+F1,10/02/96,Bastia,Lens,3,2,H,,,
+F1,10/02/96,Bordeaux,Le Havre AC,3,1,H,,,
+F1,10/02/96,Guingamp,Nantes,3,1,H,,,
+F1,10/02/96,Lille,Gueugnon,2,0,H,,,
+F1,10/02/96,Martigues,Stade Rennes,1,2,A,,,
+F1,10/02/96,Nice,Strasbourg,2,2,D,,,
+F1,11/02/96,Paris Saint-Germain,Montpellier,2,3,A,,,
+F1,17/02/96,Cannes,Bastia,1,0,H,,,
+F1,17/02/96,Gueugnon,Guingamp,2,2,D,,,
+F1,17/02/96,Le Havre AC,Lille,4,1,H,,,
+F1,17/02/96,Lens,Nantes,2,1,H,,,
+F1,17/02/96,Lyon,Nice,1,0,H,,,
+F1,17/02/96,Metz,Martigues,2,0,H,,,
+F1,17/02/96,AS Monaco,Saint-Etienne,2,0,H,,,
+F1,17/02/96,Montpellier,Bordeaux,3,0,H,,,
+F1,17/02/96,Stade Rennes,AJ Auxerre,2,1,H,,,
+F1,17/02/96,Strasbourg,Paris Saint-Germain,1,0,H,,,
+F1,23/02/96,Gueugnon,Saint-Etienne,1,0,H,,,
+F1,26/02/96,Nice,Cannes,1,2,A,,,
+F1,27/02/96,AJ Auxerre,Metz,0,0,D,0,0,D
+F1,27/02/96,Bordeaux,Strasbourg,1,1,D,1,0,H
+F1,27/02/96,Guingamp,AS Monaco,0,0,D,0,0,D
+F1,27/02/96,Lille,Montpellier,1,1,D,,,
+F1,27/02/96,Martigues,Le Havre AC,0,1,A,,,
+F1,27/02/96,Nantes,Gueugnon,1,0,H,0,0,D
+F1,27/02/96,Paris Saint-Germain,Lens,1,0,H,1,0,H
+F1,27/02/96,Saint-Etienne,Lyon,1,1,D,,,
+F1,01/03/96,Lyon,Bordeaux,1,0,H,1,0,H
+F1,01/03/96,AS Monaco,Nantes,4,1,H,2,0,H
+F1,02/03/96,AJ Auxerre,Martigues,4,0,H,2,0,H
+F1,02/03/96,Cannes,Guingamp,3,0,H,,,
+F1,02/03/96,Le Havre AC,Bastia,1,0,H,,,
+F1,02/03/96,Lens,Gueugnon,2,0,H,0,0,D
+F1,02/03/96,Metz,Nice,4,0,H,2,0,H
+F1,02/03/96,Montpellier,Saint-Etienne,1,0,H,,,
+F1,02/03/96,Stade Rennes,Paris Saint-Germain,0,1,A,0,1,A
+F1,02/03/96,Strasbourg,Lille,2,0,H,,,
+F1,05/03/96,Metz,Lyon,0,1,A,,,
+F1,05/03/96,Strasbourg,AJ Auxerre,1,0,H,,,
+F1,09/03/96,Bastia,Montpellier,1,0,H,,,
+F1,09/03/96,Bordeaux,Metz,4,0,H,3,0,H
+F1,09/03/96,Gueugnon,AS Monaco,2,2,D,1,0,H
+F1,09/03/96,Guingamp,Strasbourg,3,0,H,,,
+F1,09/03/96,Lille,Stade Rennes,0,0,D,0,0,D
+F1,09/03/96,Martigues,Lens,0,1,A,0,0,D
+F1,09/03/96,Nantes,Cannes,2,0,H,1,0,H
+F1,09/03/96,Nice,AJ Auxerre,1,3,A,0,2,A
+F1,09/03/96,Saint-Etienne,Le Havre AC,1,1,D,,,
+F1,10/03/96,Paris Saint-Germain,Lyon,2,0,H,1,0,H
+F1,16/03/96,Stade Rennes,Metz,0,0,D,0,0,D
+F1,16/03/96,Saint-Etienne,Cannes,2,2,D,,,
+F1,23/03/96,Cannes,Gueugnon,2,0,H,,,
+F1,23/03/96,Le Havre AC,Guingamp,1,0,H,,,
+F1,23/03/96,Lens,Saint-Etienne,3,0,H,1,0,H
+F1,23/03/96,Lyon,Nantes,1,1,D,1,0,H
+F1,23/03/96,Martigues,Nice,0,0,D,0,0,D
+F1,23/03/96,Metz,Lille,2,0,H,1,0,H
+F1,23/03/96,Montpellier,AS Monaco,0,0,D,0,0,D
+F1,23/03/96,Stade Rennes,Bordeaux,4,3,H,2,1,H
+F1,23/03/96,Strasbourg,Bastia,4,3,H,2,1,H
+F1,24/03/96,AJ Auxerre,Paris Saint-Germain,3,0,H,1,0,H
+F1,30/03/96,Bastia,Lyon,0,0,D,0,0,D
+F1,30/03/96,Gueugnon,Montpellier,0,2,A,0,0,D
+F1,30/03/96,Lille,AJ Auxerre,0,4,A,0,3,A
+F1,30/03/96,AS Monaco,Cannes,1,0,H,0,0,D
+F1,30/03/96,Nice,Stade Rennes,0,0,D,0,0,D
+F1,30/03/96,Paris Saint-Germain,Metz,2,3,A,0,1,A
+F1,30/03/96,Saint-Etienne,Strasbourg,2,0,H,,,
+F1,31/03/96,Guingamp,Lens,1,0,H,1,0,H
+F1,05/04/96,Bastia,Stade Rennes,0,0,D,0,0,D
+F1,05/04/96,Montpellier,Guingamp,2,1,H,,,
+F1,08/04/96,Lens,AS Monaco,2,1,H,,,
+F1,09/04/96,AJ Auxerre,Bordeaux,2,0,H,1,0,H
+F1,09/04/96,Le Havre AC,Gueugnon,0,2,A,,,
+F1,09/04/96,Martigues,Lille,1,0,H,,,
+F1,09/04/96,Montpellier,Nantes,1,0,H,0,0,D
+F1,09/04/96,Nice,Paris Saint-Germain,1,2,A,0,0,D
+F1,09/04/96,Stade Rennes,Saint-Etienne,3,0,H,2,0,H
+F1,09/04/96,Strasbourg,Cannes,1,0,H,,,
+F1,10/04/96,Lyon,Guingamp,1,1,D,1,0,H
+F1,10/04/96,Metz,Bastia,2,0,H,2,0,H
+F1,14/04/96,Metz,AS Monaco,0,3,A,,,
+F1,20/04/96,Bastia,AJ Auxerre,1,1,D,,,
+F1,20/04/96,Bordeaux,Lens,0,0,D,0,0,D
+F1,20/04/96,Cannes,Montpellier,2,1,H,,,
+F1,20/04/96,Gueugnon,Lyon,0,0,D,0,0,D
+F1,20/04/96,Guingamp,Stade Rennes,0,0,D,0,0,D
+F1,20/04/96,Lille,Nice,1,0,H,,,
+F1,20/04/96,AS Monaco,Le Havre AC,2,1,H,,,
+F1,20/04/96,Nantes,Strasbourg,2,0,H,,,
+F1,20/04/96,Saint-Etienne,Metz,1,1,D,,,
+F1,23/04/96,Paris Saint-Germain,Martigues,0,0,D,0,0,D
+F1,26/04/96,AJ Auxerre,Saint-Etienne,2,0,H,1,0,H
+F1,26/04/96,Nice,Bordeaux,1,0,H,0,0,D
+F1,27/04/96,Le Havre AC,Cannes,0,0,D,0,0,D
+F1,27/04/96,Lens,Montpellier,2,1,H,0,1,A
+F1,27/04/96,Lyon,AS Monaco,3,3,D,3,2,H
+F1,27/04/96,Martigues,Bastia,3,1,H,,,
+F1,27/04/96,Metz,Guingamp,3,0,H,1,0,H
+F1,27/04/96,Paris Saint-Germain,Lille,0,1,A,0,0,D
+F1,27/04/96,Stade Rennes,Nantes,2,2,D,2,0,H
+F1,27/04/96,Strasbourg,Gueugnon,0,0,D,0,0,D
+F1,02/05/96,Nantes,Le Havre AC,1,1,D,,,
+F1,05/05/96,Bordeaux,Martigues,1,1,D,,,
+F1,11/05/96,Bastia,Nice,1,2,A,0,1,A
+F1,11/05/96,Bordeaux,Paris Saint-Germain,2,2,D,0,1,A
+F1,11/05/96,Cannes,Lens,5,2,H,2,0,H
+F1,11/05/96,Gueugnon,Stade Rennes,1,0,H,1,0,H
+F1,11/05/96,Guingamp,AJ Auxerre,1,1,D,0,1,A
+F1,11/05/96,Lille,Lyon,2,1,H,1,1,D
+F1,11/05/96,AS Monaco,Strasbourg,5,1,H,2,1,H
+F1,11/05/96,Montpellier,Le Havre AC,2,0,H,0,0,D
+F1,11/05/96,Nantes,Metz,1,0,H,1,0,H
+F1,11/05/96,Saint-Etienne,Martigues,2,2,D,0,1,A
+F1,18/05/96,AJ Auxerre,Nantes,2,1,H,1,1,D
+F1,18/05/96,Le Havre AC,Lens,1,1,D,0,1,A
+F1,18/05/96,Lille,Bordeaux,0,2,A,0,1,A
+F1,18/05/96,Lyon,Cannes,1,0,H,0,0,D
+F1,18/05/96,Martigues,Guingamp,2,1,H,1,1,D
+F1,18/05/96,Metz,Gueugnon,1,2,A,1,0,H
+F1,18/05/96,Nice,Saint-Etienne,2,0,H,1,0,H
+F1,18/05/96,Paris Saint-Germain,Bastia,5,1,H,2,0,H
+F1,18/05/96,Stade Rennes,AS Monaco,2,3,A,0,0,D
+F1,18/05/96,Strasbourg,Montpellier,1,0,H,1,0,H
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,

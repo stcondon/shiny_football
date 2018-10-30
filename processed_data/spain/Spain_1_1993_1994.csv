@@ -1,0 +1,553 @@
+Div,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,,,,,,,,,,,,,,,,,,,,,
+SP1,05/09/93,Athletic Bilbao,Albacete,4,1,H,,,,,,,,,,,,,,,,,,,,,
+SP1,05/09/93,Atletico Madrid,Logrones,1,0,H,,,,,,,,,,,,,,,,,,,,,
+SP1,05/09/93,Barcelona,Real Sociedad,3,0,H,,,,,,,,,,,,,,,,,,,,,
+SP1,05/09/93,Deportivo La Coruña,Celta Vigo,0,0,D,,,,,,,,,,,,,,,,,,,,,
+SP1,05/09/93,Osasuna,Real Madrid,1,4,A,,,,,,,,,,,,,,,,,,,,,
+SP1,05/09/93,Oviedo,Valencia,0,3,A,,,,,,,,,,,,,,,,,,,,,
+SP1,05/09/93,Racing Santander,Rayo Vallecano,1,0,H,,,,,,,,,,,,,,,,,,,,,
+SP1,05/09/93,Tenerife,Lerida,1,0,H,,,,,,,,,,,,,,,,,,,,,
+SP1,05/09/93,Real Valladolid,Sporting Gijón,0,1,A,,,,,,,,,,,,,,,,,,,,,
+SP1,05/09/93,Real Zaragoza,Sevilla FC,1,2,A,,,,,,,,,,,,,,,,,,,,,
+SP1,12/09/93,Albacete,Barcelona,0,0,D,,,,,,,,,,,,,,,,,,,,,
+SP1,12/09/93,Celta Vigo,Oviedo,1,1,D,,,,,,,,,,,,,,,,,,,,,
+SP1,12/09/93,Lerida,Athletic Bilbao,1,2,A,,,,,,,,,,,,,,,,,,,,,
+SP1,12/09/93,Logrones,Racing Santander,0,1,A,,,,,,,,,,,,,,,,,,,,,
+SP1,12/09/93,Real Madrid,Real Valladolid,1,3,A,,,,,,,,,,,,,,,,,,,,,
+SP1,12/09/93,Sevilla FC,Osasuna,1,1,D
+SP1,12/09/93,Real Sociedad,Real Zaragoza,2,2,D
+SP1,12/09/93,Sporting Gijón,Deportivo La Coruña,0,2,A
+SP1,12/09/93,Valencia,Atletico Madrid,2,2,D
+SP1,12/09/93,Rayo Vallecano,Tenerife,4,3,H
+SP1,19/09/93,Athletic Bilbao,Barcelona,0,0,D
+SP1,19/09/93,Atletico Madrid,Celta Vigo,3,2,H
+SP1,19/09/93,Deportivo La Coruña,Real Madrid,4,0,H
+SP1,19/09/93,Lerida,Rayo Vallecano,0,1,A
+SP1,19/09/93,Osasuna,Real Sociedad,0,2,A
+SP1,19/09/93,Oviedo,Sporting Gijón,0,1,A
+SP1,19/09/93,Racing Santander,Valencia,0,1,A
+SP1,19/09/93,Tenerife,Logrones,2,0,H
+SP1,19/09/93,Real Valladolid,Sevilla FC,2,2,D
+SP1,19/09/93,Real Zaragoza,Albacete,1,1,D
+SP1,26/09/93,Albacete,Osasuna,2,1,H
+SP1,26/09/93,Barcelona,Real Zaragoza,4,1,H
+SP1,26/09/93,Celta Vigo,Racing Santander,0,0,D
+SP1,26/09/93,Logrones,Lerida,2,1,H
+SP1,26/09/93,Real Madrid,Oviedo,0,1,A
+SP1,26/09/93,Sevilla FC,Deportivo La Coruña,0,0,D
+SP1,26/09/93,Real Sociedad,Real Valladolid,1,0,H
+SP1,26/09/93,Sporting Gijón,Atletico Madrid,1,1,D
+SP1,26/09/93,Valencia,Tenerife,3,2,H
+SP1,26/09/93,Rayo Vallecano,Athletic Bilbao,1,2,A
+SP1,03/10/93,Athletic Bilbao,Real Zaragoza,2,1,H
+SP1,03/10/93,Atletico Madrid,Real Madrid,0,0,D
+SP1,03/10/93,Deportivo La Coruña,Real Sociedad,0,1,A
+SP1,03/10/93,Lerida,Valencia,1,1,D
+SP1,03/10/93,Osasuna,Barcelona,2,3,A
+SP1,03/10/93,Oviedo,Sevilla FC,0,2,A
+SP1,03/10/93,Racing Santander,Sporting Gijón,2,0,H
+SP1,03/10/93,Tenerife,Celta Vigo,0,0,D
+SP1,03/10/93,Real Valladolid,Albacete,1,0,H
+SP1,03/10/93,Rayo Vallecano,Logrones,3,1,H
+SP1,06/10/93,Albacete,Deportivo La Coruña,0,0,D
+SP1,06/10/93,Barcelona,Real Valladolid,3,0,H
+SP1,06/10/93,Celta Vigo,Lerida,1,0,H
+SP1,06/10/93,Logrones,Athletic Bilbao,4,2,H
+SP1,06/10/93,Real Madrid,Racing Santander,2,1,H
+SP1,06/10/93,Sevilla FC,Atletico Madrid,2,1,H
+SP1,06/10/93,Real Sociedad,Oviedo,2,2,D
+SP1,06/10/93,Sporting Gijón,Tenerife,1,2,A
+SP1,06/10/93,Valencia,Rayo Vallecano,3,1,H
+SP1,06/10/93,Real Zaragoza,Osasuna,2,1,H
+SP1,17/10/93,Athletic Bilbao,Osasuna,1,2,A
+SP1,17/10/93,Atletico Madrid,Real Sociedad,1,2,A
+SP1,17/10/93,Deportivo La Coruña,Barcelona,1,0,H
+SP1,17/10/93,Lerida,Sporting Gijón,1,1,D
+SP1,17/10/93,Logrones,Valencia,2,0,H
+SP1,17/10/93,Oviedo,Albacete,1,1,D
+SP1,17/10/93,Racing Santander,Sevilla FC,1,0,H
+SP1,17/10/93,Tenerife,Real Madrid,0,0,D
+SP1,17/10/93,Real Valladolid,Real Zaragoza,0,0,D
+SP1,17/10/93,Rayo Vallecano,Celta Vigo,1,1,D
+SP1,24/10/93,Albacete,Atletico Madrid,2,2,D
+SP1,24/10/93,Barcelona,Oviedo,1,0,H
+SP1,24/10/93,Celta Vigo,Logrones,2,0,H
+SP1,24/10/93,Osasuna,Real Valladolid,2,0,H
+SP1,24/10/93,Real Madrid,Lerida,5,0,H
+SP1,24/10/93,Sevilla FC,Tenerife,4,0,H
+SP1,24/10/93,Real Sociedad,Racing Santander,2,0,H
+SP1,24/10/93,Sporting Gijón,Rayo Vallecano,2,0,H
+SP1,24/10/93,Valencia,Athletic Bilbao,1,0,H
+SP1,24/10/93,Real Zaragoza,Deportivo La Coruña,0,1,A
+SP1,31/10/93,Athletic Bilbao,Real Valladolid,3,0,H
+SP1,31/10/93,Atletico Madrid,Barcelona,4,3,H
+SP1,31/10/93,Deportivo La Coruña,Osasuna,3,1,H
+SP1,31/10/93,Lerida,Sevilla FC,0,3,A
+SP1,31/10/93,Logrones,Sporting Gijón,1,2,A
+SP1,31/10/93,Oviedo,Real Zaragoza,2,1,H
+SP1,31/10/93,Racing Santander,Albacete,1,1,D
+SP1,31/10/93,Tenerife,Real Sociedad,2,1,H
+SP1,31/10/93,Valencia,Celta Vigo,3,0,H
+SP1,31/10/93,Rayo Vallecano,Real Madrid,0,2,A
+SP1,07/11/93,Albacete,Tenerife,2,3,A
+SP1,07/11/93,Barcelona,Racing Santander,2,1,H
+SP1,07/11/93,Celta Vigo,Athletic Bilbao,1,1,D
+SP1,07/11/93,Osasuna,Oviedo,2,0,H
+SP1,07/11/93,Real Madrid,Logrones,2,1,H
+SP1,07/11/93,Sevilla FC,Rayo Vallecano,3,1,H
+SP1,07/11/93,Real Sociedad,Lerida,1,3,A
+SP1,07/11/93,Sporting Gijón,Valencia,2,0,H
+SP1,07/11/93,Real Valladolid,Deportivo La Coruña,0,0,D
+SP1,07/11/93,Real Zaragoza,Atletico Madrid,2,1,H
+SP1,10/11/93,Athletic Bilbao,Deportivo La Coruña,3,1,H
+SP1,10/11/93,Atletico Madrid,Osasuna,3,0,H
+SP1,10/11/93,Celta Vigo,Sporting Gijón,0,2,A
+SP1,10/11/93,Lerida,Albacete,0,1,A
+SP1,10/11/93,Logrones,Sevilla FC,1,1,D
+SP1,10/11/93,Oviedo,Real Valladolid,1,0,H
+SP1,10/11/93,Racing Santander,Real Zaragoza,2,0,H
+SP1,10/11/93,Tenerife,Barcelona,2,3,A
+SP1,10/11/93,Valencia,Real Madrid,0,3,A
+SP1,10/11/93,Rayo Vallecano,Real Sociedad,4,1,H
+SP1,21/11/93,Albacete,Rayo Vallecano,1,1,D
+SP1,21/11/93,Barcelona,Lerida,0,1,A
+SP1,21/11/93,Deportivo La Coruña,Oviedo,4,0,H
+SP1,21/11/93,Osasuna,Racing Santander,0,0,D
+SP1,21/11/93,Real Madrid,Celta Vigo,2,1,H
+SP1,21/11/93,Sevilla FC,Valencia,0,1,A
+SP1,21/11/93,Real Sociedad,Logrones,2,2,D
+SP1,21/11/93,Sporting Gijón,Athletic Bilbao,0,1,A
+SP1,21/11/93,Real Valladolid,Atletico Madrid,1,1,D
+SP1,21/11/93,Real Zaragoza,Tenerife,6,2,H
+SP1,28/11/93,Athletic Bilbao,Oviedo,1,1,D
+SP1,28/11/93,Atletico Madrid,Deportivo La Coruña,0,1,A
+SP1,28/11/93,Celta Vigo,Sevilla FC,2,1,H
+SP1,28/11/93,Lerida,Real Zaragoza,0,1,A
+SP1,28/11/93,Logrones,Albacete,2,2,D
+SP1,28/11/93,Racing Santander,Real Valladolid,5,1,H
+SP1,28/11/93,Sporting Gijón,Real Madrid,2,1,H
+SP1,28/11/93,Tenerife,Osasuna,1,0,H
+SP1,28/11/93,Valencia,Real Sociedad,0,0,D
+SP1,28/11/93,Rayo Vallecano,Barcelona,2,4,A
+SP1,05/12/93,Albacete,Valencia,3,1,H
+SP1,05/12/93,Barcelona,Logrones,2,2,D
+SP1,05/12/93,Deportivo La Coruña,Racing Santander,1,0,H
+SP1,05/12/93,Osasuna,Lerida,1,0,H
+SP1,05/12/93,Oviedo,Atletico Madrid,1,1,D
+SP1,05/12/93,Real Madrid,Athletic Bilbao,2,1,H
+SP1,05/12/93,Sevilla FC,Sporting Gijón,1,2,A
+SP1,05/12/93,Real Sociedad,Celta Vigo,2,1,H
+SP1,05/12/93,Real Valladolid,Tenerife,2,0,H
+SP1,05/12/93,Real Zaragoza,Rayo Vallecano,4,1,H
+SP1,12/12/93,Athletic Bilbao,Atletico Madrid,3,2,H
+SP1,12/12/93,Celta Vigo,Albacete,1,4,A
+SP1,12/12/93,Lerida,Real Valladolid,1,0,H
+SP1,12/12/93,Logrones,Real Zaragoza,2,2,D
+SP1,12/12/93,Real Madrid,Sevilla FC,0,0,D
+SP1,12/12/93,Racing Santander,Oviedo,1,2,A
+SP1,12/12/93,Sporting Gijón,Real Sociedad,3,2,H
+SP1,12/12/93,Tenerife,Deportivo La Coruña,0,1,A
+SP1,12/12/93,Valencia,Barcelona,0,4,A
+SP1,12/12/93,Rayo Vallecano,Osasuna,1,0,H
+SP1,19/12/93,Albacete,Sporting Gijón,3,1,H
+SP1,19/12/93,Atletico Madrid,Racing Santander,4,0,H
+SP1,19/12/93,Barcelona,Celta Vigo,1,0,H
+SP1,19/12/93,Deportivo La Coruña,Lerida,2,0,H
+SP1,19/12/93,Osasuna,Logrones,1,3,A
+SP1,19/12/93,Oviedo,Tenerife,1,0,H
+SP1,19/12/93,Sevilla FC,Athletic Bilbao,1,3,A
+SP1,19/12/93,Real Sociedad,Real Madrid,2,0,H
+SP1,19/12/93,Real Valladolid,Rayo Vallecano,1,3,A
+SP1,19/12/93,Real Zaragoza,Valencia,1,0,H
+SP1,02/01/94,Athletic Bilbao,Racing Santander,1,2,A
+SP1,02/01/94,Celta Vigo,Real Zaragoza,1,0,H
+SP1,02/01/94,Lerida,Oviedo,1,1,D
+SP1,02/01/94,Logrones,Real Valladolid,0,0,D
+SP1,02/01/94,Real Madrid,Albacete,2,0,H
+SP1,02/01/94,Sevilla FC,Real Sociedad,1,0,H
+SP1,02/01/94,Sporting Gijón,Barcelona,2,0,H
+SP1,02/01/94,Tenerife,Atletico Madrid,1,1,D
+SP1,02/01/94,Valencia,Osasuna,0,0,D
+SP1,02/01/94,Rayo Vallecano,Deportivo La Coruña,0,0,D
+SP1,09/01/94,Albacete,Sevilla FC,2,2,D
+SP1,09/01/94,Athletic Bilbao,Real Sociedad,0,0,D
+SP1,09/01/94,Atletico Madrid,Lerida,0,0,D
+SP1,09/01/94,Barcelona,Real Madrid,5,0,H
+SP1,09/01/94,Deportivo La Coruña,Logrones,3,0,H
+SP1,09/01/94,Osasuna,Celta Vigo,0,1,A
+SP1,09/01/94,Oviedo,Rayo Vallecano,5,0,H
+SP1,09/01/94,Racing Santander,Tenerife,1,0,H
+SP1,09/01/94,Real Valladolid,Valencia,1,1,D
+SP1,09/01/94,Real Zaragoza,Sporting Gijón,3,0,H
+SP1,16/01/94,Celta Vigo,Real Valladolid,1,2,A
+SP1,16/01/94,Lerida,Racing Santander,0,0,D
+SP1,16/01/94,Logrones,Oviedo,2,2,D
+SP1,16/01/94,Real Madrid,Real Zaragoza,3,2,H
+SP1,16/01/94,Sevilla FC,Barcelona,0,0,D
+SP1,16/01/94,Real Sociedad,Albacete,1,1,D
+SP1,16/01/94,Sporting Gijón,Osasuna,7,1,H
+SP1,16/01/94,Tenerife,Athletic Bilbao,2,1,H
+SP1,16/01/94,Valencia,Deportivo La Coruña,1,3,A
+SP1,16/01/94,Rayo Vallecano,Atletico Madrid,2,1,H
+SP1,23/01/94,Albacete,Athletic Bilbao,1,0,H
+SP1,23/01/94,Celta Vigo,Deportivo La Coruña,0,0,D
+SP1,23/01/94,Lerida,Tenerife,1,1,D
+SP1,23/01/94,Logrones,Atletico Madrid,1,0,H
+SP1,23/01/94,Real Madrid,Osasuna,0,0,D
+SP1,23/01/94,Sevilla FC,Real Zaragoza,0,1,A
+SP1,23/01/94,Real Sociedad,Barcelona,2,1,H
+SP1,23/01/94,Sporting Gijón,Real Valladolid,2,0,H
+SP1,23/01/94,Valencia,Oviedo,2,2,D
+SP1,23/01/94,Rayo Vallecano,Racing Santander,1,1,D
+SP1,30/01/94,Athletic Bilbao,Lerida,4,0,H
+SP1,30/01/94,Atletico Madrid,Valencia,2,0,H
+SP1,30/01/94,Barcelona,Albacete,2,1,H
+SP1,30/01/94,Deportivo La Coruña,Sporting Gijón,2,1,H
+SP1,30/01/94,Osasuna,Sevilla FC,0,0,D
+SP1,30/01/94,Oviedo,Celta Vigo,1,0,H
+SP1,30/01/94,Racing Santander,Logrones,0,0,D
+SP1,30/01/94,Tenerife,Rayo Vallecano,3,1,H
+SP1,30/01/94,Real Valladolid,Real Madrid,0,0,D
+SP1,30/01/94,Real Zaragoza,Real Sociedad,3,0,H
+SP1,06/02/94,Albacete,Real Zaragoza,2,1,H
+SP1,06/02/94,Barcelona,Athletic Bilbao,2,3,A
+SP1,06/02/94,Celta Vigo,Atletico Madrid,3,2,H
+SP1,06/02/94,Logrones,Tenerife,1,2,A
+SP1,06/02/94,Real Madrid,Deportivo La Coruña,2,0,H
+SP1,06/02/94,Sevilla FC,Real Valladolid,3,3,D
+SP1,06/02/94,Real Sociedad,Osasuna,1,0,H
+SP1,06/02/94,Sporting Gijón,Oviedo,0,0,D
+SP1,06/02/94,Valencia,Racing Santander,2,1,H
+SP1,06/02/94,Rayo Vallecano,Lerida,1,2,A
+SP1,13/02/94,Athletic Bilbao,Rayo Vallecano,0,0,D
+SP1,13/02/94,Atletico Madrid,Sporting Gijón,2,0,H
+SP1,13/02/94,Deportivo La Coruña,Sevilla FC,2,0,H
+SP1,13/02/94,Lerida,Logrones,1,1,D
+SP1,13/02/94,Osasuna,Albacete,3,1,H
+SP1,13/02/94,Oviedo,Real Madrid,0,1,A
+SP1,13/02/94,Racing Santander,Celta Vigo,2,1,H
+SP1,13/02/94,Tenerife,Valencia,1,0,H
+SP1,13/02/94,Real Valladolid,Real Sociedad,0,0,D
+SP1,13/02/94,Real Zaragoza,Barcelona,6,3,H
+SP1,20/02/94,Albacete,Real Valladolid,1,1,D
+SP1,20/02/94,Barcelona,Osasuna,8,1,H
+SP1,20/02/94,Celta Vigo,Tenerife,1,0,H
+SP1,20/02/94,Logrones,Rayo Vallecano,1,1,D
+SP1,20/02/94,Real Madrid,Atletico Madrid,1,0,H
+SP1,20/02/94,Sevilla FC,Oviedo,2,0,H
+SP1,20/02/94,Real Sociedad,Deportivo La Coruña,0,1,A
+SP1,20/02/94,Sporting Gijón,Racing Santander,0,2,A
+SP1,20/02/94,Valencia,Lerida,3,3,D
+SP1,20/02/94,Real Zaragoza,Athletic Bilbao,1,0,H
+SP1,23/02/94,Athletic Bilbao,Logrones,0,0,D
+SP1,23/02/94,Atletico Madrid,Sevilla FC,2,4,A
+SP1,23/02/94,Deportivo La Coruña,Albacete,5,1,H
+SP1,23/02/94,Lerida,Celta Vigo,0,0,D
+SP1,23/02/94,Osasuna,Real Zaragoza,0,0,D
+SP1,23/02/94,Oviedo,Real Sociedad,2,1,H
+SP1,23/02/94,Racing Santander,Real Madrid,1,3,A
+SP1,23/02/94,Tenerife,Sporting Gijón,3,0,H
+SP1,23/02/94,Real Valladolid,Barcelona,1,3,A
+SP1,23/02/94,Rayo Vallecano,Valencia,1,1,D
+SP1,27/02/94,Albacete,Oviedo,5,0,H
+SP1,27/02/94,Barcelona,Deportivo La Coruña,3,0,H
+SP1,27/02/94,Celta Vigo,Rayo Vallecano,0,0,D
+SP1,27/02/94,Osasuna,Athletic Bilbao,0,0,D
+SP1,27/02/94,Real Madrid,Tenerife,1,1,D
+SP1,27/02/94,Sevilla FC,Racing Santander,2,1,H
+SP1,27/02/94,Real Sociedad,Atletico Madrid,2,1,H
+SP1,27/02/94,Sporting Gijón,Lerida,1,1,D
+SP1,27/02/94,Valencia,Logrones,3,1,H
+SP1,27/02/94,Real Zaragoza,Real Valladolid,2,0,H
+SP1,06/03/94,Athletic Bilbao,Valencia,2,1,H
+SP1,06/03/94,Atletico Madrid,Albacete,0,0,D
+SP1,06/03/94,Deportivo La Coruña,Real Zaragoza,1,1,D
+SP1,06/03/94,Lerida,Real Madrid,2,1,H
+SP1,06/03/94,Logrones,Celta Vigo,1,1,D
+SP1,06/03/94,Oviedo,Barcelona,1,3,A
+SP1,06/03/94,Racing Santander,Real Sociedad,4,1,H
+SP1,06/03/94,Tenerife,Sevilla FC,2,1,H
+SP1,06/03/94,Real Valladolid,Osasuna,2,1,H
+SP1,06/03/94,Rayo Vallecano,Sporting Gijón,2,1,H
+SP1,13/03/94,Albacete,Racing Santander,3,0,H
+SP1,13/03/94,Barcelona,Atletico Madrid,5,3,H
+SP1,13/03/94,Celta Vigo,Valencia,1,2,A
+SP1,13/03/94,Osasuna,Deportivo La Coruña,0,0,D
+SP1,13/03/94,Real Madrid,Rayo Vallecano,5,2,H
+SP1,13/03/94,Sevilla FC,Lerida,2,1,H
+SP1,13/03/94,Real Sociedad,Tenerife,2,1,H
+SP1,13/03/94,Sporting Gijón,Logrones,1,2,A
+SP1,13/03/94,Real Valladolid,Athletic Bilbao,1,1,D
+SP1,13/03/94,Real Zaragoza,Oviedo,2,1,H
+SP1,20/03/94,Athletic Bilbao,Celta Vigo,2,1,H
+SP1,20/03/94,Atletico Madrid,Real Zaragoza,0,4,A
+SP1,20/03/94,Deportivo La Coruña,Real Valladolid,0,0,D
+SP1,20/03/94,Lerida,Real Sociedad,1,0,H
+SP1,20/03/94,Logrones,Real Madrid,3,4,A
+SP1,20/03/94,Oviedo,Osasuna,1,0,H
+SP1,20/03/94,Racing Santander,Barcelona,1,1,D
+SP1,20/03/94,Tenerife,Albacete,2,1,H
+SP1,20/03/94,Valencia,Sporting Gijón,1,0,H
+SP1,20/03/94,Rayo Vallecano,Sevilla FC,2,1,H
+SP1,27/03/94,Albacete,Lerida,2,1,H
+SP1,27/03/94,Barcelona,Tenerife,2,1,H
+SP1,27/03/94,Deportivo La Coruña,Athletic Bilbao,4,1,H
+SP1,27/03/94,Osasuna,Atletico Madrid,0,1,A
+SP1,27/03/94,Real Madrid,Valencia,3,2,H
+SP1,27/03/94,Sevilla FC,Logrones,4,1,H
+SP1,27/03/94,Real Sociedad,Rayo Vallecano,1,1,D
+SP1,27/03/94,Sporting Gijón,Celta Vigo,2,1,H
+SP1,27/03/94,Real Valladolid,Oviedo,0,0,D
+SP1,27/03/94,Real Zaragoza,Racing Santander,2,0,H
+SP1,03/04/94,Athletic Bilbao,Sporting Gijón,7,0,H
+SP1,03/04/94,Atletico Madrid,Real Valladolid,2,0,H
+SP1,03/04/94,Celta Vigo,Real Madrid,3,2,H
+SP1,03/04/94,Lerida,Barcelona,1,2,A
+SP1,03/04/94,Logrones,Real Sociedad,2,0,H
+SP1,03/04/94,Oviedo,Deportivo La Coruña,2,5,A
+SP1,03/04/94,Racing Santander,Osasuna,3,1,H
+SP1,03/04/94,Tenerife,Real Zaragoza,5,3,H
+SP1,03/04/94,Valencia,Sevilla FC,1,1,D
+SP1,03/04/94,Rayo Vallecano,Albacete,0,0,D
+SP1,06/04/94,Albacete,Logrones,2,2,D
+SP1,06/04/94,Barcelona,Rayo Vallecano,1,0,H
+SP1,06/04/94,Deportivo La Coruña,Atletico Madrid,2,1,H
+SP1,06/04/94,Osasuna,Tenerife,1,0,H
+SP1,06/04/94,Oviedo,Athletic Bilbao,3,0,H
+SP1,06/04/94,Real Madrid,Sporting Gijón,2,2,D
+SP1,06/04/94,Sevilla FC,Celta Vigo,4,1,H
+SP1,06/04/94,Real Sociedad,Valencia,0,0,D
+SP1,06/04/94,Real Valladolid,Racing Santander,0,3,A
+SP1,06/04/94,Real Zaragoza,Lerida,1,1,D
+SP1,10/04/94,Athletic Bilbao,Real Madrid,2,1,H
+SP1,10/04/94,Atletico Madrid,Oviedo,0,3,A
+SP1,10/04/94,Celta Vigo,Real Sociedad,3,2,H
+SP1,10/04/94,Lerida,Osasuna,1,2,A
+SP1,10/04/94,Logrones,Barcelona,0,0,D
+SP1,10/04/94,Racing Santander,Deportivo La Coruña,0,1,A
+SP1,10/04/94,Sporting Gijón,Sevilla FC,0,1,A
+SP1,10/04/94,Tenerife,Real Valladolid,0,2,A
+SP1,10/04/94,Valencia,Albacete,4,0,H
+SP1,10/04/94,Rayo Vallecano,Real Zaragoza,1,2,A
+SP1,17/04/94,Albacete,Celta Vigo,0,4,A
+SP1,17/04/94,Atletico Madrid,Athletic Bilbao,4,2,H
+SP1,17/04/94,Barcelona,Valencia,3,1,H
+SP1,17/04/94,Deportivo La Coruña,Tenerife,2,0,H
+SP1,17/04/94,Osasuna,Rayo Vallecano,1,1,D
+SP1,17/04/94,Oviedo,Racing Santander,3,0,H
+SP1,17/04/94,Sevilla FC,Real Madrid,0,1,A
+SP1,17/04/94,Real Sociedad,Sporting Gijón,0,1,A
+SP1,17/04/94,Real Valladolid,Lerida,0,2,A
+SP1,17/04/94,Real Zaragoza,Logrones,1,1,D
+SP1,24/04/94,Athletic Bilbao,Sevilla FC,1,1,D
+SP1,24/04/94,Celta Vigo,Barcelona,0,4,A
+SP1,24/04/94,Lerida,Deportivo La Coruña,0,0,D
+SP1,24/04/94,Logrones,Osasuna,3,2,H
+SP1,24/04/94,Real Madrid,Real Sociedad,0,1,A
+SP1,24/04/94,Racing Santander,Atletico Madrid,2,0,H
+SP1,24/04/94,Sporting Gijón,Albacete,1,0,H
+SP1,24/04/94,Tenerife,Oviedo,2,2,D
+SP1,24/04/94,Valencia,Real Zaragoza,3,0,H
+SP1,24/04/94,Rayo Vallecano,Real Valladolid,0,1,A
+SP1,01/05/94,Albacete,Real Madrid,1,4,A
+SP1,01/05/94,Atletico Madrid,Tenerife,2,0,H
+SP1,01/05/94,Barcelona,Sporting Gijón,4,0,H
+SP1,01/05/94,Deportivo La Coruña,Rayo Vallecano,0,0,D
+SP1,01/05/94,Osasuna,Valencia,3,3,D
+SP1,01/05/94,Oviedo,Lerida,0,0,D
+SP1,01/05/94,Racing Santander,Athletic Bilbao,2,2,D
+SP1,01/05/94,Real Sociedad,Sevilla FC,0,0,D
+SP1,01/05/94,Real Valladolid,Logrones,2,0,H
+SP1,01/05/94,Real Zaragoza,Celta Vigo,4,1,H
+SP1,08/05/94,Celta Vigo,Osasuna,4,0,H
+SP1,08/05/94,Lerida,Atletico Madrid,0,1,A
+SP1,08/05/94,Logrones,Deportivo La Coruña,0,2,A
+SP1,08/05/94,Real Madrid,Barcelona,0,1,A
+SP1,08/05/94,Sevilla FC,Albacete,2,0,H
+SP1,08/05/94,Real Sociedad,Athletic Bilbao,0,0,D
+SP1,08/05/94,Sporting Gijón,Real Zaragoza,0,3,A
+SP1,08/05/94,Tenerife,Racing Santander,1,0,H
+SP1,08/05/94,Valencia,Real Valladolid,5,1,H
+SP1,08/05/94,Rayo Vallecano,Oviedo,0,0,D
+SP1,15/05/94,Albacete,Real Sociedad,1,1,D
+SP1,15/05/94,Athletic Bilbao,Tenerife,3,2,H
+SP1,15/05/94,Atletico Madrid,Rayo Vallecano,2,0,H
+SP1,15/05/94,Barcelona,Sevilla FC,5,2,H
+SP1,15/05/94,Deportivo La Coruña,Valencia,0,0,D
+SP1,15/05/94,Osasuna,Sporting Gijón,3,0,H
+SP1,15/05/94,Oviedo,Logrones,1,2,A
+SP1,15/05/94,Racing Santander,Lerida,2,1,H
+SP1,15/05/94,Real Valladolid,Celta Vigo,0,0,D
+SP1,15/05/94,Real Zaragoza,Real Madrid,4,1,H
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,

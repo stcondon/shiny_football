@@ -1,0 +1,553 @@
+Div,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+E1,08/08/98,Barnsley,West Bromwich Albion,2,2,D,1,2,A
+E1,08/08/98,Bradford,Stockport,1,2,A,0,1,A
+E1,08/08/98,Bristol City,Oxford,2,2,D,2,1,H
+E1,08/08/98,Bury,Huddersfield Town,1,0,H,1,0,H
+E1,08/08/98,Crystal Palace,Bolton Wanderers,2,2,D,0,1,A
+E1,08/08/98,Norwich City,Crewe,2,1,H,2,1,H
+E1,08/08/98,Port Vale,Birmingham City,0,2,A,0,1,A
+E1,08/08/98,Portsmouth,Watford,1,2,A,1,0,H
+E1,08/08/98,Sheffield United,Swindon,2,1,H,1,0,H
+E1,08/08/98,Sunderland,Queens Park Rangers,1,0,H,0,0,D
+E1,08/08/98,Wolverhampton Wanderers,Tranmere,2,0,H,1,0,H
+E1,09/08/98,Grimsby,Ipswich,0,0,D,0,0,D
+E1,15/08/98,Bolton Wanderers,Grimsby,2,0,H,0,0,D
+E1,15/08/98,Crewe,Barnsley,3,1,H,1,0,H
+E1,15/08/98,Huddersfield Town,Port Vale,2,1,H,1,0,H
+E1,15/08/98,Ipswich,Bury,0,0,D,0,0,D
+E1,15/08/98,Oxford,Wolverhampton Wanderers,0,2,A,0,1,A
+E1,15/08/98,Queens Park Rangers,Bristol City,1,1,D,0,1,A
+E1,15/08/98,Stockport,Norwich City,0,2,A,0,1,A
+E1,15/08/98,Swindon,Sunderland,1,1,D,1,0,H
+E1,15/08/98,Tranmere,Portsmouth,1,1,D,1,1,D
+E1,15/08/98,Watford,Bradford,1,0,H,0,0,D
+E1,15/08/98,West Bromwich Albion,Sheffield United,4,1,H,2,1,H
+E1,16/08/98,Birmingham City,Crystal Palace,3,1,H,2,0,H
+E1,21/08/98,Barnsley,Stockport,1,1,D,1,0,H
+E1,22/08/98,Bristol City,Watford,1,4,A,0,1,A
+E1,22/08/98,Bury,Crewe,1,0,H,1,0,H
+E1,22/08/98,Crystal Palace,Oxford,2,0,H,2,0,H
+E1,22/08/98,Grimsby,Huddersfield Town,1,0,H,0,0,D
+E1,22/08/98,Norwich City,Queens Park Rangers,4,2,H,3,2,H
+E1,22/08/98,Port Vale,West Bromwich Albion,0,3,A,0,0,D
+E1,22/08/98,Portsmouth,Ipswich,0,0,D,0,0,D
+E1,22/08/98,Sheffield United,Birmingham City,0,2,A,0,0,D
+E1,22/08/98,Sunderland,Tranmere,5,0,H,2,0,H
+E1,22/08/98,Wolverhampton Wanderers,Swindon,1,0,H,1,0,H
+E1,23/08/98,Bradford,Bolton Wanderers,2,2,D,1,1,D
+E1,25/08/98,Sunderland,Watford,4,1,H,3,1,H
+E1,28/08/98,Crewe,Bradford,2,1,H,2,1,H
+E1,28/08/98,Watford,Wolverhampton Wanderers,0,2,A,0,1,A
+E1,29/08/98,Birmingham City,Barnsley,0,0,D,0,0,D
+E1,29/08/98,Bolton Wanderers,Sheffield United,2,2,D,2,0,H
+E1,29/08/98,Huddersfield Town,Portsmouth,3,3,D,1,1,D
+E1,29/08/98,Ipswich,Sunderland,0,2,A,0,2,A
+E1,29/08/98,Oxford,Grimsby,0,0,D,0,0,D
+E1,29/08/98,Queens Park Rangers,Bury,0,0,D,0,0,D
+E1,29/08/98,Stockport,Crystal Palace,1,1,D,0,1,A
+E1,29/08/98,Swindon,Port Vale,1,1,D,0,1,A
+E1,29/08/98,Tranmere,Bristol City,1,1,D,1,1,D
+E1,29/08/98,West Bromwich Albion,Norwich City,2,0,H,0,0,D
+E1,31/08/98,Barnsley,Oxford,1,0,H,1,0,H
+E1,31/08/98,Bradford,Birmingham City,2,1,H,0,0,D
+E1,31/08/98,Bristol City,Huddersfield Town,1,2,A,1,0,H
+E1,31/08/98,Bury,Swindon,3,0,H,0,0,D
+E1,31/08/98,Grimsby,West Bromwich Albion,5,1,H,4,0,H
+E1,31/08/98,Port Vale,Ipswich,0,3,A,0,1,A
+E1,31/08/98,Portsmouth,Queens Park Rangers,3,0,H,1,0,H
+E1,31/08/98,Sheffield United,Crewe,3,1,H,1,1,D
+E1,31/08/98,Wolverhampton Wanderers,Stockport,2,2,D,2,1,H
+E1,05/09/98,Birmingham City,Bury,1,0,H,1,0,H
+E1,05/09/98,Huddersfield Town,Sheffield United,1,0,H,0,0,D
+E1,05/09/98,Stockport,Grimsby,2,0,H,0,0,D
+E1,05/09/98,Swindon,Bristol City,3,2,H,3,0,H
+E1,06/09/98,Oxford,Portsmouth,3,0,H,2,0,H
+E1,08/09/98,Barnsley,Norwich City,1,3,A,1,0,H
+E1,08/09/98,Birmingham City,Stockport,2,0,H,0,0,D
+E1,08/09/98,Bury,Portsmouth,2,1,H,2,1,H
+E1,08/09/98,Crewe,Crystal Palace,0,1,A,0,0,D
+E1,08/09/98,Huddersfield Town,Watford,2,0,H,2,0,H
+E1,08/09/98,Ipswich,Bradford,3,0,H,1,0,H
+E1,08/09/98,Port Vale,Wolverhampton Wanderers,2,1,H,1,0,H
+E1,08/09/98,Queens Park Rangers,Tranmere,0,0,D,0,0,D
+E1,08/09/98,Sheffield United,Grimsby,3,2,H,0,1,A
+E1,08/09/98,Sunderland,Bristol City,1,1,D,1,0,H
+E1,08/09/98,West Bromwich Albion,Bolton Wanderers,2,3,A,1,2,A
+E1,09/09/98,Swindon,Oxford,4,1,H,1,1,D
+E1,11/09/98,Tranmere,Huddersfield Town,2,3,A,0,2,A
+E1,12/09/98,Bolton Wanderers,Birmingham City,3,1,H,2,1,H
+E1,12/09/98,Bradford,Sheffield United,2,2,D,2,2,D
+E1,12/09/98,Crystal Palace,Port Vale,0,1,A,0,0,D
+E1,12/09/98,Grimsby,Barnsley,1,2,A,0,1,A
+E1,12/09/98,Oxford,Ipswich,3,3,D,1,1,D
+E1,12/09/98,Portsmouth,Swindon,5,2,H,2,0,H
+E1,12/09/98,Stockport,Crewe,1,1,D,0,1,A
+E1,12/09/98,Watford,Queens Park Rangers,2,1,H,1,0,H
+E1,12/09/98,Wolverhampton Wanderers,Sunderland,1,1,D,0,0,D
+E1,13/09/98,Bristol City,West Bromwich Albion,1,3,A,0,2,A
+E1,13/09/98,Norwich City,Bury,0,0,D,0,0,D
+E1,19/09/98,Barnsley,Crystal Palace,4,0,H,2,0,H
+E1,19/09/98,Birmingham City,Grimsby,0,1,A,0,0,D
+E1,19/09/98,Bury,Tranmere,0,0,D,0,0,D
+E1,19/09/98,Crewe,Bolton Wanderers,4,4,D,2,3,A
+E1,19/09/98,Huddersfield Town,Wolverhampton Wanderers,2,1,H,1,0,H
+E1,19/09/98,Ipswich,Bristol City,3,1,H,2,0,H
+E1,19/09/98,Port Vale,Portsmouth,0,2,A,0,0,D
+E1,19/09/98,Queens Park Rangers,Stockport,2,0,H,0,0,D
+E1,19/09/98,Sheffield United,Norwich City,2,1,H,1,0,H
+E1,19/09/98,Sunderland,Oxford,7,0,H,3,0,H
+E1,19/09/98,Swindon,Watford,1,4,A,1,2,A
+E1,20/09/98,West Bromwich Albion,Bradford,0,2,A,0,2,A
+E1,25/09/98,Tranmere,Swindon,0,0,D,0,0,D
+E1,26/09/98,Bolton Wanderers,Huddersfield Town,3,0,H,3,0,H
+E1,26/09/98,Bradford,Barnsley,2,1,H,0,0,D
+E1,26/09/98,Bristol City,Crewe,5,2,H,3,0,H
+E1,26/09/98,Grimsby,Port Vale,2,2,D,0,2,A
+E1,26/09/98,Norwich City,Birmingham City,2,0,H,0,0,D
+E1,26/09/98,Oxford,Queens Park Rangers,4,1,H,1,0,H
+E1,26/09/98,Portsmouth,Sunderland,1,1,D,1,0,H
+E1,26/09/98,Stockport,West Bromwich Albion,2,2,D,0,2,A
+E1,26/09/98,Watford,Ipswich,1,0,H,1,0,H
+E1,26/09/98,Wolverhampton Wanderers,Bury,1,0,H,0,0,D
+E1,27/09/98,Crystal Palace,Sheffield United,1,0,H,0,0,D
+E1,29/09/98,Bolton Wanderers,Swindon,2,1,H,0,0,D
+E1,29/09/98,Bradford,Port Vale,4,0,H,1,0,H
+E1,29/09/98,Bristol City,Barnsley,1,1,D,0,0,D
+E1,29/09/98,Grimsby,Crewe,1,1,D,1,1,D
+E1,29/09/98,Norwich City,Sunderland,2,2,D,2,1,H
+E1,29/09/98,Oxford,West Bromwich Albion,3,0,H,2,0,H
+E1,29/09/98,Portsmouth,Birmingham City,0,1,A,0,0,D
+E1,29/09/98,Stockport,Huddersfield Town,1,1,D,1,1,D
+E1,29/09/98,Tranmere,Ipswich,0,2,A,0,1,A
+E1,29/09/98,Watford,Sheffield United,1,1,D,1,0,H
+E1,29/09/98,Wolverhampton Wanderers,Queens Park Rangers,1,2,A,0,2,A
+E1,30/09/98,Crystal Palace,Bury,4,2,H,1,2,A
+E1,03/10/98,Barnsley,Bolton Wanderers,2,2,D,1,2,A
+E1,03/10/98,Birmingham City,Tranmere,2,2,D,1,2,A
+E1,03/10/98,Bury,Bristol City,0,1,A,0,0,D
+E1,03/10/98,Crewe,Wolverhampton Wanderers,0,0,D,0,0,D
+E1,03/10/98,Huddersfield Town,Oxford,2,0,H,2,0,H
+E1,03/10/98,Ipswich,Crystal Palace,3,0,H,1,0,H
+E1,03/10/98,Port Vale,Norwich City,1,0,H,0,0,D
+E1,03/10/98,Queens Park Rangers,Grimsby,1,2,A,1,1,D
+E1,03/10/98,Sheffield United,Portsmouth,2,1,H,1,0,H
+E1,03/10/98,Sunderland,Bradford,0,0,D,0,0,D
+E1,03/10/98,Swindon,Stockport,2,3,A,1,2,A
+E1,04/10/98,West Bromwich Albion,Watford,4,1,H,2,1,H
+E1,09/10/98,Bradford,Bury,3,0,H,1,0,H
+E1,09/10/98,Swindon,Huddersfield Town,3,0,H,3,0,H
+E1,10/10/98,Bristol City,Portsmouth,2,2,D,1,1,D
+E1,10/10/98,Oxford,Tranmere,1,2,A,1,1,D
+E1,10/10/98,Watford,Birmingham City,1,1,D,0,1,A
+E1,11/10/98,Barnsley,Port Vale,0,2,A,0,0,D
+E1,17/10/98,Birmingham City,Crewe,3,1,H,2,1,H
+E1,17/10/98,Bolton Wanderers,Oxford,1,1,D,1,1,D
+E1,17/10/98,Bury,Stockport,1,1,D,0,0,D
+E1,17/10/98,Crystal Palace,Norwich City,5,1,H,2,1,H
+E1,17/10/98,Grimsby,Bradford,2,0,H,1,0,H
+E1,17/10/98,Huddersfield Town,Queens Park Rangers,2,0,H,1,0,H
+E1,17/10/98,Ipswich,Swindon,1,0,H,1,0,H
+E1,17/10/98,Port Vale,Bristol City,3,2,H,1,0,H
+E1,17/10/98,Portsmouth,Wolverhampton Wanderers,1,0,H,0,0,D
+E1,17/10/98,Sheffield United,Barnsley,1,1,D,0,1,A
+E1,17/10/98,Tranmere,Watford,3,2,H,2,1,H
+E1,18/10/98,West Bromwich Albion,Sunderland,2,3,A,2,0,H
+E1,20/10/98,Birmingham City,Swindon,1,1,D,0,0,D
+E1,20/10/98,Bolton Wanderers,Watford,1,2,A,1,1,D
+E1,20/10/98,Bury,Oxford,1,0,H,0,0,D
+E1,20/10/98,Crystal Palace,Wolverhampton Wanderers,3,2,H,1,0,H
+E1,20/10/98,Grimsby,Bristol City,2,1,H,0,1,A
+E1,20/10/98,Ipswich,Norwich City,0,1,A,0,0,D
+E1,20/10/98,Port Vale,Crewe,1,0,H,0,0,D
+E1,20/10/98,Portsmouth,Bradford,2,4,A,0,3,A
+E1,20/10/98,Sheffield United,Stockport,1,1,D,0,1,A
+E1,20/10/98,Tranmere,Barnsley,3,0,H,2,0,H
+E1,21/10/98,Huddersfield Town,Sunderland,1,1,D,1,1,D
+E1,21/10/98,West Bromwich Albion,Queens Park Rangers,2,0,H,0,0,D
+E1,23/10/98,Bristol City,Bolton Wanderers,2,1,H,2,1,H
+E1,24/10/98,Barnsley,Portsmouth,2,1,H,1,0,H
+E1,24/10/98,Crewe,Tranmere,1,4,A,0,4,A
+E1,24/10/98,Norwich City,Huddersfield Town,4,1,H,3,0,H
+E1,24/10/98,Oxford,Sheffield United,0,2,A,0,1,A
+E1,24/10/98,Stockport,Ipswich,0,1,A,0,0,D
+E1,24/10/98,Sunderland,Bury,1,0,H,0,0,D
+E1,24/10/98,Swindon,West Bromwich Albion,2,2,D,2,1,H
+E1,24/10/98,Watford,Port Vale,2,2,D,1,1,D
+E1,24/10/98,Wolverhampton Wanderers,Grimsby,2,0,H,2,0,H
+E1,25/10/98,Queens Park Rangers,Birmingham City,0,1,A,0,1,A
+E1,31/10/98,Birmingham City,Huddersfield Town,1,1,D,0,0,D
+E1,31/10/98,Bradford,Bristol City,5,0,H,2,0,H
+E1,31/10/98,Bury,Watford,1,3,A,1,2,A
+E1,31/10/98,Grimsby,Crystal Palace,2,0,H,1,0,H
+E1,31/10/98,Ipswich,West Bromwich Albion,2,0,H,0,0,D
+E1,31/10/98,Oxford,Crewe,1,1,D,0,0,D
+E1,31/10/98,Port Vale,Sheffield United,2,3,A,0,1,A
+E1,31/10/98,Swindon,Queens Park Rangers,3,1,H,1,1,D
+E1,31/10/98,Tranmere,Stockport,1,1,D,0,0,D
+E1,31/10/98,Wolverhampton Wanderers,Barnsley,1,1,D,1,0,H
+E1,01/11/98,Bolton Wanderers,Sunderland,0,3,A,0,2,A
+E1,03/11/98,Crewe,Sunderland,1,4,A,0,3,A
+E1,03/11/98,Ipswich,Wolverhampton Wanderers,2,0,H,1,0,H
+E1,03/11/98,Watford,Norwich City,1,1,D,1,1,D
+E1,03/11/98,West Bromwich Albion,Crystal Palace,3,2,H,1,1,D
+E1,04/11/98,Bolton Wanderers,Port Vale,3,1,H,2,0,H
+E1,04/11/98,Queens Park Rangers,Barnsley,2,1,H,2,0,H
+E1,07/11/98,Barnsley,Bury,1,1,D,1,0,H
+E1,07/11/98,Bristol City,Wolverhampton Wanderers,1,6,A,1,2,A
+E1,07/11/98,Crewe,Swindon,0,2,A,0,1,A
+E1,07/11/98,Crystal Palace,Portsmouth,4,1,H,1,1,D
+E1,07/11/98,Huddersfield Town,Ipswich,2,2,D,0,1,A
+E1,07/11/98,Norwich City,Bradford,2,2,D,0,1,A
+E1,07/11/98,Queens Park Rangers,Bolton Wanderers,2,0,H,1,0,H
+E1,07/11/98,Sheffield United,Tranmere,2,2,D,1,1,D
+E1,07/11/98,Sunderland,Grimsby,3,1,H,0,0,D
+E1,07/11/98,Watford,Oxford,2,0,H,1,0,H
+E1,07/11/98,West Bromwich Albion,Birmingham City,1,3,A,0,3,A
+E1,08/11/98,Stockport,Port Vale,4,2,H,2,1,H
+E1,10/11/98,Portsmouth,Norwich City,1,2,A,1,0,H
+E1,10/11/98,Tranmere,Bradford,0,1,A,0,1,A
+E1,10/11/98,Wolverhampton Wanderers,Sheffield United,2,1,H,0,1,A
+E1,14/11/98,Barnsley,Ipswich,0,1,A,0,1,A
+E1,14/11/98,Birmingham City,Oxford,0,1,A,0,1,A
+E1,14/11/98,Bolton Wanderers,Tranmere,2,2,D,0,1,A
+E1,14/11/98,Bradford,Swindon,3,0,H,0,0,D
+E1,14/11/98,Crewe,Queens Park Rangers,0,2,A,0,1,A
+E1,14/11/98,Crystal Palace,Bristol City,2,1,H,1,1,D
+E1,14/11/98,Grimsby,Portsmouth,1,1,D,1,1,D
+E1,14/11/98,Norwich City,Wolverhampton Wanderers,0,0,D,0,0,D
+E1,14/11/98,Port Vale,Sunderland,0,2,A,0,1,A
+E1,14/11/98,Sheffield United,Bury,3,1,H,0,1,A
+E1,14/11/98,Stockport,Watford,1,1,D,1,1,D
+E1,14/11/98,West Bromwich Albion,Huddersfield Town,3,1,H,1,1,D
+E1,21/11/98,Bristol City,Stockport,1,1,D,1,0,H
+E1,21/11/98,Bury,Grimsby,1,0,H,0,0,D
+E1,21/11/98,Huddersfield Town,Bradford,2,1,H,0,1,A
+E1,21/11/98,Ipswich,Bolton Wanderers,0,1,A,0,0,D
+E1,21/11/98,Oxford,Port Vale,2,1,H,2,1,H
+E1,21/11/98,Portsmouth,West Bromwich Albion,2,1,H,1,1,D
+E1,21/11/98,Queens Park Rangers,Sheffield United,1,2,A,0,2,A
+E1,21/11/98,Sunderland,Barnsley,2,3,A,0,1,A
+E1,21/11/98,Swindon,Crystal Palace,2,0,H,1,0,H
+E1,21/11/98,Tranmere,Norwich City,1,3,A,0,2,A
+E1,21/11/98,Watford,Crewe,4,2,H,3,0,H
+E1,22/11/98,Wolverhampton Wanderers,Birmingham City,3,1,H,0,1,A
+E1,24/11/98,Stockport,Bolton Wanderers,0,1,A,0,0,D
+E1,27/11/98,Barnsley,Huddersfield Town,7,1,H,6,0,H
+E1,28/11/98,Birmingham City,Bristol City,4,2,H,3,2,H
+E1,28/11/98,Bolton Wanderers,Bury,4,0,H,1,0,H
+E1,28/11/98,Bradford,Queens Park Rangers,0,3,A,0,0,D
+E1,28/11/98,Crewe,Ipswich,0,3,A,0,1,A
+E1,28/11/98,Crystal Palace,Watford,2,2,D,1,2,A
+E1,28/11/98,Grimsby,Swindon,1,0,H,1,0,H
+E1,28/11/98,Port Vale,Tranmere,2,2,D,1,0,H
+E1,28/11/98,Sheffield United,Sunderland,0,4,A,0,3,A
+E1,28/11/98,Stockport,Portsmouth,2,0,H,0,0,D
+E1,29/11/98,Norwich City,Oxford,1,3,A,1,2,A
+E1,29/11/98,West Bromwich Albion,Wolverhampton Wanderers,2,0,H,0,0,D
+E1,02/12/98,Norwich City,Grimsby,3,1,H,1,0,H
+E1,02/12/98,Queens Park Rangers,Ipswich,1,1,D,0,0,D
+E1,05/12/98,Bristol City,Sheffield United,2,0,H,1,0,H
+E1,05/12/98,Bury,West Bromwich Albion,2,0,H,2,0,H
+E1,05/12/98,Huddersfield Town,Crystal Palace,4,0,H,2,0,H
+E1,05/12/98,Ipswich,Birmingham City,1,0,H,1,0,H
+E1,05/12/98,Oxford,Bradford,0,1,A,0,1,A
+E1,05/12/98,Portsmouth,Crewe,2,0,H,0,0,D
+E1,05/12/98,Queens Park Rangers,Port Vale,3,2,H,0,1,A
+E1,05/12/98,Sunderland,Stockport,1,0,H,1,0,H
+E1,05/12/98,Swindon,Norwich City,1,1,D,1,1,D
+E1,05/12/98,Tranmere,Grimsby,1,2,A,1,1,D
+E1,05/12/98,Watford,Barnsley,0,0,D,0,0,D
+E1,05/12/98,Wolverhampton Wanderers,Bolton Wanderers,1,1,D,0,0,D
+E1,08/12/98,Crewe,West Bromwich Albion,1,1,D,0,1,A
+E1,08/12/98,Crystal Palace,Tranmere,1,1,D,0,0,D
+E1,11/12/98,Bury,Sheffield United,3,3,D,1,1,D
+E1,12/12/98,Bristol City,Crystal Palace,1,1,D,1,1,D
+E1,12/12/98,Huddersfield Town,West Bromwich Albion,0,3,A,0,0,D
+E1,12/12/98,Ipswich,Barnsley,0,2,A,0,0,D
+E1,12/12/98,Oxford,Birmingham City,1,7,A,0,4,A
+E1,12/12/98,Queens Park Rangers,Crewe,0,1,A,0,1,A
+E1,12/12/98,Sunderland,Port Vale,2,0,H,1,0,H
+E1,12/12/98,Swindon,Bradford,1,4,A,1,1,D
+E1,12/12/98,Tranmere,Bolton Wanderers,1,1,D,0,1,A
+E1,12/12/98,Watford,Stockport,4,2,H,2,0,H
+E1,12/12/98,Wolverhampton Wanderers,Norwich City,2,2,D,0,1,A
+E1,13/12/98,Portsmouth,Grimsby,0,1,A,0,0,D
+E1,15/12/98,Sunderland,Crystal Palace,2,0,H,1,0,H
+E1,19/12/98,Barnsley,Swindon,1,3,A,0,3,A
+E1,19/12/98,Birmingham City,Sunderland,0,0,D,0,0,D
+E1,19/12/98,Bolton Wanderers,Portsmouth,3,1,H,0,1,A
+E1,19/12/98,Bradford,Wolverhampton Wanderers,2,1,H,1,0,H
+E1,19/12/98,Crewe,Huddersfield Town,1,2,A,0,1,A
+E1,19/12/98,Crystal Palace,Queens Park Rangers,1,1,D,0,0,D
+E1,19/12/98,Grimsby,Watford,2,1,H,0,0,D
+E1,19/12/98,Norwich City,Bristol City,2,1,H,2,1,H
+E1,19/12/98,Port Vale,Bury,1,0,H,0,0,D
+E1,19/12/98,Stockport,Oxford,2,0,H,1,0,H
+E1,19/12/98,West Bromwich Albion,Tranmere,0,2,A,0,0,D
+E1,20/12/98,Sheffield United,Ipswich,1,2,A,0,0,D
+E1,26/12/98,Birmingham City,Sheffield United,1,0,H,1,0,H
+E1,26/12/98,Bolton Wanderers,Bradford,0,0,D,0,0,D
+E1,26/12/98,Crewe,Bury,3,1,H,0,0,D
+E1,26/12/98,Huddersfield Town,Grimsby,2,0,H,0,0,D
+E1,26/12/98,Ipswich,Portsmouth,3,0,H,3,0,H
+E1,26/12/98,Oxford,Crystal Palace,1,3,A,0,0,D
+E1,26/12/98,Queens Park Rangers,Norwich City,2,0,H,2,0,H
+E1,26/12/98,Stockport,Barnsley,0,1,A,0,1,A
+E1,26/12/98,Swindon,Wolverhampton Wanderers,1,0,H,0,0,D
+E1,26/12/98,Tranmere,Sunderland,1,0,H,0,0,D
+E1,26/12/98,Watford,Bristol City,1,0,H,0,0,D
+E1,26/12/98,West Bromwich Albion,Port Vale,3,2,H,1,0,H
+E1,28/12/98,Barnsley,Queens Park Rangers,1,0,H,0,0,D
+E1,28/12/98,Bradford,Tranmere,2,0,H,1,0,H
+E1,28/12/98,Bristol City,Swindon,3,1,H,1,0,H
+E1,28/12/98,Bury,Birmingham City,2,4,A,1,2,A
+E1,28/12/98,Crystal Palace,West Bromwich Albion,1,1,D,1,0,H
+E1,28/12/98,Grimsby,Stockport,1,0,H,0,0,D
+E1,28/12/98,Port Vale,Bolton Wanderers,0,2,A,0,0,D
+E1,28/12/98,Portsmouth,Oxford,2,2,D,0,1,A
+E1,28/12/98,Sheffield United,Huddersfield Town,2,1,H,0,0,D
+E1,28/12/98,Sunderland,Crewe,2,0,H,1,0,H
+E1,28/12/98,Wolverhampton Wanderers,Ipswich,1,0,H,0,0,D
+E1,29/12/98,Norwich City,Watford,1,1,D,0,0,D
+E1,08/01/99,Tranmere,Wolverhampton Wanderers,1,2,A,1,2,A
+E1,09/01/99,Birmingham City,Port Vale,1,0,H,1,0,H
+E1,09/01/99,Crewe,Norwich City,3,2,H,0,2,A
+E1,09/01/99,Huddersfield Town,Bury,2,2,D,1,0,H
+E1,09/01/99,Ipswich,Grimsby,0,1,A,0,1,A
+E1,09/01/99,Oxford,Bristol City,0,0,D,0,0,D
+E1,09/01/99,Queens Park Rangers,Sunderland,2,2,D,1,1,D
+E1,09/01/99,Stockport,Bradford,1,2,A,0,1,A
+E1,09/01/99,Swindon,Sheffield United,2,2,D,1,1,D
+E1,09/01/99,Watford,Portsmouth,0,0,D,0,0,D
+E1,09/01/99,West Bromwich Albion,Barnsley,2,0,H,0,0,D
+E1,10/01/99,Bolton Wanderers,Crystal Palace,3,0,H,3,0,H
+E1,16/01/99,Barnsley,Birmingham City,0,0,D,0,0,D
+E1,16/01/99,Bradford,Crewe,4,1,H,2,0,H
+E1,16/01/99,Bristol City,Tranmere,1,1,D,1,1,D
+E1,16/01/99,Bury,Queens Park Rangers,1,1,D,1,0,H
+E1,16/01/99,Crystal Palace,Stockport,2,2,D,1,2,A
+E1,16/01/99,Grimsby,Oxford,1,0,H,1,0,H
+E1,16/01/99,Norwich City,West Bromwich Albion,1,1,D,0,0,D
+E1,16/01/99,Port Vale,Swindon,0,1,A,0,1,A
+E1,16/01/99,Portsmouth,Huddersfield Town,1,0,H,1,0,H
+E1,16/01/99,Sheffield United,Bolton Wanderers,1,2,A,1,1,D
+E1,16/01/99,Wolverhampton Wanderers,Watford,0,0,D,0,0,D
+E1,17/01/99,Sunderland,Ipswich,2,1,H,2,1,H
+E1,19/01/99,Bradford,Crystal Palace,2,1,H,0,0,D
+E1,23/01/99,Watford,West Bromwich Albion,0,2,A,0,1,A
+E1,30/01/99,Bolton Wanderers,Norwich City,2,0,H,1,0,H
+E1,30/01/99,Crewe,Sheffield United,1,2,A,1,0,H
+E1,30/01/99,Huddersfield Town,Bristol City,2,2,D,1,1,D
+E1,30/01/99,Ipswich,Port Vale,1,0,H,1,0,H
+E1,30/01/99,Oxford,Barnsley,1,0,H,0,0,D
+E1,30/01/99,Queens Park Rangers,Portsmouth,1,1,D,0,0,D
+E1,30/01/99,Stockport,Wolverhampton Wanderers,1,2,A,0,0,D
+E1,30/01/99,Swindon,Bury,1,1,D,0,0,D
+E1,30/01/99,Tranmere,Crystal Palace,3,1,H,2,1,H
+E1,30/01/99,Watford,Sunderland,2,1,H,1,1,D
+E1,30/01/99,West Bromwich Albion,Grimsby,1,1,D,0,1,A
+E1,31/01/99,Birmingham City,Bradford,2,1,H,1,1,D
+E1,05/02/99,Bristol City,Queens Park Rangers,0,0,D,0,0,D
+E1,06/02/99,Barnsley,Crewe,2,2,D,1,1,D
+E1,06/02/99,Bradford,Watford,2,0,H,1,0,H
+E1,06/02/99,Bury,Ipswich,0,3,A,0,0,D
+E1,06/02/99,Crystal Palace,Birmingham City,1,1,D,0,0,D
+E1,06/02/99,Grimsby,Bolton Wanderers,0,1,A,0,0,D
+E1,06/02/99,Norwich City,Stockport,0,2,A,0,2,A
+E1,06/02/99,Port Vale,Huddersfield Town,2,0,H,2,0,H
+E1,06/02/99,Portsmouth,Tranmere,1,1,D,1,1,D
+E1,06/02/99,Sheffield United,West Bromwich Albion,3,0,H,2,0,H
+E1,06/02/99,Sunderland,Swindon,2,0,H,2,0,H
+E1,06/02/99,Wolverhampton Wanderers,Oxford,1,1,D,1,1,D
+E1,13/02/99,Bolton Wanderers,West Bromwich Albion,2,1,H,1,1,D
+E1,13/02/99,Bradford,Ipswich,0,0,D,0,0,D
+E1,13/02/99,Bristol City,Sunderland,0,1,A,0,0,D
+E1,13/02/99,Crystal Palace,Crewe,1,1,D,1,0,H
+E1,13/02/99,Oxford,Swindon,2,0,H,1,0,H
+E1,13/02/99,Portsmouth,Bury,2,1,H,1,0,H
+E1,13/02/99,Stockport,Birmingham City,1,0,H,1,0,H
+E1,13/02/99,Tranmere,Queens Park Rangers,3,2,H,1,1,D
+E1,13/02/99,Wolverhampton Wanderers,Port Vale,3,1,H,2,1,H
+E1,16/02/99,Norwich City,Barnsley,0,0,D,0,0,D
+E1,16/02/99,Watford,Huddersfield Town,1,1,D,0,0,D
+E1,19/02/99,Sheffield United,Bradford,2,2,D,1,1,D
+E1,20/02/99,Barnsley,Grimsby,0,0,D,0,0,D
+E1,20/02/99,Bury,Norwich City,0,2,A,0,1,A
+E1,20/02/99,Crewe,Stockport,0,2,A,0,1,A
+E1,20/02/99,Huddersfield Town,Tranmere,0,0,D,0,0,D
+E1,20/02/99,Ipswich,Oxford,2,1,H,2,1,H
+E1,20/02/99,Port Vale,Crystal Palace,1,0,H,1,0,H
+E1,20/02/99,Queens Park Rangers,Watford,1,2,A,1,1,D
+E1,20/02/99,Sunderland,Wolverhampton Wanderers,2,1,H,1,1,D
+E1,20/02/99,Swindon,Portsmouth,3,3,D,3,1,H
+E1,20/02/99,West Bromwich Albion,Bristol City,2,2,D,1,0,H
+E1,21/02/99,Birmingham City,Bolton Wanderers,0,0,D,0,0,D
+E1,26/02/99,Watford,Swindon,0,1,A,0,1,A
+E1,27/02/99,Bolton Wanderers,Crewe,1,3,A,0,2,A
+E1,27/02/99,Bradford,West Bromwich Albion,1,0,H,1,0,H
+E1,27/02/99,Bristol City,Ipswich,0,1,A,0,0,D
+E1,27/02/99,Grimsby,Birmingham City,0,3,A,0,1,A
+E1,27/02/99,Norwich City,Sheffield United,1,1,D,1,0,H
+E1,27/02/99,Oxford,Sunderland,0,0,D,0,0,D
+E1,27/02/99,Portsmouth,Port Vale,4,0,H,3,0,H
+E1,27/02/99,Stockport,Queens Park Rangers,0,0,D,0,0,D
+E1,27/02/99,Tranmere,Bury,4,0,H,1,0,H
+E1,27/02/99,Wolverhampton Wanderers,Huddersfield Town,2,2,D,1,0,H
+E1,28/02/99,Crystal Palace,Barnsley,1,0,H,1,0,H
+E1,02/03/99,Birmingham City,Norwich City,0,0,D,0,0,D
+E1,02/03/99,Huddersfield Town,Bolton Wanderers,3,2,H,2,1,H
+E1,02/03/99,Ipswich,Watford,3,2,H,2,0,H
+E1,02/03/99,Sheffield United,Crystal Palace,1,1,D,0,1,A
+E1,02/03/99,Sunderland,Portsmouth,2,0,H,1,0,H
+E1,02/03/99,West Bromwich Albion,Stockport,3,1,H,1,0,H
+E1,03/03/99,Barnsley,Bradford,0,1,A,0,0,D
+E1,03/03/99,Queens Park Rangers,Oxford,1,0,H,0,0,D
+E1,03/03/99,Swindon,Tranmere,2,3,A,1,0,H
+E1,06/03/99,Birmingham City,Portsmouth,4,1,H,1,1,D
+E1,06/03/99,Bury,Crystal Palace,0,0,D,0,0,D
+E1,06/03/99,Huddersfield Town,Stockport,3,0,H,0,0,D
+E1,06/03/99,Ipswich,Tranmere,1,0,H,0,0,D
+E1,06/03/99,Queens Park Rangers,Wolverhampton Wanderers,0,1,A,0,0,D
+E1,06/03/99,Sheffield United,Watford,3,0,H,2,0,H
+E1,06/03/99,Sunderland,Norwich City,1,0,H,1,0,H
+E1,06/03/99,Swindon,Bolton Wanderers,3,3,D,1,0,H
+E1,06/03/99,West Bromwich Albion,Oxford,2,0,H,1,0,H
+E1,09/03/99,Bolton Wanderers,Barnsley,3,3,D,2,2,D
+E1,09/03/99,Bradford,Sunderland,0,1,A,0,0,D
+E1,09/03/99,Bristol City,Bury,1,1,D,0,1,A
+E1,09/03/99,Crystal Palace,Ipswich,3,2,H,1,1,D
+E1,09/03/99,Norwich City,Port Vale,3,4,A,1,2,A
+E1,09/03/99,Oxford,Huddersfield Town,2,2,D,1,1,D
+E1,09/03/99,Portsmouth,Sheffield United,1,0,H,0,0,D
+E1,09/03/99,Stockport,Swindon,2,1,H,2,0,H
+E1,09/03/99,Tranmere,Birmingham City,0,1,A,0,0,D
+E1,13/03/99,Birmingham City,West Bromwich Albion,4,0,H,1,0,H
+E1,13/03/99,Bolton Wanderers,Queens Park Rangers,2,1,H,1,0,H
+E1,13/03/99,Bradford,Norwich City,4,1,H,4,0,H
+E1,13/03/99,Bury,Barnsley,0,0,D,0,0,D
+E1,13/03/99,Grimsby,Sunderland,0,2,A,0,0,D
+E1,13/03/99,Ipswich,Huddersfield Town,3,0,H,2,0,H
+E1,13/03/99,Oxford,Watford,0,0,D,0,0,D
+E1,13/03/99,Port Vale,Stockport,1,1,D,0,1,A
+E1,13/03/99,Portsmouth,Crystal Palace,1,1,D,0,1,A
+E1,13/03/99,Swindon,Crewe,1,2,A,0,2,A
+E1,13/03/99,Tranmere,Sheffield United,2,3,A,2,0,H
+E1,13/03/99,Wolverhampton Wanderers,Bristol City,3,0,H,1,0,H
+E1,16/03/99,Bury,Wolverhampton Wanderers,0,0,D,0,0,D
+E1,16/03/99,Crewe,Grimsby,0,0,D,0,0,D
+E1,20/03/99,Barnsley,Wolverhampton Wanderers,2,3,A,2,1,H
+E1,20/03/99,Bristol City,Bradford,2,3,A,0,2,A
+E1,20/03/99,Crewe,Oxford,3,1,H,0,0,D
+E1,20/03/99,Crystal Palace,Grimsby,3,1,H,2,1,H
+E1,20/03/99,Huddersfield Town,Birmingham City,1,1,D,0,0,D
+E1,20/03/99,Norwich City,Portsmouth,0,0,D,0,0,D
+E1,20/03/99,Queens Park Rangers,Swindon,4,0,H,0,0,D
+E1,20/03/99,Sheffield United,Port Vale,3,0,H,0,0,D
+E1,20/03/99,Stockport,Tranmere,0,0,D,0,0,D
+E1,20/03/99,Sunderland,Bolton Wanderers,3,1,H,2,0,H
+E1,20/03/99,Watford,Bury,0,0,D,0,0,D
+E1,20/03/99,West Bromwich Albion,Ipswich,0,1,A,0,1,A
+E1,23/03/99,Barnsley,Bristol City,2,0,H,1,0,H
+E1,23/03/99,Port Vale,Grimsby,0,1,A,0,0,D
+E1,24/03/99,Huddersfield Town,Norwich City,1,1,D,0,1,A
+E1,26/03/99,Sheffield United,Oxford,1,2,A,1,1,D
+E1,26/03/99,Tranmere,Crewe,3,0,H,2,0,H
+E1,28/03/99,Crystal Palace,Bradford,1,0,H,1,0,H
+E1,28/03/99,Portsmouth,Barnsley,1,3,A,1,0,H
+E1,30/03/99,Wolverhampton Wanderers,Crewe,3,0,H,2,0,H
+E1,02/04/99,Crewe,Birmingham City,0,0,D,0,0,D
+E1,03/04/99,Barnsley,Sheffield United,2,1,H,1,0,H
+E1,03/04/99,Bradford,Grimsby,3,0,H,1,0,H
+E1,03/04/99,Bristol City,Port Vale,2,0,H,2,0,H
+E1,03/04/99,Norwich City,Crystal Palace,0,1,A,0,1,A
+E1,03/04/99,Oxford,Bolton Wanderers,0,0,D,0,0,D
+E1,03/04/99,Queens Park Rangers,Huddersfield Town,1,1,D,0,0,D
+E1,03/04/99,Stockport,Bury,0,0,D,0,0,D
+E1,03/04/99,Sunderland,West Bromwich Albion,3,0,H,2,0,H
+E1,03/04/99,Swindon,Ipswich,0,6,A,0,4,A
+E1,03/04/99,Watford,Tranmere,2,1,H,0,0,D
+E1,03/04/99,Wolverhampton Wanderers,Portsmouth,2,0,H,0,0,D
+E1,05/04/99,Birmingham City,Watford,1,2,A,0,1,A
+E1,05/04/99,Bolton Wanderers,Stockport,1,2,A,0,1,A
+E1,05/04/99,Bury,Bradford,0,2,A,0,2,A
+E1,05/04/99,Crystal Palace,Sunderland,1,1,D,1,1,D
+E1,05/04/99,Grimsby,Norwich City,0,1,A,0,1,A
+E1,05/04/99,Huddersfield Town,Swindon,1,2,A,0,1,A
+E1,05/04/99,Ipswich,Queens Park Rangers,3,1,H,1,1,D
+E1,05/04/99,Port Vale,Barnsley,1,0,H,1,0,H
+E1,05/04/99,Portsmouth,Bristol City,0,1,A,0,0,D
+E1,05/04/99,Sheffield United,Wolverhampton Wanderers,1,1,D,0,0,D
+E1,05/04/99,Tranmere,Oxford,2,2,D,2,0,H
+E1,05/04/99,West Bromwich Albion,Crewe,1,5,A,0,2,A
+E1,10/04/99,Barnsley,Tranmere,1,1,D,0,1,A
+E1,10/04/99,Bradford,Portsmouth,2,1,H,2,0,H
+E1,10/04/99,Bristol City,Grimsby,4,1,H,2,1,H
+E1,10/04/99,Crewe,Port Vale,0,0,D,0,0,D
+E1,10/04/99,Oxford,Bury,0,1,A,0,1,A
+E1,10/04/99,Queens Park Rangers,West Bromwich Albion,2,1,H,1,1,D
+E1,10/04/99,Stockport,Sheffield United,1,0,H,0,0,D
+E1,10/04/99,Sunderland,Huddersfield Town,2,0,H,2,0,H
+E1,10/04/99,Swindon,Birmingham City,0,1,A,0,0,D
+E1,10/04/99,Watford,Bolton Wanderers,2,0,H,1,0,H
+E1,10/04/99,Wolverhampton Wanderers,Crystal Palace,0,0,D,0,0,D
+E1,11/04/99,Norwich City,Ipswich,0,0,D,0,0,D
+E1,13/04/99,Bolton Wanderers,Bristol City,1,0,H,1,0,H
+E1,13/04/99,Bury,Sunderland,2,5,A,1,4,A
+E1,13/04/99,Grimsby,Queens Park Rangers,1,0,H,0,0,D
+E1,13/04/99,Port Vale,Bradford,1,1,D,1,1,D
+E1,13/04/99,West Bromwich Albion,Swindon,1,1,D,1,1,D
+E1,16/04/99,Barnsley,Sunderland,1,3,A,0,1,A
+E1,17/04/99,Birmingham City,Wolverhampton Wanderers,0,1,A,0,1,A
+E1,17/04/99,Bolton Wanderers,Ipswich,2,0,H,1,0,H
+E1,17/04/99,Bradford,Huddersfield Town,2,3,A,1,3,A
+E1,17/04/99,Crewe,Watford,0,1,A,0,1,A
+E1,17/04/99,Crystal Palace,Swindon,0,1,A,0,0,D
+E1,17/04/99,Grimsby,Bury,0,0,D,0,0,D
+E1,17/04/99,Norwich City,Tranmere,2,2,D,1,1,D
+E1,17/04/99,Port Vale,Oxford,1,0,H,0,0,D
+E1,17/04/99,Sheffield United,Queens Park Rangers,2,0,H,1,0,H
+E1,17/04/99,Stockport,Bristol City,2,2,D,0,0,D
+E1,17/04/99,West Bromwich Albion,Portsmouth,2,2,D,0,2,A
+E1,20/04/99,Birmingham City,Queens Park Rangers,1,0,H,0,0,D
+E1,20/04/99,Grimsby,Sheffield United,1,2,A,0,1,A
+E1,20/04/99,Ipswich,Stockport,1,0,H,1,0,H
+E1,20/04/99,Norwich City,Bolton Wanderers,2,2,D,2,0,H
+E1,23/04/99,Bury,Bolton Wanderers,2,1,H,2,0,H
+E1,24/04/99,Bristol City,Birmingham City,1,2,A,0,0,D
+E1,24/04/99,Huddersfield Town,Barnsley,0,1,A,0,1,A
+E1,24/04/99,Ipswich,Crewe,1,2,A,0,0,D
+E1,24/04/99,Oxford,Norwich City,2,4,A,1,1,D
+E1,24/04/99,Portsmouth,Stockport,3,1,H,2,0,H
+E1,24/04/99,Queens Park Rangers,Bradford,1,3,A,0,1,A
+E1,24/04/99,Sunderland,Sheffield United,0,0,D,0,0,D
+E1,24/04/99,Swindon,Grimsby,2,0,H,1,0,H
+E1,24/04/99,Tranmere,Port Vale,1,1,D,1,0,H
+E1,24/04/99,Watford,Crystal Palace,2,1,H,1,0,H
+E1,25/04/99,Wolverhampton Wanderers,West Bromwich Albion,1,1,D,1,1,D
+E1,27/04/99,Crewe,Bristol City,1,0,H,1,0,H
+E1,27/04/99,Port Vale,Watford,1,2,A,1,1,D
+E1,30/04/99,Bolton Wanderers,Wolverhampton Wanderers,1,1,D,1,0,H
+E1,01/05/99,Barnsley,Watford,2,2,D,0,1,A
+E1,01/05/99,Bradford,Oxford,0,0,D,0,0,D
+E1,01/05/99,Crewe,Portsmouth,3,1,H,3,0,H
+E1,01/05/99,Crystal Palace,Huddersfield Town,2,2,D,1,2,A
+E1,01/05/99,Grimsby,Tranmere,1,0,H,1,0,H
+E1,01/05/99,Norwich City,Swindon,2,1,H,0,0,D
+E1,01/05/99,Port Vale,Queens Park Rangers,2,0,H,1,0,H
+E1,01/05/99,Sheffield United,Bristol City,3,1,H,1,0,H
+E1,01/05/99,Stockport,Sunderland,0,1,A,0,0,D
+E1,01/05/99,West Bromwich Albion,Bury,1,0,H,0,0,D
+E1,02/05/99,Birmingham City,Ipswich,1,0,H,0,0,D
+E1,04/05/99,Grimsby,Wolverhampton Wanderers,0,0,D,0,0,D
+E1,09/05/99,Bristol City,Norwich City,1,0,H,1,0,H
+E1,09/05/99,Bury,Port Vale,1,0,H,0,0,D
+E1,09/05/99,Huddersfield Town,Crewe,0,0,D,0,0,D
+E1,09/05/99,Ipswich,Sheffield United,4,1,H,3,0,H
+E1,09/05/99,Oxford,Stockport,5,0,H,3,0,H
+E1,09/05/99,Portsmouth,Bolton Wanderers,0,2,A,0,1,A
+E1,09/05/99,Queens Park Rangers,Crystal Palace,6,0,H,2,0,H
+E1,09/05/99,Sunderland,Birmingham City,2,1,H,0,1,A
+E1,09/05/99,Swindon,Barnsley,1,3,A,1,2,A
+E1,09/05/99,Tranmere,West Bromwich Albion,3,1,H,2,0,H
+E1,09/05/99,Watford,Grimsby,1,0,H,1,0,H
+E1,09/05/99,Wolverhampton Wanderers,Bradford,2,3,A,1,2,A

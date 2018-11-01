@@ -25,7 +25,7 @@ forklift <- function(country = 'England', tier = '1',
   if(scraped == TRUE) {
     camino <- paste0('scrapy_qa/data/',tolower(country),'/')
   } else {
-    camino <- paste0('data/',tolower(country),'/')
+    camino <- paste0('processed_data/',tolower(country),'/')
   }
   temp <- list.files(path = camino,
                      pattern= patron)

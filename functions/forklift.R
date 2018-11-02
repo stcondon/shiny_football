@@ -1,7 +1,7 @@
 ## Build something that takes inputs and converts to list of data.tables
 library(data.table)
-forklift <- function(country = 'England', tier = '1',
-                   first_year = '1993', last_year = '1993', scraped = FALSE) {
+forklift <- function(country = 'England', tier = '1', first_year = '1993',
+                     last_year = '1993', source = '12xpert'){
   fld <- substr(first_year, 4,4)
   lld <- substr(last_year, 4,4)
   if(as.numeric(first_year) < 2000 && as.numeric(last_year) >= 2010) {
@@ -22,7 +22,7 @@ forklift <- function(country = 'England', tier = '1',
   }
   patron <- paste(country, tier, re, sep = '_')
   ## HERE WE CREATE path VARIABLE
-  if(scraped == TRUE) {
+  if(source == 'espn') {
     camino <- paste0('scrapy_qa/data/',tolower(country),'/')
   } else {
     camino <- paste0('processed_data/',tolower(country),'/')
@@ -30,7 +30,7 @@ forklift <- function(country = 'England', tier = '1',
   temp <- list.files(path = camino,
                      pattern= patron)
   temp <- lapply(paste0(camino, temp), fread)#, fill = TRUE)
-  if(scraped == TRUE) {
+  if(source == 'espn') {
     lapply(temp, function(x) x[!(is.na(x$GP))])
   } else{
     lapply(temp, function(x) x[!(is.na(x$FTHG))])

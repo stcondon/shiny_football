@@ -28,7 +28,6 @@ forklift <- function(country = 'England', tier = '1', first_year = '1993',
   } else {
     camino <- paste0('data/', source, '/raw/', tolower(country),'/')
   }
-
   temp <- list.files(path = camino,
                      pattern= patron)
   temp <- lapply(paste0(camino, temp), fread)#, fill = TRUE)

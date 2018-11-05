@@ -12,4 +12,4 @@ scraped_vs_pulled <- function(scraped_dt, pulled_dt, country = 'England') {
 }
 
 # identical(scraped_dt, tb(pulled_dt))
-## Why didn't ^^ work?, if-else raro
+## Why didn't ^^ work?, if-else = raro

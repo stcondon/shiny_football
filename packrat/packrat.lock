@@ -367,6 +367,11 @@ Version: 0.4-0
 Requires: R6, stringr
 Hash: 04464fecf6dccf1f2ba757c81ffd4bf5
 
+Package: stringdist
+Source: CRAN
+Version: 0.9.5.1
+Hash: dbcc044753e1745d707f20b4b6fa1634
+
 Package: stringi
 Source: CRAN
 Version: 1.1.7
@@ -380,7 +385,7 @@ Hash: b2801fdc391caef2335dbdb1064836bb
 
 Package: testthat
 Source: CRAN
-Version: 2.0.0
+Version: 2.0.1
 Requires: R6, cli, crayon, digest, magrittr, praise, rlang, withr
 
 Package: tibble

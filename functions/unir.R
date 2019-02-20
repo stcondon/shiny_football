@@ -4,8 +4,8 @@ unir <- function(xpert, fte, country = 'England') {
   team_names <- merge(team_names, fte, by.x = 'fte', by.y = 'team1',
                       all.x = TRUE, all.y = FALSE)
   xpert$Date <- as.Date.character(xpert$Date, '%d/%m/%y')
-  xpert <- merge(xpert, team_names, by.x = c('HomeTeam','Date'),
-                 by.y = c('xpert', 'date'), all.x = TRUE, all.y = FALSE)
+  merge(xpert, team_names, by.x = c('HomeTeam','Date'),
+        by.y = c('xpert', 'date'), all.x = TRUE, all.y = FALSE)
 }
 
 # xpert <- forklift(first_year = '2017', last_year = '2017', processed = FALSE)[[1]]
